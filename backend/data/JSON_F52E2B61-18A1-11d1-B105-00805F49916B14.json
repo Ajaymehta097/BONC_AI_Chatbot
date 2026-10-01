@@ -1,0 +1,4430 @@
+﻿[
+  {
+    "Id": "53E42F8A-AA35-4E36-956B-006040C23785",
+    "CompanyId": "E2D5B6D0-ECBD-493B-94D1-1938A7C343C2",
+    "RangeName": "Traditional Namkeen:",
+    "Description": "Assorted savory mixtures, bhujia, and regional specialties",
+    "SortOrder": 0,
+    "IsDeleted": false,
+    "CreatedAt": "2026-06-13T09:02:29.2295620",
+    "UpdatedAt": "2026-08-09T09:09:57.3814582"
+  },
+  {
+    "Id": "8FEB11B0-3757-46F9-BF16-00D23B2D9E6D",
+    "CompanyId": "5DAE9B12-CAE7-4C71-996C-F95889A55818",
+    "RangeName": "Ceramic Sanitaryware",
+    "Description": "Durable and elegant bathroom essentials",
+    "SortOrder": 3,
+    "IsDeleted": false,
+    "CreatedAt": "2026-06-19T09:58:10.7305557",
+    "UpdatedAt": "2026-08-09T11:14:39.9415331"
+  },
+  {
+    "Id": "56070402-2BB6-4848-9EEA-01D34E7A2901",
+    "CompanyId": "7477DE84-EDD1-4C52-A086-DF0117674517",
+    "RangeName": "Stainless Steel Hinges",
+    "Description": "Corrosion-resistant hardware fittings",
+    "SortOrder": 2,
+    "IsDeleted": false,
+    "CreatedAt": "2026-06-19T05:24:21.9855484",
+    "UpdatedAt": "2026-08-09T11:08:47.0087371"
+  },
+  {
+    "Id": "5CAE0E13-619C-4AEC-BA10-02A0EAFB8FD5",
+    "CompanyId": "DB1478B8-BC04-4701-A5FE-376DDD4EA271",
+    "RangeName": "Bike Spare Parts",
+    "Description": "Replacement parts for motorcycles",
+    "SortOrder": 2,
+    "IsDeleted": false,
+    "CreatedAt": "2026-06-18T09:42:47.8023500",
+    "UpdatedAt": "2026-08-09T11:07:57.9632383"
+  },
+  {
+    "Id": "3FEED69C-9A27-447F-9128-02E0B0D8155A",
+    "CompanyId": "E9A62FCB-C467-403B-979A-2392D0955DBF",
+    "RangeName": "Precision Window Frames:",
+    "Description": "High-stability frames for perfect installation fits.",
+    "SortOrder": 1,
+    "IsDeleted": false,
+    "CreatedAt": "2026-06-16T06:29:36.3409177",
+    "UpdatedAt": "2026-08-09T09:13:19.9393368"
+  },
+  {
+    "Id": "5ABAD85F-5970-43EB-872D-03F1D1B992EE",
+    "CompanyId": "7FCE89B7-9100-4E90-87CE-8DB322B0A40F",
+    "RangeName": "Wooden Beds",
+    "Description": "Durable and stylish wooden bed frames",
+    "SortOrder": 1,
+    "IsDeleted": false,
+    "CreatedAt": "2026-06-18T09:59:36.5565653",
+    "UpdatedAt": "2026-06-18T10:03:40.8324624"
+  },
+  {
+    "Id": "2B1F7056-0403-4053-A327-04FD4F9445E8",
+    "CompanyId": "41F155A0-52E9-482F-9F76-66191E7A69AC",
+    "RangeName": "Aluminum Channels",
+    "Description": "Structural and framework solutions",
+    "SortOrder": 0,
+    "IsDeleted": false,
+    "CreatedAt": "2026-06-17T10:15:09.7409118"
+  },
+  {
+    "Id": "3E0A8468-986C-42BB-B673-050943F6F649",
+    "CompanyId": "CDA24D2F-59B5-44C5-B465-64A8EE7FAC59",
+    "RangeName": "MS Square Pipe",
+    "Description": "",
+    "SortOrder": 3,
+    "IsDeleted": false,
+    "CreatedAt": "2026-05-27T13:00:20.2672085",
+    "UpdatedAt": "2026-08-09T08:14:11.6469499"
+  },
+  {
+    "Id": "AA8D8A29-4465-486E-874F-054962D625D0",
+    "CompanyId": "FC93358A-3AB7-4409-B7DD-E02DA5CC4B2A",
+    "RangeName": "Table Top Basins",
+    "Description": "Contemporary countertop basin designs",
+    "SortOrder": 1,
+    "IsDeleted": false,
+    "CreatedAt": "2026-06-19T09:38:54.8929026"
+  },
+  {
+    "Id": "AFE807F9-F716-47E3-A135-05EF2746B911",
+    "CompanyId": "4DA5DF6A-8EEF-4A2F-A79A-59BDCF515342",
+    "RangeName": "Healthcare Products",
+    "Description": "Products supporting health and wellness",
+    "SortOrder": 0,
+    "IsDeleted": false,
+    "CreatedAt": "2026-06-19T10:10:45.9851448",
+    "UpdatedAt": "2026-08-09T11:15:51.8552202"
+  },
+  {
+    "Id": "2965CA62-2BC8-4402-91F5-0724F5B6CB2F",
+    "CompanyId": "052C3193-DF0C-426A-8879-1F1EB0909326",
+    "RangeName": "Plywood",
+    "Description": "Premium plywood for furniture and interiors",
+    "SortOrder": 0,
+    "IsDeleted": false,
+    "CreatedAt": "2026-06-17T05:14:17.7349754"
+  },
+  {
+    "Id": "7E231621-32F3-498C-8159-072E75A16629",
+    "CompanyId": "5CDCADCD-660E-4E24-950B-FB455DE03A89",
+    "RangeName": "Ceramic Tiles",
+    "Description": "Durable floor and wall tile solutions",
+    "SortOrder": 0,
+    "IsDeleted": false,
+    "CreatedAt": "2026-06-19T08:06:54.1080018",
+    "UpdatedAt": "2026-08-09T11:10:24.9100731"
+  },
+  {
+    "Id": "8AB167F9-2CBA-42AC-953F-077BFFB18671",
+    "CompanyId": "CFB3C2B5-0166-4366-AC66-3F50300394AD",
+    "RangeName": "Beds & Bed Frames:",
+    "Description": "Ergonomic, high-strength frames designed for comfort and longevity.",
+    "SortOrder": 0,
+    "IsDeleted": false,
+    "CreatedAt": "2026-06-16T08:27:04.2644119"
+  },
+  {
+    "Id": "F3BCA45B-94A6-4A26-B7B8-08F1C5858723",
+    "CompanyId": "7FCE89B7-9100-4E90-87CE-8DB322B0A40F",
+    "RangeName": "Designer Bedroom Sets",
+    "Description": "Complete coordinated bedroom furniture",
+    "SortOrder": 0,
+    "IsDeleted": false,
+    "CreatedAt": "2026-06-18T09:59:36.5442618",
+    "UpdatedAt": "2026-06-18T10:03:40.8254716"
+  },
+  {
+    "Id": "7251EE9D-7F74-4090-AADB-09D35B4095E5",
+    "CompanyId": "B3CD53E6-3502-4C4A-BED3-680511FE8CE7",
+    "RangeName": "Chargers",
+    "Description": "Standard and fast-charging solutions",
+    "SortOrder": 2,
+    "IsDeleted": false,
+    "CreatedAt": "2026-06-19T09:06:50.4700968"
+  },
+  {
+    "Id": "9B7CACA2-4E3D-4B4A-A8CE-0A74A8A24398",
+    "CompanyId": "A5C3FAEB-8DD8-4D06-9846-70F171B9F8E4",
+    "RangeName": "Marble Tiles",
+    "Description": "Elegant natural stone flooring solutions",
+    "SortOrder": 0,
+    "IsDeleted": false,
+    "CreatedAt": "2026-06-19T08:29:31.3314471"
+  },
+  {
+    "Id": "0E556537-0BE3-43C9-91E6-0AA3B2041696",
+    "CompanyId": "5A7C06F9-FCE3-4649-961C-40EC457DAC03",
+    "RangeName": "Steel Pipes",
+    "Description": "Durable pipes for industrial applications",
+    "SortOrder": 0,
+    "IsDeleted": false,
+    "CreatedAt": "2026-06-19T08:58:50.9527085",
+    "UpdatedAt": "2026-08-09T11:11:56.4326040"
+  },
+  {
+    "Id": "E22D66F1-1B2E-43EB-9CBD-0B1386BA488F",
+    "CompanyId": "DB1478B8-BC04-4701-A5FE-376DDD4EA271",
+    "RangeName": "Helmets",
+    "Description": "Protective riding helmets for safety",
+    "SortOrder": 0,
+    "IsDeleted": false,
+    "CreatedAt": "2026-06-18T09:42:47.7930252",
+    "UpdatedAt": "2026-08-09T11:07:57.9547281"
+  },
+  {
+    "Id": "ECBE44AD-F23F-4E84-A9DB-0B6F3E675DF5",
+    "CompanyId": "5A1D53DC-FABD-435B-8044-39E78B8F21E5",
+    "RangeName": "Engine Spares:",
+    "Description": "High-quality replacement parts for routine maintenance and repair",
+    "SortOrder": 2,
+    "IsDeleted": false,
+    "CreatedAt": "2026-06-16T07:35:52.3956894"
+  },
+  {
+    "Id": "DF652414-D23B-463A-8F1F-0B987491141F",
+    "CompanyId": "D5A9FACF-6CE4-4096-A306-89E67C6F4E54",
+    "RangeName": "Nuts & Bolts",
+    "Description": "Standard and specialized fasteners",
+    "SortOrder": 1,
+    "IsDeleted": false,
+    "CreatedAt": "2026-06-19T07:53:18.9452251"
+  },
+  {
+    "Id": "19DB4B17-3B3F-4342-B197-0BEBDCC4FFD0",
+    "CompanyId": "CDE9D210-D0C1-4295-BBE7-43E9BE58FF8F",
+    "RangeName": "Core Illumination:",
+    "Description": "Energy-saving LED Bulbs and high-intensity Tube Lights",
+    "SortOrder": 0,
+    "IsDeleted": false,
+    "CreatedAt": "2026-06-13T10:25:03.3603208",
+    "UpdatedAt": "2026-08-09T09:12:42.7871749"
+  },
+  {
+    "Id": "EAF6FAAD-403A-49E7-B889-0C44C8509794",
+    "CompanyId": "197097C3-8E6E-4EFD-B1B3-80B6B98F7498",
+    "RangeName": "Mustard Oil",
+    "Description": "Pure mustard oil for cooking and food preparation",
+    "SortOrder": 1,
+    "IsDeleted": false,
+    "CreatedAt": "2026-06-18T06:15:50.5519557",
+    "UpdatedAt": "2026-08-09T10:58:19.4156326"
+  },
+  {
+    "Id": "E25FCE3F-B030-4FD9-835D-0C8FDFDAC4BE",
+    "CompanyId": "080A5374-12D7-469F-AF26-A954B04E52B2",
+    "RangeName": "Furniture Materials",
+    "Description": "Quality products for furniture manufacturing",
+    "SortOrder": 2,
+    "IsDeleted": false,
+    "CreatedAt": "2026-06-17T08:04:13.9146677"
+  },
+  {
+    "Id": "798CA6FD-B3C1-4959-9619-0C95D34F5CBB",
+    "CompanyId": "0A70184D-DCB8-4A80-B850-2714FA296F5F",
+    "RangeName": "Domestic Fans",
+    "Description": "Energy-efficient and durable cooling fans",
+    "SortOrder": 0,
+    "IsDeleted": false,
+    "CreatedAt": "2026-06-22T10:28:03.3123941",
+    "UpdatedAt": "2026-08-09T11:36:27.6574699"
+  },
+  {
+    "Id": "C9AF422A-4FD2-40D0-8FE8-0D1ED75C5153",
+    "CompanyId": "1EF3E696-86EF-413B-AE71-A071288E807E",
+    "RangeName": "Electrical Control Panels",
+    "Description": "Power control and distribution solutions",
+    "SortOrder": 3,
+    "IsDeleted": false,
+    "CreatedAt": "2026-06-22T08:39:46.6391509",
+    "UpdatedAt": "2026-08-09T11:28:17.5179415"
+  },
+  {
+    "Id": "577D08CD-EDFE-43CA-B2AC-0D51C5A5A76F",
+    "CompanyId": "69399018-BD21-4577-B348-CBE046C3F6B1",
+    "RangeName": "Luminaires",
+    "Description": "High-quality indoor and outdoor lighting fixtures",
+    "SortOrder": 0,
+    "IsDeleted": false,
+    "CreatedAt": "2026-06-18T08:27:34.4888884",
+    "UpdatedAt": "2026-08-09T11:06:59.4076860"
+  },
+  {
+    "Id": "DC54E70B-85EF-45AB-BA43-0E301CE8B178",
+    "CompanyId": "CA788667-C129-4295-A265-EF2F6FAEE9C2",
+    "RangeName": "Enamelled Copper Winding Wire",
+    "Description": "High-conductivity insulated winding wire",
+    "SortOrder": 0,
+    "IsDeleted": false,
+    "CreatedAt": "2026-06-19T10:35:13.0177752",
+    "UpdatedAt": "2026-08-09T11:18:18.5010023"
+  },
+  {
+    "Id": "0B4C8EC5-4D48-43B4-ADD1-0E908F1166AB",
+    "CompanyId": "D96A6FF3-33B2-4AC7-97BB-7AF5CFE97D1A",
+    "RangeName": "Inventory Management Systems",
+    "Description": "Stock tracking and inventory control solutions",
+    "SortOrder": 1,
+    "IsDeleted": false,
+    "CreatedAt": "2026-06-19T10:18:39.8704210",
+    "UpdatedAt": "2026-07-13T18:49:53.5905123"
+  },
+  {
+    "Id": "D289DB89-80BE-49DC-BBED-0F7AA6041623",
+    "CompanyId": "9BB8BD36-FF85-4E2C-B7F9-C7926FEEEAA7",
+    "RangeName": "Multivitamin Supplements",
+    "Description": "Daily nutritional support for overall wellness",
+    "SortOrder": 0,
+    "IsDeleted": false,
+    "CreatedAt": "2026-06-22T10:16:11.4145515",
+    "UpdatedAt": "2026-08-09T11:35:55.8258082"
+  },
+  {
+    "Id": "BECFCB0D-186B-43E8-AE1E-118604374F73",
+    "CompanyId": "28047682-FFF6-4EAB-A3C0-9E8CB1941A22",
+    "RangeName": "Ready-to-Eat Meals",
+    "Description": "Convenient meals ready for quick consumption",
+    "SortOrder": 0,
+    "IsDeleted": false,
+    "CreatedAt": "2026-06-18T08:39:01.2353741",
+    "UpdatedAt": "2026-08-09T09:07:42.2522507"
+  },
+  {
+    "Id": "3F08BBF5-BFF7-44F0-93E9-1211141F1CD6",
+    "CompanyId": "8F506CBF-1637-4A3F-8C5A-0A7BC65238E8",
+    "RangeName": "Maize",
+    "Description": "Premium maize for food and industrial applications",
+    "SortOrder": 2,
+    "IsDeleted": false,
+    "CreatedAt": "2026-06-17T09:07:30.1279429"
+  },
+  {
+    "Id": "1B2B4435-9FDE-4541-9358-12ED2BB86DA5",
+    "CompanyId": "1742482C-124A-43A5-9281-0B8A20E470C9",
+    "RangeName": "Stone Tiles",
+    "Description": "Durable natural stone tiles for multiple applications",
+    "SortOrder": 0,
+    "IsDeleted": false,
+    "CreatedAt": "2026-06-22T08:33:34.8167260",
+    "UpdatedAt": "2026-08-09T11:28:49.1738945"
+  },
+  {
+    "Id": "DBE75B42-F53E-4433-8319-1314EE693026",
+    "CompanyId": "E48245BC-098D-475F-A4B6-1AE929588594",
+    "RangeName": "LED Street Lights",
+    "Description": "Energy-efficient road and street lighting",
+    "SortOrder": 1,
+    "IsDeleted": false,
+    "CreatedAt": "2026-06-18T06:21:54.5867549",
+    "UpdatedAt": "2026-08-09T10:58:54.7721031"
+  },
+  {
+    "Id": "5074A02B-FD6C-4035-9235-13DAF56B1BF1",
+    "CompanyId": "D7EA9EB1-2FD2-4971-AFA3-CC16B2484BA3",
+    "RangeName": "Wellness Bath Systems",
+    "Description": "Comfort-focused bathing products",
+    "SortOrder": 3,
+    "IsDeleted": false,
+    "CreatedAt": "2026-06-17T05:47:14.0768029",
+    "UpdatedAt": "2026-08-09T10:42:16.3932804"
+  },
+  {
+    "Id": "2728947E-B487-413E-A181-158C9B47E71F",
+    "CompanyId": "7AB39020-D832-4450-A3FE-4508298640E6",
+    "RangeName": "Business PCs",
+    "Description": "Performance-driven computing for enterprises",
+    "SortOrder": 1,
+    "IsDeleted": false,
+    "CreatedAt": "2026-06-22T09:19:45.9506456"
+  },
+  {
+    "Id": "24988E84-896F-41F5-8A5D-15A48234F09F",
+    "CompanyId": "E2D5B6D0-ECBD-493B-94D1-1938A7C343C2",
+    "RangeName": "Bulk Food Solutions:",
+    "Description": "High-volume packaging designed for retail shelves and bulk distribution.",
+    "SortOrder": 2,
+    "IsDeleted": false,
+    "CreatedAt": "2026-06-13T09:02:29.2359461",
+    "UpdatedAt": "2026-08-09T09:09:57.3914272"
+  },
+  {
+    "Id": "0FDDA326-2290-4444-8B78-15C88A94D109",
+    "CompanyId": "DCB4E01A-3429-41AC-BB38-F657861BBCCF",
+    "RangeName": "Pain Relief Medicines",
+    "Description": "Solutions for pain relief and comfort",
+    "SortOrder": 1,
+    "IsDeleted": false,
+    "CreatedAt": "2026-06-17T08:26:25.8949286"
+  },
+  {
+    "Id": "7EBAA5B1-9389-4F9D-9388-15E74E0554A5",
+    "CompanyId": "7AB39020-D832-4450-A3FE-4508298640E6",
+    "RangeName": "Gaming PCs",
+    "Description": "High-speed systems for gaming enthusiasts",
+    "SortOrder": 2,
+    "IsDeleted": false,
+    "CreatedAt": "2026-06-22T09:19:45.9549496"
+  },
+  {
+    "Id": "07EFC453-824E-4EB6-96B7-1645142312B9",
+    "CompanyId": "A6B85305-F84B-47B1-BC4D-5C23F698C044",
+    "RangeName": "Stainless Steel Hinges",
+    "Description": "Corrosion-resistant premium hinges",
+    "SortOrder": 2,
+    "IsDeleted": false,
+    "CreatedAt": "2026-06-19T08:53:45.4479137"
+  },
+  {
+    "Id": "AFC70B15-7AC4-45B7-92A8-169F708083EE",
+    "CompanyId": "326D44CA-0758-45EA-A6B4-F4357B458041",
+    "RangeName": "Heat Pumps",
+    "Description": "Energy-efficient water heating technology",
+    "SortOrder": 2,
+    "IsDeleted": false,
+    "CreatedAt": "2026-06-18T08:23:30.7491617",
+    "UpdatedAt": "2026-08-09T11:06:35.7242669"
+  },
+  {
+    "Id": "13864D4B-1BCC-4B79-BF3F-16D01F1E7EFB",
+    "CompanyId": "077E9EF7-BCF3-4CC8-9441-A20259E2741B",
+    "RangeName": "Natural Wood",
+    "Description": "Premium timber for construction and furniture",
+    "SortOrder": 0,
+    "IsDeleted": false,
+    "CreatedAt": "2026-06-18T06:44:11.4025254",
+    "UpdatedAt": "2026-08-09T11:01:03.6130906"
+  },
+  {
+    "Id": "84A3371F-ADCF-4C6A-B422-16E0AE3F9961",
+    "CompanyId": "5DAE9B12-CAE7-4C71-996C-F95889A55818",
+    "RangeName": "Designer Wash Basins",
+    "Description": "Premium basins for modern bathrooms",
+    "SortOrder": 0,
+    "IsDeleted": false,
+    "CreatedAt": "2026-06-19T09:58:10.6369850",
+    "UpdatedAt": "2026-08-09T11:14:39.9263473"
+  },
+  {
+    "Id": "D7AD99E5-3485-4E6A-A857-174F54AC8F4A",
+    "CompanyId": "28047682-FFF6-4EAB-A3C0-9E8CB1941A22",
+    "RangeName": "Instant Breakfast Mixes",
+    "Description": "Easy-to-prepare breakfast solutions",
+    "SortOrder": 1,
+    "IsDeleted": false,
+    "CreatedAt": "2026-06-18T08:39:01.3084757",
+    "UpdatedAt": "2026-08-09T09:07:42.2583551"
+  },
+  {
+    "Id": "FFA8B7F7-C5C9-4882-B5FC-18988633F71B",
+    "CompanyId": "BC9A89AA-ADE7-4B0E-9CE0-44B4F017FED2",
+    "RangeName": "Commercial Plywood",
+    "Description": "Durable plywood for general applications",
+    "SortOrder": 1,
+    "IsDeleted": false,
+    "CreatedAt": "2026-06-17T05:21:41.2914225"
+  },
+  {
+    "Id": "C3ED6384-0F24-412E-A7A6-18ABE02F2740",
+    "CompanyId": "12687ED6-5059-4A58-B74C-73EE0679EF38",
+    "RangeName": "PVC Sheets",
+    "Description": "Strong and versatile PVC sheet solutions",
+    "SortOrder": 2,
+    "IsDeleted": false,
+    "CreatedAt": "2026-06-18T08:14:29.9610127",
+    "UpdatedAt": "2026-08-09T11:05:57.9860694"
+  },
+  {
+    "Id": "C94B2CF7-2A37-4492-BF7F-18B10F8730A2",
+    "CompanyId": "BC9A89AA-ADE7-4B0E-9CE0-44B4F017FED2",
+    "RangeName": "Furniture Materials",
+    "Description": "Quality products for furniture manufacturing",
+    "SortOrder": 3,
+    "IsDeleted": false,
+    "CreatedAt": "2026-06-17T05:21:41.2966357"
+  },
+  {
+    "Id": "6EB4D96A-2D75-4EDC-B77B-1A4982888A5F",
+    "CompanyId": "6401FB28-8BBF-4351-B503-8A0A66DCBCC3",
+    "RangeName": "Carbon Film Resistors",
+    "Description": "",
+    "SortOrder": 0,
+    "IsDeleted": false,
+    "CreatedAt": "2026-08-09T08:48:38.0667270"
+  },
+  {
+    "Id": "FB6A10B4-97D4-4C57-8F18-1A5C4AA5ED64",
+    "CompanyId": "B80526D6-03D3-4877-848C-0DC2D7DEF7DB",
+    "RangeName": "Storage Racks & Shelving Systems",
+    "Description": "",
+    "SortOrder": 1,
+    "IsDeleted": false,
+    "CreatedAt": "2026-06-17T07:42:12.8483423"
+  },
+  {
+    "Id": "ABCCF89A-D7A2-4856-9778-1B0CEC8AC96A",
+    "CompanyId": "B3CD53E6-3502-4C4A-BED3-680511FE8CE7",
+    "RangeName": "USB Cables",
+    "Description": "Durable charging and connectivity cables",
+    "SortOrder": 3,
+    "IsDeleted": false,
+    "CreatedAt": "2026-06-19T09:06:50.4786642"
+  },
+  {
+    "Id": "915EF7DF-EBE2-4C84-8599-1B450BAC5650",
+    "CompanyId": "8F506CBF-1637-4A3F-8C5A-0A7BC65238E8",
+    "RangeName": "Wheat",
+    "Description": "Quality grains for flour and food processing",
+    "SortOrder": 1,
+    "IsDeleted": false,
+    "CreatedAt": "2026-06-17T09:07:30.1248536"
+  },
+  {
+    "Id": "AFF35EBE-F2AD-480D-9609-1CD813BA06F6",
+    "CompanyId": "568DC3A7-336A-413A-943D-873E6B32D17C",
+    "RangeName": "Fast Chargers",
+    "Description": "High-speed charging accessories",
+    "SortOrder": 3,
+    "IsDeleted": false,
+    "CreatedAt": "2026-06-22T06:17:24.2357756",
+    "UpdatedAt": "2026-08-09T11:26:16.7984322"
+  },
+  {
+    "Id": "3DEE0762-6581-4963-B694-1E772AFF10E2",
+    "CompanyId": "D19C831D-EA5A-4879-9A06-8B5A5CFF5116",
+    "RangeName": "Electrical Transformer Components",
+    "Description": "Precision-engineered transformer parts",
+    "SortOrder": 4,
+    "IsDeleted": false,
+    "CreatedAt": "2026-06-19T06:11:16.2867607",
+    "UpdatedAt": "2026-06-19T07:05:36.7947916"
+  },
+  {
+    "Id": "313F333B-454F-431A-9874-1F94243FC3FF",
+    "CompanyId": "EEDB378F-43E8-4118-8D33-D51CB2ADD143",
+    "RangeName": "realme Smartphones",
+    "Description": "Performance-driven smartphones for modern users",
+    "SortOrder": 1,
+    "IsDeleted": false,
+    "CreatedAt": "2026-06-22T08:59:19.4482108",
+    "UpdatedAt": "2026-08-09T11:32:39.8104458"
+  },
+  {
+    "Id": "2916F589-DDE5-4A0B-9B4D-1FA23A29BAC4",
+    "CompanyId": "197097C3-8E6E-4EFD-B1B3-80B6B98F7498",
+    "RangeName": "Refined Edible Oils",
+    "Description": "High-quality cooking oils for daily use",
+    "SortOrder": 0,
+    "IsDeleted": false,
+    "CreatedAt": "2026-06-18T06:15:50.5453138",
+    "UpdatedAt": "2026-08-09T10:58:19.4109637"
+  },
+  {
+    "Id": "0BF6169D-25BF-462E-BE72-1FC160E1A690",
+    "CompanyId": "26322C8E-704B-4AE1-B260-55B513FBC7AA",
+    "RangeName": "Mobile Phones",
+    "Description": "Smartphones from leading brands",
+    "SortOrder": 0,
+    "IsDeleted": false,
+    "CreatedAt": "2026-06-17T05:07:55.4336527",
+    "UpdatedAt": "2026-08-09T10:40:05.6294910"
+  },
+  {
+    "Id": "613F3305-7FE2-4B0B-8915-20A844DB42EE",
+    "CompanyId": "314D48B7-6184-412D-B2F9-450463E0305C",
+    "RangeName": "Decorative & Industrial Paints",
+    "Description": "",
+    "SortOrder": 1,
+    "IsDeleted": false,
+    "CreatedAt": "2026-06-11T19:03:09.5223081",
+    "UpdatedAt": "2026-06-11T19:41:35.3781459"
+  },
+  {
+    "Id": "FA0AC961-6CDE-488A-A287-21F5E0FC9E55",
+    "CompanyId": "14B75CA5-1518-4DB7-B95D-F6195DCCFFD5",
+    "RangeName": "Belt Conveyors",
+    "Description": "Bulk material transportation systems",
+    "SortOrder": 0,
+    "IsDeleted": false,
+    "CreatedAt": "2026-06-17T07:24:15.7077841",
+    "UpdatedAt": "2026-08-09T10:47:04.0680507"
+  },
+  {
+    "Id": "F076B539-9E35-4B32-A1D8-221EF2766B2D",
+    "CompanyId": "CDA24D2F-59B5-44C5-B465-64A8EE7FAC59",
+    "RangeName": "Bansal GI Pipe (Galvanized Iron Pipe)",
+    "Description": "",
+    "SortOrder": 1,
+    "IsDeleted": false,
+    "CreatedAt": "2026-05-27T13:00:20.2563530",
+    "UpdatedAt": "2026-08-09T08:14:11.6373131"
+  },
+  {
+    "Id": "CD2791D5-76B1-4620-90A8-226F1A2067F5",
+    "CompanyId": "643141CD-B267-4CBF-B1D9-4599306F9E2E",
+    "RangeName": "LED Bulbs",
+    "Description": "Energy-efficient lighting for homes and offices",
+    "SortOrder": 0,
+    "IsDeleted": false,
+    "CreatedAt": "2026-06-22T09:44:30.0542972",
+    "UpdatedAt": "2026-08-09T11:33:52.5030948"
+  },
+  {
+    "Id": "87B9ED52-A037-4D4C-B1AB-22B541AA3AAD",
+    "CompanyId": "59453AA7-1215-40B8-B783-CCBE33EE16D8",
+    "RangeName": "Cabling:",
+    "Description": "High-grade wiring and industrial cables",
+    "SortOrder": 1,
+    "IsDeleted": false,
+    "CreatedAt": "2026-06-16T08:54:40.5716383",
+    "UpdatedAt": "2026-08-09T10:39:20.8968430"
+  },
+  {
+    "Id": "79CA557A-848C-4B59-8544-22C2C26DE5B2",
+    "CompanyId": "4AD38B61-A66B-4010-AB88-B6F5D33A014F",
+    "RangeName": "RO System Services",
+    "Description": "Installation, maintenance, and servicing",
+    "SortOrder": 3,
+    "IsDeleted": false,
+    "CreatedAt": "2026-06-22T06:05:51.7199660",
+    "UpdatedAt": "2026-08-09T11:23:43.1099588"
+  },
+  {
+    "Id": "94D50CA1-AC30-4E22-A891-22C8741A2EF3",
+    "CompanyId": "2A46A0A3-E514-4C7A-B16D-CCE73472A426",
+    "RangeName": "Production Equipment",
+    "Description": "Solutions for efficient production workflows",
+    "SortOrder": 3,
+    "IsDeleted": false,
+    "CreatedAt": "2026-06-22T05:40:17.2026269",
+    "UpdatedAt": "2026-08-09T11:22:16.1640608"
+  },
+  {
+    "Id": "63D01373-0BD6-4755-91A8-23059C19CC93",
+    "CompanyId": "080A5374-12D7-469F-AF26-A954B04E52B2",
+    "RangeName": "Wood Products",
+    "Description": "Quality timber and wood materials",
+    "SortOrder": 0,
+    "IsDeleted": false,
+    "CreatedAt": "2026-06-17T08:04:13.8691596"
+  },
+  {
+    "Id": "016BC87C-7478-46BE-9873-2307C5192726",
+    "CompanyId": "79A6FCC6-01D7-4184-B7BE-B057298B16C3",
+    "RangeName": "Safety Goggles & Face Shields",
+    "Description": "Eye and face protection equipment",
+    "SortOrder": 3,
+    "IsDeleted": false,
+    "CreatedAt": "2026-06-17T06:55:42.6232574",
+    "UpdatedAt": "2026-08-09T10:46:08.3529399"
+  },
+  {
+    "Id": "845A3DAF-6028-4CFC-A9A3-23104BE17EB4",
+    "CompanyId": "8C19180C-FEFC-45AA-8A8A-E8E5851C4A9B",
+    "RangeName": "Domestic Priority:",
+    "Description": "Fast, time-definite air express delivery across India",
+    "SortOrder": 0,
+    "IsDeleted": false,
+    "CreatedAt": "2026-06-16T08:37:42.4642661",
+    "UpdatedAt": "2026-08-09T10:37:38.9640350"
+  },
+  {
+    "Id": "36E5788A-CA91-4A15-94D8-233BACE2992C",
+    "CompanyId": "B80526D6-03D3-4877-848C-0DC2D7DEF7DB",
+    "RangeName": "Office Metal Furniture",
+    "Description": "",
+    "SortOrder": 3,
+    "IsDeleted": false,
+    "CreatedAt": "2026-06-17T07:42:12.8594185"
+  },
+  {
+    "Id": "58CA91C8-838B-4B43-B4D3-2524D71613BA",
+    "CompanyId": "7AAAB743-FEFE-45E4-89AF-F3DB1550F718",
+    "RangeName": "Indian Marble",
+    "Description": "Elegant natural stone for interiors",
+    "SortOrder": 0,
+    "IsDeleted": false,
+    "CreatedAt": "2026-06-22T08:23:57.0932189",
+    "UpdatedAt": "2026-08-09T11:30:29.7049414"
+  },
+  {
+    "Id": "8F6ABA05-F222-4B38-8135-25603375E962",
+    "CompanyId": "A7B48AA5-C7DA-44B3-8E11-FE16A3A3246D",
+    "RangeName": "Resistors",
+    "Description": "All range of Carbon Film and Metal Film Resistors",
+    "SortOrder": 0,
+    "IsDeleted": false,
+    "CreatedAt": "2026-06-13T06:29:02.9228241",
+    "UpdatedAt": "2026-08-09T08:31:17.5557876"
+  },
+  {
+    "Id": "1D956DB2-D4EC-482C-95CF-272D41202387",
+    "CompanyId": "4AD38B61-A66B-4010-AB88-B6F5D33A014F",
+    "RangeName": "Oil Cooler Cleaning",
+    "Description": "Industrial oil cooler maintenance services",
+    "SortOrder": 2,
+    "IsDeleted": false,
+    "CreatedAt": "2026-06-22T06:05:51.7177776",
+    "UpdatedAt": "2026-08-09T11:23:43.1058308"
+  },
+  {
+    "Id": "D96D8EB6-E07D-40D4-8514-2780888500BD",
+    "CompanyId": "DDFDD5D4-07AA-46C2-B631-0FF07C388E08",
+    "RangeName": "Processing Machinery",
+    "Description": "Solutions for industrial processing applications",
+    "SortOrder": 2,
+    "IsDeleted": false,
+    "CreatedAt": "2026-06-22T05:46:31.3996925",
+    "UpdatedAt": "2026-08-09T11:23:16.9897774"
+  },
+  {
+    "Id": "2B96B3B4-3B62-4C82-B99B-27B20EA3CF47",
+    "CompanyId": "BC9A89AA-ADE7-4B0E-9CE0-44B4F017FED2",
+    "RangeName": "Natural Wood",
+    "Description": "Quality timber for furniture and construction",
+    "SortOrder": 0,
+    "IsDeleted": false,
+    "CreatedAt": "2026-06-17T05:21:41.2860017"
+  },
+  {
+    "Id": "632364A3-2067-4B7B-B2AC-27D5123540A2",
+    "CompanyId": "1D9B8133-A3A3-48AC-B2FF-920F1AFB16F6",
+    "RangeName": "Wooden Beds",
+    "Description": "Single, double, and king-size bed solutions",
+    "SortOrder": 0,
+    "IsDeleted": false,
+    "CreatedAt": "2026-06-22T10:32:19.6271716",
+    "UpdatedAt": "2026-08-09T11:36:51.1004843"
+  },
+  {
+    "Id": "469549A8-EA14-4E06-9C22-28633153F3DE",
+    "CompanyId": "DB1478B8-BC04-4701-A5FE-376DDD4EA271",
+    "RangeName": "Motorcycle Accessories",
+    "Description": "Accessories for enhanced riding experience",
+    "SortOrder": 1,
+    "IsDeleted": false,
+    "CreatedAt": "2026-06-18T09:42:47.7985749",
+    "UpdatedAt": "2026-08-09T11:07:57.9590869"
+  },
+  {
+    "Id": "37041650-779C-4E84-940D-287691225126",
+    "CompanyId": "EF5D7384-77C6-4F86-9F01-EB3BF59F7FC1",
+    "RangeName": "Tractors",
+    "Description": "High-performance agricultural tractors",
+    "SortOrder": 0,
+    "IsDeleted": false,
+    "CreatedAt": "2026-06-17T07:37:17.2124961",
+    "UpdatedAt": "2026-08-09T10:48:37.1988377"
+  },
+  {
+    "Id": "3D65DD9C-51D4-4850-B4E5-2933C536E265",
+    "CompanyId": "204A50C5-EAC1-4B4D-9FC9-C4106AC25D0A",
+    "RangeName": "Portable Bluetooth Speakers",
+    "Description": "Wireless speakers for everyday use",
+    "SortOrder": 1,
+    "IsDeleted": false,
+    "CreatedAt": "2026-06-17T07:47:08.5840181",
+    "UpdatedAt": "2026-08-09T10:49:12.5910344"
+  },
+  {
+    "Id": "A9CFF6B0-DA86-4B84-A00C-2941C2ECE2B7",
+    "CompanyId": "CFB3C2B5-0166-4366-AC66-3F50300394AD",
+    "RangeName": "Wardrobes & Storage:",
+    "Description": "Smart, space-optimizing storage solutions with modern finishes",
+    "SortOrder": 1,
+    "IsDeleted": false,
+    "CreatedAt": "2026-06-16T08:27:04.2694766"
+  },
+  {
+    "Id": "4A3BDC9D-85BE-43BC-8516-29681BE1176A",
+    "CompanyId": "5CDCADCD-660E-4E24-950B-FB455DE03A89",
+    "RangeName": "Porcelain Tiles",
+    "Description": "Low-porosity, high-strength premium tiles",
+    "SortOrder": 1,
+    "IsDeleted": false,
+    "CreatedAt": "2026-06-19T08:06:54.1220480",
+    "UpdatedAt": "2026-08-09T11:10:24.9152045"
+  },
+  {
+    "Id": "4A119B1D-D560-4369-9469-29FAAA89F4B8",
+    "CompanyId": "E9E89F3F-8B2B-4FBE-B118-D0015D702BE0",
+    "RangeName": "Mechanical Latches:",
+    "Description": "Heavy-duty, durable latches designed for industrial applications.",
+    "SortOrder": 1,
+    "IsDeleted": false,
+    "CreatedAt": "2026-06-16T07:22:43.8554582"
+  },
+  {
+    "Id": "D4B402A1-47D9-4DFB-8B13-2A0E696E6CFC",
+    "CompanyId": "B496B428-B4EF-4864-B2E7-C3E92227CD86",
+    "RangeName": "Metal Film Resistors",
+    "Description": "",
+    "SortOrder": 1,
+    "IsDeleted": false,
+    "CreatedAt": "2026-08-09T08:53:55.1512934"
+  },
+  {
+    "Id": "E7C70BF3-1F42-4D90-A17D-2A458784357D",
+    "CompanyId": "69C0D675-BE82-4623-B1D8-0AA78803F7DA",
+    "RangeName": "Residential Doors:",
+    "Description": "Elegant entrance and interior doors with superior finishes.",
+    "SortOrder": 0,
+    "IsDeleted": false,
+    "CreatedAt": "2026-06-16T07:10:43.7088660",
+    "UpdatedAt": "2026-08-09T10:29:51.4451379"
+  },
+  {
+    "Id": "26FEC801-2C88-45EE-9883-2ABDD4409F75",
+    "CompanyId": "79A6FCC6-01D7-4184-B7BE-B057298B16C3",
+    "RangeName": "Safety Gloves",
+    "Description": "Hand protection solutions",
+    "SortOrder": 1,
+    "IsDeleted": false,
+    "CreatedAt": "2026-06-17T06:55:42.6145169",
+    "UpdatedAt": "2026-08-09T10:46:08.3450743"
+  },
+  {
+    "Id": "6EDC0759-E24B-42D1-9D59-2B349DB76FC3",
+    "CompanyId": "9BD5707F-3839-4000-9370-19E88782240F",
+    "RangeName": "Roofing Materials",
+    "Description": "Comprehensive roofing products",
+    "SortOrder": 1,
+    "IsDeleted": false,
+    "CreatedAt": "2026-06-19T08:10:52.2235377"
+  },
+  {
+    "Id": "279E2D01-86C4-4180-B060-2B797A3EEC0D",
+    "CompanyId": "C4A8295E-88C9-4181-AE99-B0360678701D",
+    "RangeName": "Video Cameras",
+    "Description": "High-quality video recording equipment",
+    "SortOrder": 2,
+    "IsDeleted": false,
+    "CreatedAt": "2026-06-22T08:11:03.5931596",
+    "UpdatedAt": "2026-08-09T11:31:21.5707360"
+  },
+  {
+    "Id": "50303182-6E59-4F6D-854E-2B9F886C8ABE",
+    "CompanyId": "78D0F5A9-B193-4E46-95F4-B2792056A086",
+    "RangeName": "Metal Bolts",
+    "Description": "Durable bolts for industrial use",
+    "SortOrder": 2,
+    "IsDeleted": false,
+    "CreatedAt": "2026-06-19T09:32:10.7404208",
+    "UpdatedAt": "2026-08-09T10:25:40.7372337"
+  },
+  {
+    "Id": "3E2BEF52-66CB-431B-B738-2BEEA01279C8",
+    "CompanyId": "DACC7470-2926-4D08-8279-234BBD3D1EF8",
+    "RangeName": "Respiratory Care:",
+    "Description": "Targeted treatments for Cold, Cough, and Seasonal Flu.",
+    "SortOrder": 2,
+    "IsDeleted": false,
+    "CreatedAt": "2026-06-13T10:11:54.5767009",
+    "UpdatedAt": "2026-08-09T09:12:11.5243229"
+  },
+  {
+    "Id": "C129D6B2-9B3F-41EB-816F-2CA916EBADB1",
+    "CompanyId": "80493001-8542-440C-B606-ECEEFF1A8548",
+    "RangeName": "Personal Healthcare Products",
+    "Description": "Daily healthcare and wellness solutions",
+    "SortOrder": 0,
+    "IsDeleted": false,
+    "CreatedAt": "2026-06-18T05:51:05.9957354",
+    "UpdatedAt": "2026-08-09T10:56:37.6751287"
+  },
+  {
+    "Id": "F9F2DCC1-77AA-40F0-9254-2D6E34BBB2C4",
+    "CompanyId": "643141CD-B267-4CBF-B1D9-4599306F9E2E",
+    "RangeName": "Indoor LED Panel Lights",
+    "Description": "Modern lighting for commercial and residential spaces",
+    "SortOrder": 2,
+    "IsDeleted": false,
+    "CreatedAt": "2026-06-22T09:44:30.0657647",
+    "UpdatedAt": "2026-08-09T11:33:52.5111383"
+  },
+  {
+    "Id": "EC23D414-3BAC-4C3B-AA59-2DEED0F25E5D",
+    "CompanyId": "1F44FA53-9F65-4C5D-A592-4CDC531AFABB",
+    "RangeName": "Living Room Furniture",
+    "Description": "Elegant furniture for modern living spaces",
+    "SortOrder": 0,
+    "IsDeleted": false,
+    "CreatedAt": "2026-06-19T08:20:21.2813633",
+    "UpdatedAt": "2026-08-08T05:09:47.5652402"
+  },
+  {
+    "Id": "E4A39837-107E-4A60-AEF8-2E1D812C30CF",
+    "CompanyId": "C79281B4-208D-4B4B-9ECA-5AA645AF04D6",
+    "RangeName": "Food-Grade Packaging Materials",
+    "Description": "Certified, hygienic supplies built for safe food processing applications.",
+    "SortOrder": 0,
+    "IsDeleted": false,
+    "CreatedAt": "2026-06-13T06:56:17.2967869",
+    "UpdatedAt": "2026-06-13T07:04:27.4782977"
+  },
+  {
+    "Id": "666EDBFF-41E7-4E7F-91EF-2E5724F09992",
+    "CompanyId": "98BDF207-05B9-4ADE-A1F2-E98FBED6DC7F",
+    "RangeName": "tushar dashore",
+    "Description": "best flutter developer in india",
+    "SortOrder": 0,
+    "IsDeleted": true,
+    "CreatedAt": "2026-06-20T07:48:23.4233579",
+    "UpdatedAt": "2026-06-20T07:48:37.1067370"
+  },
+  {
+    "Id": "59758FCB-4D2A-41DE-BD2E-2E8E2F1C2A8E",
+    "CompanyId": "D779E323-83C0-4CCF-843F-FD17E3967DAC",
+    "RangeName": "Manager Chairs",
+    "Description": "Comfortable and ergonomic office chairs",
+    "SortOrder": 3,
+    "IsDeleted": false,
+    "CreatedAt": "2026-06-19T09:10:54.6188529",
+    "UpdatedAt": "2026-08-09T09:02:19.1950882"
+  },
+  {
+    "Id": "63C23344-40C8-4175-9A3E-2F3185772F59",
+    "CompanyId": "69399018-BD21-4577-B348-CBE046C3F6B1",
+    "RangeName": "Lighting Fittings",
+    "Description": "Components and fittings for lighting systems",
+    "SortOrder": 1,
+    "IsDeleted": false,
+    "CreatedAt": "2026-06-18T08:27:34.5010212",
+    "UpdatedAt": "2026-08-09T11:06:59.4153749"
+  },
+  {
+    "Id": "6CDA35A1-E868-469A-AE4E-31098865019B",
+    "CompanyId": "A6B85305-F84B-47B1-BC4D-5C23F698C044",
+    "RangeName": "Window Hinges",
+    "Description": "Smooth-operating window fittings",
+    "SortOrder": 1,
+    "IsDeleted": false,
+    "CreatedAt": "2026-06-19T08:53:45.4352700"
+  },
+  {
+    "Id": "9180E911-B5DB-4FC9-8E05-3192F29BA159",
+    "CompanyId": "E2BFBD7E-F970-47A2-9B98-DBB1D480900B",
+    "RangeName": "Grab Hooks",
+    "Description": "Strong hooks for chain and load handling",
+    "SortOrder": 2,
+    "IsDeleted": false,
+    "CreatedAt": "2026-06-22T06:43:44.9165370",
+    "UpdatedAt": "2026-08-09T11:27:05.5488708"
+  },
+  {
+    "Id": "E19B528E-101C-407C-A382-325A030720DF",
+    "CompanyId": "D96A6FF3-33B2-4AC7-97BB-7AF5CFE97D1A",
+    "RangeName": "Business Management Software",
+    "Description": "End-to-end business operation management",
+    "SortOrder": 0,
+    "IsDeleted": false,
+    "CreatedAt": "2026-06-19T10:18:39.8633677",
+    "UpdatedAt": "2026-07-13T18:49:53.5791223"
+  },
+  {
+    "Id": "711486E4-24D2-4FB7-BC68-3288559A8CCA",
+    "CompanyId": "C64678BE-696B-4675-8248-3C1D4456BE51",
+    "RangeName": "Marble Tiles",
+    "Description": "Premium stone tiles for luxury interiors",
+    "SortOrder": 1,
+    "IsDeleted": false,
+    "CreatedAt": "2026-06-22T10:09:32.7470561",
+    "UpdatedAt": "2026-08-09T11:35:23.9659247"
+  },
+  {
+    "Id": "77235753-85F0-4093-88D6-329510BCDDFE",
+    "CompanyId": "71960A64-6ABD-498F-8E7E-332A36A2471A",
+    "RangeName": "Sanitary Fittings",
+    "Description": "Essential fittings for bathroom installations",
+    "SortOrder": 2,
+    "IsDeleted": false,
+    "CreatedAt": "2026-06-19T08:47:14.1045151",
+    "UpdatedAt": "2026-06-19T08:47:47.6972320"
+  },
+  {
+    "Id": "BA2EACB5-30FE-458F-992E-33DD22386EBA",
+    "CompanyId": "6D3065CB-83C3-446D-B4C6-641E6E5F24E1",
+    "RangeName": "Cold Beverage Dispensers",
+    "Description": "Machines for chilled beverage serving",
+    "SortOrder": 1,
+    "IsDeleted": false,
+    "CreatedAt": "2026-06-22T05:17:42.6753097",
+    "UpdatedAt": "2026-08-09T11:20:18.4947722"
+  },
+  {
+    "Id": "03A40625-703A-4015-859C-340ED803EE95",
+    "CompanyId": "D43F24BA-1562-43A3-A8CF-4633334DD7D1",
+    "RangeName": "Core Materials:",
+    "Description": "Natural and Engineered Wood, Commercial & BWP Plywood.",
+    "SortOrder": 0,
+    "IsDeleted": false,
+    "CreatedAt": "2026-06-13T09:58:34.0154950",
+    "UpdatedAt": "2026-08-09T09:08:56.8368867"
+  },
+  {
+    "Id": "0750C44F-0CD3-4679-B508-3460CC1D40D2",
+    "CompanyId": "B7DC10D6-6F79-4367-8536-625D0938C566",
+    "RangeName": "Industrial Brackets",
+    "Description": "Strong support and mounting solutions",
+    "SortOrder": 0,
+    "IsDeleted": false,
+    "CreatedAt": "2026-06-22T08:51:49.4104443",
+    "UpdatedAt": "2026-08-09T11:32:08.9346120"
+  },
+  {
+    "Id": "3679B783-D43E-4C90-82BF-3479B841DF88",
+    "CompanyId": "C58CC091-6A05-4563-8EF4-7DE8A08B1D31",
+    "RangeName": "Sanitaryware",
+    "Description": "All type of high quality Modern, Aesthetic and designer Sanitaryware",
+    "SortOrder": 1,
+    "IsDeleted": false,
+    "CreatedAt": "2026-08-09T08:26:15.1828952"
+  },
+  {
+    "Id": "2A572BB7-1AFF-4BED-9271-34C1B2597B7A",
+    "CompanyId": "EEDB378F-43E8-4118-8D33-D51CB2ADD143",
+    "RangeName": "Samsung Smartphones",
+    "Description": "Advanced smartphones with innovative features",
+    "SortOrder": 0,
+    "IsDeleted": false,
+    "CreatedAt": "2026-06-22T08:59:19.4424450",
+    "UpdatedAt": "2026-08-09T11:32:39.8058932"
+  },
+  {
+    "Id": "78AA022E-952D-4F6E-A2D8-34EB81805D79",
+    "CompanyId": "3C025E6A-C528-482F-91C9-2757F5CD504C",
+    "RangeName": "Tees",
+    "Description": "Branch connection pipe fittings",
+    "SortOrder": 1,
+    "IsDeleted": false,
+    "CreatedAt": "2026-06-17T06:05:10.3660261",
+    "UpdatedAt": "2026-08-09T10:44:28.6286382"
+  },
+  {
+    "Id": "446B1417-C14E-409D-B1C5-35611FB5636A",
+    "CompanyId": "2BB91236-AA0D-4771-A1CE-4B6D04800F9A",
+    "RangeName": "Diverse Range:",
+    "Description": "One-stop shop for plumbing, pipes, and tanks.",
+    "SortOrder": 3,
+    "IsDeleted": false,
+    "CreatedAt": "2026-06-13T08:07:54.5908058",
+    "UpdatedAt": "2026-08-09T09:10:36.3448420"
+  },
+  {
+    "Id": "AD3A17A7-B646-4FFE-8334-35744350CF8D",
+    "CompanyId": "DCB4E01A-3429-41AC-BB38-F657861BBCCF",
+    "RangeName": "Common Disease Treatments",
+    "Description": "Medicines for routine health conditions",
+    "SortOrder": 3,
+    "IsDeleted": false,
+    "CreatedAt": "2026-06-17T08:26:25.9319592"
+  },
+  {
+    "Id": "D9460A44-DC8E-4E1A-BF95-35CE6EBFC282",
+    "CompanyId": "26322C8E-704B-4AE1-B260-55B513FBC7AA",
+    "RangeName": "Smart TVs",
+    "Description": "Samsung, LG, Xiaomi, Onida TVs",
+    "SortOrder": 2,
+    "IsDeleted": false,
+    "CreatedAt": "2026-06-17T05:07:55.4581611",
+    "UpdatedAt": "2026-08-09T10:40:05.6670761"
+  },
+  {
+    "Id": "994CB695-217F-4515-B081-3609DA3F97CE",
+    "CompanyId": "B09C1546-818B-4804-9ACB-41157D443319",
+    "RangeName": "Toughened (Tempered) Glass",
+    "Description": "High-strength safety glass for multiple applications",
+    "SortOrder": 2,
+    "IsDeleted": false,
+    "CreatedAt": "2026-06-18T10:08:35.4023005",
+    "UpdatedAt": "2026-08-09T09:03:01.0512928"
+  },
+  {
+    "Id": "ABD30493-AF46-494A-8E80-36B485504DE2",
+    "CompanyId": "9BD5707F-3839-4000-9370-19E88782240F",
+    "RangeName": "Floor Tiles",
+    "Description": "Stylish and durable flooring solutions",
+    "SortOrder": 3,
+    "IsDeleted": false,
+    "CreatedAt": "2026-06-19T08:10:52.2328899"
+  },
+  {
+    "Id": "9C2469B1-B9FF-4676-AC45-36BFAB6EFF65",
+    "CompanyId": "A25BB45A-D34D-4290-80DD-70CA4346DEE9",
+    "RangeName": "Commercial Plywood",
+    "Description": "Reliable plywood for multiple applications",
+    "SortOrder": 2,
+    "IsDeleted": false,
+    "CreatedAt": "2026-06-18T10:13:02.3859725"
+  },
+  {
+    "Id": "5792E5CA-7EF0-424B-9B79-36E92A5854F8",
+    "CompanyId": "8698D43C-762E-48A2-B8A5-8A8D7AF061F4",
+    "RangeName": "CRM Software Solutions",
+    "Description": "Customer relationship management systems",
+    "SortOrder": 2,
+    "IsDeleted": false,
+    "CreatedAt": "2026-06-19T08:23:57.0357857"
+  },
+  {
+    "Id": "577ADC34-CA74-4480-A47D-37CFA367A82E",
+    "CompanyId": "D5A9FACF-6CE4-4096-A306-89E67C6F4E54",
+    "RangeName": "Screws",
+    "Description": "Industrial and construction-grade screws",
+    "SortOrder": 2,
+    "IsDeleted": false,
+    "CreatedAt": "2026-06-19T07:53:18.9547009"
+  },
+  {
+    "Id": "0E37EFB9-EFF2-4FA3-95B7-38A15CAB14EB",
+    "CompanyId": "AF9FB7EC-578E-43CA-9C27-4DF06C3335DC",
+    "RangeName": "Ayurvedic Medicines",
+    "Description": "Traditional herbal healthcare formulations",
+    "SortOrder": 0,
+    "IsDeleted": false,
+    "CreatedAt": "2026-06-19T08:03:02.5108009"
+  },
+  {
+    "Id": "86FFEA74-E248-434A-938E-398B2E3E4493",
+    "CompanyId": "7319AC8A-7AFC-46DC-9B16-3DB46AFA1B6A",
+    "RangeName": "Plastic Chairs",
+    "Description": "Durable chairs for everyday use",
+    "SortOrder": 0,
+    "IsDeleted": false,
+    "CreatedAt": "2026-06-18T09:54:50.2844905",
+    "UpdatedAt": "2026-08-09T09:06:42.1601421"
+  },
+  {
+    "Id": "EB46E545-2486-4170-A48D-39BC8485407F",
+    "CompanyId": "A6C13E49-E5A5-41AD-BDC5-1596948E9D7F",
+    "RangeName": "Power Connectors",
+    "Description": "Safe and efficient power transmission",
+    "SortOrder": 3,
+    "IsDeleted": false,
+    "CreatedAt": "2026-06-22T08:27:14.0149418",
+    "UpdatedAt": "2026-08-09T11:29:18.7175698"
+  },
+  {
+    "Id": "C2A68AB5-B7D2-47A6-A72F-3A07A46EC025",
+    "CompanyId": "197097C3-8E6E-4EFD-B1B3-80B6B98F7498",
+    "RangeName": "Soybean Oil",
+    "Description": "Nutritious refined soybean cooking oil",
+    "SortOrder": 2,
+    "IsDeleted": false,
+    "CreatedAt": "2026-06-18T06:15:50.5562588",
+    "UpdatedAt": "2026-08-09T10:58:19.4191657"
+  },
+  {
+    "Id": "70339CB3-321D-4125-BA68-3A22F11B4EC8",
+    "CompanyId": "D779E323-83C0-4CCF-843F-FD17E3967DAC",
+    "RangeName": "Executive Chairs",
+    "Description": "Premium seating for professionals",
+    "SortOrder": 2,
+    "IsDeleted": false,
+    "CreatedAt": "2026-06-19T09:10:54.6127795",
+    "UpdatedAt": "2026-08-09T09:02:19.1891673"
+  },
+  {
+    "Id": "FBEF7919-9931-404D-9F58-3A27D7A2A75B",
+    "CompanyId": "643141CD-B267-4CBF-B1D9-4599306F9E2E",
+    "RangeName": "Rechargeable LED Lights",
+    "Description": "Portable backup lighting solutions",
+    "SortOrder": 1,
+    "IsDeleted": false,
+    "CreatedAt": "2026-06-22T09:44:30.0616455",
+    "UpdatedAt": "2026-08-09T11:33:52.5068708"
+  },
+  {
+    "Id": "6E61622D-C040-4DBF-AF45-3A323684B938",
+    "CompanyId": "EB814B0E-C031-45EA-9278-F3F7665A12FE",
+    "RangeName": "Corrugated Boxes",
+    "Description": "Strong packaging for shipping and storage",
+    "SortOrder": 0,
+    "IsDeleted": false,
+    "CreatedAt": "2026-06-22T06:10:30.7052662"
+  },
+  {
+    "Id": "B072B8ED-377B-4516-9316-3ADFD545B197",
+    "CompanyId": "DDC2F246-A2F4-4591-BEB5-2D36E763A932",
+    "RangeName": "Protein Supplements",
+    "Description": "Fitness and nutritional support solutions",
+    "SortOrder": 3,
+    "IsDeleted": false,
+    "CreatedAt": "2026-06-22T10:22:36.8021880"
+  },
+  {
+    "Id": "0F40FADA-326F-497B-9939-3BC6F1FF57BA",
+    "CompanyId": "71515302-7F82-453F-A6D6-EFFE54D12CFC",
+    "RangeName": "Glossy Tiles",
+    "Description": "Modern polished surface finishes",
+    "SortOrder": 3,
+    "IsDeleted": false,
+    "CreatedAt": "2026-06-18T05:12:13.8985206",
+    "UpdatedAt": "2026-08-09T10:55:18.6097932"
+  },
+  {
+    "Id": "CF55DD7C-D431-4B23-8E89-3CE5F7F77079",
+    "CompanyId": "A7B48AA5-C7DA-44B3-8E11-FE16A3A3246D",
+    "RangeName": "Other Passive Devices",
+    "Description": "Ceramic Capacitors, Polyester Film Capacitors",
+    "SortOrder": 2,
+    "IsDeleted": false,
+    "CreatedAt": "2026-06-13T06:29:02.9508192",
+    "UpdatedAt": "2026-08-09T08:31:17.5644475"
+  },
+  {
+    "Id": "F55F6661-7E1A-4F08-B048-3D5A5968AD21",
+    "CompanyId": "A6B85305-F84B-47B1-BC4D-5C23F698C044",
+    "RangeName": "Door Hinges",
+    "Description": "Strong and durable door hinge solutions",
+    "SortOrder": 0,
+    "IsDeleted": false,
+    "CreatedAt": "2026-06-19T08:53:45.4261124"
+  },
+  {
+    "Id": "B2FB58B0-3DA1-43BE-8284-3F53DAE78972",
+    "CompanyId": "41F155A0-52E9-482F-9F76-66191E7A69AC",
+    "RangeName": "Aluminum Sections",
+    "Description": "Multipurpose aluminum profiles",
+    "SortOrder": 3,
+    "IsDeleted": false,
+    "CreatedAt": "2026-06-17T10:15:09.7570518"
+  },
+  {
+    "Id": "ABF2899B-8E52-48EA-8259-3F612215B1C5",
+    "CompanyId": "CB8E0D27-155B-4DEB-9616-DB68B3C04511",
+    "RangeName": "Industrial Control Panels",
+    "Description": "Customized control and distribution panels",
+    "SortOrder": 3,
+    "IsDeleted": false,
+    "CreatedAt": "2026-06-22T09:10:26.2368093",
+    "UpdatedAt": "2026-08-09T11:33:15.0295962"
+  },
+  {
+    "Id": "553EA395-1466-4A65-84DA-3FC3CEA48D21",
+    "CompanyId": "45DF8DE4-F356-442C-B9FD-4D1DAA9727EC",
+    "RangeName": "Industrial Packaging Tapes",
+    "Description": "Secure packaging and sealing solutions",
+    "SortOrder": 3,
+    "IsDeleted": false,
+    "CreatedAt": "2026-06-18T05:06:20.1332413",
+    "UpdatedAt": "2026-08-09T10:52:09.2483750"
+  },
+  {
+    "Id": "1D59E8FE-45D4-4B97-BD6C-3FD4A5C7076F",
+    "CompanyId": "4DA5DF6A-8EEF-4A2F-A79A-59BDCF515342",
+    "RangeName": "Bio-Chemical Products",
+    "Description": "Specialized healthcare and industrial applications",
+    "SortOrder": 3,
+    "IsDeleted": false,
+    "CreatedAt": "2026-06-19T10:10:46.0160205",
+    "UpdatedAt": "2026-08-09T11:15:51.8714282"
+  },
+  {
+    "Id": "AEA869AD-31EF-4409-B1A9-40D5717DDC48",
+    "CompanyId": "7477DE84-EDD1-4C52-A086-DF0117674517",
+    "RangeName": "Door Hinges",
+    "Description": "Durable hinges for doors and entrances",
+    "SortOrder": 0,
+    "IsDeleted": false,
+    "CreatedAt": "2026-06-19T05:24:21.9358172",
+    "UpdatedAt": "2026-08-09T11:08:47.0013771"
+  },
+  {
+    "Id": "F85D7AF3-940E-4E3E-8FF1-420C93DEF254",
+    "CompanyId": "41F155A0-52E9-482F-9F76-66191E7A69AC",
+    "RangeName": "Cane Furniture",
+    "Description": "Elegant and lightweight cane furniture",
+    "SortOrder": 2,
+    "IsDeleted": true,
+    "CreatedAt": "2026-06-17T09:59:11.6095343",
+    "UpdatedAt": "2026-06-17T10:15:09.7324946"
+  },
+  {
+    "Id": "C56437D9-84D2-4E50-B105-445C322811C5",
+    "CompanyId": "314D48B7-6184-412D-B2F9-450463E0305C",
+    "RangeName": "Wood & Metal Varnishes",
+    "Description": "",
+    "SortOrder": 3,
+    "IsDeleted": false,
+    "CreatedAt": "2026-06-11T19:03:09.5269554",
+    "UpdatedAt": "2026-06-11T19:41:35.3841762"
+  },
+  {
+    "Id": "8D6294EE-0931-4621-943C-45A3D0BF5D67",
+    "CompanyId": "12687ED6-5059-4A58-B74C-73EE0679EF38",
+    "RangeName": "Foam Sheets",
+    "Description": "Lightweight sheets for multiple applications",
+    "SortOrder": 1,
+    "IsDeleted": false,
+    "CreatedAt": "2026-06-18T08:14:29.9553037",
+    "UpdatedAt": "2026-08-09T11:05:57.9820146"
+  },
+  {
+    "Id": "44C15D93-0B56-4095-A4D4-45FD2F24A2BB",
+    "CompanyId": "C79281B4-208D-4B4B-9ECA-5AA645AF04D6",
+    "RangeName": "Flexible & Rigid Solutions",
+    "Description": "Versatile, durable industrial packaging engineered for retail and transit.",
+    "SortOrder": 1,
+    "IsDeleted": false,
+    "CreatedAt": "2026-06-13T06:56:17.3010665",
+    "UpdatedAt": "2026-06-13T07:04:27.4838511"
+  },
+  {
+    "Id": "2A28457D-E054-40F3-856E-4665F8D418BB",
+    "CompanyId": "3C381EAB-A87F-4C7D-BA89-419ADD72C68C",
+    "RangeName": "Furniture Wood Products",
+    "Description": "Reliable materials for furniture manufacturing",
+    "SortOrder": 1,
+    "IsDeleted": false,
+    "CreatedAt": "2026-06-17T08:45:38.8549449",
+    "UpdatedAt": "2026-08-09T10:51:09.3785631"
+  },
+  {
+    "Id": "5B58001D-35D2-4359-9E43-46C8A34C8CC2",
+    "CompanyId": "CDA24D2F-59B5-44C5-B465-64A8EE7FAC59",
+    "RangeName": "Astral PVC Pipe",
+    "Description": "",
+    "SortOrder": 4,
+    "IsDeleted": false,
+    "CreatedAt": "2026-05-27T13:00:20.2716723",
+    "UpdatedAt": "2026-08-09T08:14:11.6519715"
+  },
+  {
+    "Id": "FA6AADA6-54A3-462D-BDD5-4722DA957C78",
+    "CompanyId": "5A1D53DC-FABD-435B-8044-39E78B8F21E5",
+    "RangeName": "Automotive Accessories:",
+    "Description": "Specialized hardware supporting engine health and performance",
+    "SortOrder": 3,
+    "IsDeleted": false,
+    "CreatedAt": "2026-06-16T07:35:52.4002210"
+  },
+  {
+    "Id": "99AFF9AD-9AFA-4664-8833-47712FB42541",
+    "CompanyId": "CB8E0D27-155B-4DEB-9616-DB68B3C04511",
+    "RangeName": "Human Machine Interface (HMI)",
+    "Description": "User-friendly industrial monitoring systems",
+    "SortOrder": 2,
+    "IsDeleted": false,
+    "CreatedAt": "2026-06-22T09:10:26.2337425",
+    "UpdatedAt": "2026-08-09T11:33:15.0247833"
+  },
+  {
+    "Id": "8E4A3A93-2E2A-4036-95B7-480E2F986460",
+    "CompanyId": "077E9EF7-BCF3-4CC8-9441-A20259E2741B",
+    "RangeName": "Engineered Wood",
+    "Description": "Advanced wood solutions for modern projects",
+    "SortOrder": 1,
+    "IsDeleted": false,
+    "CreatedAt": "2026-06-18T06:44:11.4078799",
+    "UpdatedAt": "2026-08-09T11:01:03.6179289"
+  },
+  {
+    "Id": "C6031B42-A110-485F-80E3-48290BF35379",
+    "CompanyId": "8C639C7C-2955-444F-88EE-82DB4F4CF9B4",
+    "RangeName": "Natural Stone Flooring",
+    "Description": "Elegant natural stone floor applications",
+    "SortOrder": 2,
+    "IsDeleted": false,
+    "CreatedAt": "2026-06-17T08:13:47.5064967"
+  },
+  {
+    "Id": "A8B32350-BE56-4F35-8B53-486F8A25ED49",
+    "CompanyId": "12687ED6-5059-4A58-B74C-73EE0679EF38",
+    "RangeName": "LDPE Sheets",
+    "Description": "Flexible low-density polyethylene sheets",
+    "SortOrder": 3,
+    "IsDeleted": false,
+    "CreatedAt": "2026-06-18T08:14:29.9642742",
+    "UpdatedAt": "2026-08-09T11:05:57.9891841"
+  },
+  {
+    "Id": "53806052-AE1A-4684-975F-48F1B2362018",
+    "CompanyId": "FC93358A-3AB7-4409-B7DD-E02DA5CC4B2A",
+    "RangeName": "Designer Wash Basins",
+    "Description": "Stylish basins for modern interiors",
+    "SortOrder": 0,
+    "IsDeleted": false,
+    "CreatedAt": "2026-06-19T09:38:54.7859750"
+  },
+  {
+    "Id": "289BD6FC-A8C0-4A3E-9A96-49CD166BA7AD",
+    "CompanyId": "7AB39020-D832-4450-A3FE-4508298640E6",
+    "RangeName": "Desktop Computers",
+    "Description": "Reliable systems for office and personal use",
+    "SortOrder": 0,
+    "IsDeleted": false,
+    "CreatedAt": "2026-06-22T09:19:45.9445781"
+  },
+  {
+    "Id": "FA06995E-DDA7-4457-931B-49DFEA943FC5",
+    "CompanyId": "41F155A0-52E9-482F-9F76-66191E7A69AC",
+    "RangeName": "Bamboo Furniture",
+    "Description": "Eco-friendly furniture crafted from bamboo",
+    "SortOrder": 0,
+    "IsDeleted": true,
+    "CreatedAt": "2026-06-17T09:59:11.6009149",
+    "UpdatedAt": "2026-06-17T10:15:09.7002240"
+  },
+  {
+    "Id": "7A8BF314-0768-4B10-BDF9-4BB80DD0B2BF",
+    "CompanyId": "D85BEEF9-B88B-4B14-B435-C40D3F4E83F9",
+    "RangeName": "Network Installation",
+    "Description": "Professional LAN/WAN setup and deployment",
+    "SortOrder": 1,
+    "IsDeleted": false,
+    "CreatedAt": "2026-06-22T05:28:57.6760454",
+    "UpdatedAt": "2026-08-09T11:21:15.2466100"
+  },
+  {
+    "Id": "C87243B4-30AD-47E9-97BD-4C8FBF5DD5D9",
+    "CompanyId": "3C381EAB-A87F-4C7D-BA89-419ADD72C68C",
+    "RangeName": "Decorative Veneers",
+    "Description": "Elegant natural wood surface finishes",
+    "SortOrder": 2,
+    "IsDeleted": false,
+    "CreatedAt": "2026-06-17T08:45:38.8572079",
+    "UpdatedAt": "2026-08-09T10:51:09.3832909"
+  },
+  {
+    "Id": "8C2F354A-A867-4DCF-BB10-4CE1305EA767",
+    "CompanyId": "3C9AD5AB-0AE8-4DB4-A0A4-B1882B1FFEFC",
+    "RangeName": "Residential Property Purchase Assistance",
+    "Description": "Property search and acquisition support",
+    "SortOrder": 1,
+    "IsDeleted": false,
+    "CreatedAt": "2026-06-17T08:53:01.6750831"
+  },
+  {
+    "Id": "E1EB9BB9-2C61-4A33-833C-50458D7E232C",
+    "CompanyId": "A6C13E49-E5A5-41AD-BDC5-1596948E9D7F",
+    "RangeName": "Electronic Connectors",
+    "Description": "Precision connectors for electronic systems",
+    "SortOrder": 1,
+    "IsDeleted": false,
+    "CreatedAt": "2026-06-22T08:27:14.0073570",
+    "UpdatedAt": "2026-08-09T11:29:18.7079774"
+  },
+  {
+    "Id": "C4BF190F-7B01-449D-A146-51A4AA672FF4",
+    "CompanyId": "5DAE9B12-CAE7-4C71-996C-F95889A55818",
+    "RangeName": "Wall Hung Basins",
+    "Description": "Space-saving and stylish basin solutions",
+    "SortOrder": 1,
+    "IsDeleted": false,
+    "CreatedAt": "2026-06-19T09:58:10.6702238",
+    "UpdatedAt": "2026-08-09T11:14:39.9315618"
+  },
+  {
+    "Id": "30D644F9-DB98-40FF-9A31-51ACFD3A8CB8",
+    "CompanyId": "0299E19D-D41F-4502-9B21-934517D9A7C2",
+    "RangeName": "Laminates:",
+    "Description": "Wide variety of textures (Glossy, Matte, Textured) for modern aesthetics.",
+    "SortOrder": 3,
+    "IsDeleted": false,
+    "CreatedAt": "2026-06-16T06:58:36.6838982",
+    "UpdatedAt": "2026-08-09T09:08:29.3292426"
+  },
+  {
+    "Id": "0718A596-60A6-4241-A133-51EC1219F4D9",
+    "CompanyId": "41F155A0-52E9-482F-9F76-66191E7A69AC",
+    "RangeName": "Chairs",
+    "Description": "Comfortable seating solutions for homes and offices",
+    "SortOrder": 3,
+    "IsDeleted": true,
+    "CreatedAt": "2026-06-17T09:59:11.6132691",
+    "UpdatedAt": "2026-06-17T10:15:09.7371678"
+  },
+  {
+    "Id": "63F8783F-49B8-4248-ADB3-5263FE2B36A3",
+    "CompanyId": "24DA052A-6A92-4759-BC37-B831D40C682F",
+    "RangeName": "Customized Solutions:",
+    "Description": "Bespoke door and window engineering for unique site specifications.",
+    "SortOrder": 2,
+    "IsDeleted": false,
+    "CreatedAt": "2026-06-16T06:39:48.6808781",
+    "UpdatedAt": "2026-08-09T10:26:05.3623895"
+  },
+  {
+    "Id": "6E9D3D26-EFD4-435C-BBC3-527F2507AAC3",
+    "CompanyId": "EB814B0E-C031-45EA-9278-F3F7665A12FE",
+    "RangeName": "Duplex Boxes",
+    "Description": "Premium packaging with quality printing",
+    "SortOrder": 2,
+    "IsDeleted": false,
+    "CreatedAt": "2026-06-22T06:10:30.7107940"
+  },
+  {
+    "Id": "82AE76F7-409F-4474-BABF-52CAA86EE62C",
+    "CompanyId": "A2CA0685-DD51-48A3-BE15-F7941CC09C11",
+    "RangeName": "Postpartum Series",
+    "Description": "Postpartum Hair fall control oil and Post delivery massage oil to strengthen backbone and muscles",
+    "SortOrder": 2,
+    "IsDeleted": false,
+    "CreatedAt": "2026-06-29T11:40:24.5110278",
+    "UpdatedAt": "2026-09-19T11:35:48.0126130"
+  },
+  {
+    "Id": "5E86AAFA-0683-4B46-B2DE-5309B32F6E70",
+    "CompanyId": "2A46A0A3-E514-4C7A-B16D-CCE73472A426",
+    "RangeName": "Commercial Equipment",
+    "Description": "Equipment for commercial and business applications",
+    "SortOrder": 1,
+    "IsDeleted": false,
+    "CreatedAt": "2026-06-22T05:40:17.1976383",
+    "UpdatedAt": "2026-08-09T11:22:16.1525328"
+  },
+  {
+    "Id": "E82B3358-CC03-4734-954F-53DEF5723776",
+    "CompanyId": "1158CD5A-894E-45AA-96AC-9CA329806ABC",
+    "RangeName": "Axles",
+    "Description": "Strong and durable axle components",
+    "SortOrder": 3,
+    "IsDeleted": false,
+    "CreatedAt": "2026-06-22T07:02:58.1512258",
+    "UpdatedAt": "2026-08-09T11:31:43.1617741"
+  },
+  {
+    "Id": "94B546D6-FE69-44F2-93EF-544D6FECFC7D",
+    "CompanyId": "5A7C06F9-FCE3-4649-961C-40EC457DAC03",
+    "RangeName": "Alloy Steel Pipes",
+    "Description": "High-performance alloy steel piping",
+    "SortOrder": 2,
+    "IsDeleted": false,
+    "CreatedAt": "2026-06-19T08:58:50.9631037",
+    "UpdatedAt": "2026-08-09T11:11:56.4446065"
+  },
+  {
+    "Id": "B983C8A0-DE72-4E96-946F-5483E804A0D3",
+    "CompanyId": "4CC07307-2FD5-452A-AD22-EE323E07B8C5",
+    "RangeName": "Center & Coffee Tables:",
+    "Description": "Functional, design-centric tables that ground any living area.",
+    "SortOrder": 1,
+    "IsDeleted": false,
+    "CreatedAt": "2026-06-16T08:12:30.9944073"
+  },
+  {
+    "Id": "5779CF39-895F-43B4-857D-54D4F8894A85",
+    "CompanyId": "0B419F36-5AF1-4DAF-AF26-02F4878510DA",
+    "RangeName": "Welding Rods",
+    "Description": "High-performance rods for strong welds",
+    "SortOrder": 0,
+    "IsDeleted": false,
+    "CreatedAt": "2026-06-19T09:52:16.0270687",
+    "UpdatedAt": "2026-08-09T11:14:05.6764940"
+  },
+  {
+    "Id": "CA6A8057-069F-4682-893D-57B9A017E739",
+    "CompanyId": "6401FB28-8BBF-4351-B503-8A0A66DCBCC3",
+    "RangeName": "SMD Resistors",
+    "Description": "",
+    "SortOrder": 3,
+    "IsDeleted": false,
+    "CreatedAt": "2026-08-09T08:48:38.0813967"
+  },
+  {
+    "Id": "EA89464F-97A2-4A78-BCA9-5910A99B1FC3",
+    "CompanyId": "B0710D0A-ED9B-455E-9603-2D94AD27D73C",
+    "RangeName": "Construction Equipment",
+    "Description": "Machinery for construction projects",
+    "SortOrder": 1,
+    "IsDeleted": false,
+    "CreatedAt": "2026-06-18T05:21:24.8909877",
+    "UpdatedAt": "2026-08-09T10:55:49.8159284"
+  },
+  {
+    "Id": "A2355A5F-28CB-4880-BD71-596E7FE873CF",
+    "CompanyId": "1D9B8133-A3A3-48AC-B2FF-920F1AFB16F6",
+    "RangeName": "Designer Beds",
+    "Description": "Stylish and contemporary bed designs",
+    "SortOrder": 1,
+    "IsDeleted": false,
+    "CreatedAt": "2026-06-22T10:32:19.6340600",
+    "UpdatedAt": "2026-08-09T11:36:51.1046576"
+  },
+  {
+    "Id": "A92E36E1-6918-426F-AE8C-59B97A0D5A2D",
+    "CompanyId": "E2BFBD7E-F970-47A2-9B98-DBB1D480900B",
+    "RangeName": "Eye Hooks",
+    "Description": "Secure lifting hooks for industrial applications",
+    "SortOrder": 0,
+    "IsDeleted": false,
+    "CreatedAt": "2026-06-22T06:43:44.9111147",
+    "UpdatedAt": "2026-08-09T11:27:05.5411271"
+  },
+  {
+    "Id": "1638E066-720C-4851-9F77-59D6857CC394",
+    "CompanyId": "E8A85074-144D-4708-87F3-9EC71EE34472",
+    "RangeName": "Construction & Engineering Tools:",
+    "Description": "Robust machinery for infrastructure and structural projects.",
+    "SortOrder": 1,
+    "IsDeleted": false,
+    "CreatedAt": "2026-06-16T07:58:40.4610564"
+  },
+  {
+    "Id": "E9C44F8E-D320-4FEC-B099-59DA578F6C01",
+    "CompanyId": "69C0D675-BE82-4623-B1D8-0AA78803F7DA",
+    "RangeName": "Safety Hardware:",
+    "Description": "Integrated solutions emphasizing security and structural stability.",
+    "SortOrder": 3,
+    "IsDeleted": false,
+    "CreatedAt": "2026-06-16T07:10:43.7228809",
+    "UpdatedAt": "2026-08-09T10:29:51.4571567"
+  },
+  {
+    "Id": "AF6D4101-130E-4966-BB61-5AE7372CB671",
+    "CompanyId": "E48245BC-098D-475F-A4B6-1AE929588594",
+    "RangeName": "LED Highbay Lights",
+    "Description": "Lighting for warehouses and industrial spaces",
+    "SortOrder": 3,
+    "IsDeleted": false,
+    "CreatedAt": "2026-06-18T06:21:54.5945436",
+    "UpdatedAt": "2026-08-09T10:58:54.7811921"
+  },
+  {
+    "Id": "A5108C8C-38B5-47D5-BDCA-5B598E745E23",
+    "CompanyId": "077E9EF7-BCF3-4CC8-9441-A20259E2741B",
+    "RangeName": "Commercial Plywood",
+    "Description": "Durable plywood for general applications",
+    "SortOrder": 2,
+    "IsDeleted": false,
+    "CreatedAt": "2026-06-18T06:44:11.4103415",
+    "UpdatedAt": "2026-08-09T11:01:03.6224043"
+  },
+  {
+    "Id": "E26DD7BF-B06C-4578-BF07-5BD690AB34F3",
+    "CompanyId": "3C025E6A-C528-482F-91C9-2757F5CD504C",
+    "RangeName": "Reducers",
+    "Description": "Pipe size transition fittings",
+    "SortOrder": 2,
+    "IsDeleted": false,
+    "CreatedAt": "2026-06-17T06:05:10.3683959",
+    "UpdatedAt": "2026-08-09T10:44:28.6320118"
+  },
+  {
+    "Id": "8E570DA3-C8FD-4E69-868B-5DCBDE57B8FF",
+    "CompanyId": "3C9AD5AB-0AE8-4DB4-A0A4-B1882B1FFEFC",
+    "RangeName": "Residential Property Sales",
+    "Description": "Buying and selling residential properties",
+    "SortOrder": 0,
+    "IsDeleted": false,
+    "CreatedAt": "2026-06-17T08:53:01.6703428"
+  },
+  {
+    "Id": "43CBA8DB-2FAE-4102-816C-5E49C783B383",
+    "CompanyId": "EB814B0E-C031-45EA-9278-F3F7665A12FE",
+    "RangeName": "Printed Packaging Boxes",
+    "Description": "Custom-branded packaging solutions",
+    "SortOrder": 3,
+    "IsDeleted": false,
+    "CreatedAt": "2026-06-22T06:10:30.7129710"
+  },
+  {
+    "Id": "1DF44CC0-6F97-4076-ADCF-5F05DC7A8958",
+    "CompanyId": "EF5D7384-77C6-4F86-9F01-EB3BF59F7FC1",
+    "RangeName": "Tractor Assemblies",
+    "Description": "Complete tractor sub-assemblies",
+    "SortOrder": 3,
+    "IsDeleted": false,
+    "CreatedAt": "2026-06-17T07:37:17.2499675",
+    "UpdatedAt": "2026-08-09T10:48:37.2118544"
+  },
+  {
+    "Id": "F726D693-71D5-4870-9227-5F860C20CE7A",
+    "CompanyId": "4CC07307-2FD5-452A-AD22-EE323E07B8C5",
+    "RangeName": "TV Units:",
+    "Description": "Stylish media consoles designed for modern entertainment setups",
+    "SortOrder": 2,
+    "IsDeleted": false,
+    "CreatedAt": "2026-06-16T08:12:30.9972402"
+  },
+  {
+    "Id": "E1BE0073-EF69-4D3B-A8DD-5F9EB59DDD8B",
+    "CompanyId": "0299E19D-D41F-4502-9B21-934517D9A7C2",
+    "RangeName": "Commercial & Waterproof Plywood:",
+    "Description": "High-durability boards for all-weather applications.",
+    "SortOrder": 0,
+    "IsDeleted": false,
+    "CreatedAt": "2026-06-16T06:58:36.6118529",
+    "UpdatedAt": "2026-08-09T09:08:29.2903162"
+  },
+  {
+    "Id": "E349363B-E9C8-488D-B6F8-605CB5277329",
+    "CompanyId": "1158CD5A-894E-45AA-96AC-9CA329806ABC",
+    "RangeName": "Agricultural Gearboxes",
+    "Description": "Gear systems for farming machinery",
+    "SortOrder": 1,
+    "IsDeleted": false,
+    "CreatedAt": "2026-06-22T07:02:58.1476062",
+    "UpdatedAt": "2026-08-09T11:31:43.1553715"
+  },
+  {
+    "Id": "ABBBE226-8EDC-49B0-BA4C-6118635728A8",
+    "CompanyId": "28047682-FFF6-4EAB-A3C0-9E8CB1941A22",
+    "RangeName": "Traditional Indian Food Mixes",
+    "Description": "Authentic Indian recipe-based products",
+    "SortOrder": 3,
+    "IsDeleted": false,
+    "CreatedAt": "2026-06-18T08:39:01.3534980",
+    "UpdatedAt": "2026-08-09T09:07:42.2685097"
+  },
+  {
+    "Id": "94B22B55-1922-4B93-BB5A-61332713C0BB",
+    "CompanyId": "A5C3FAEB-8DD8-4D06-9846-70F171B9F8E4",
+    "RangeName": "Granite Tiles",
+    "Description": "Durable stone tiles for flooring and walls",
+    "SortOrder": 2,
+    "IsDeleted": false,
+    "CreatedAt": "2026-06-19T08:29:31.3426320"
+  },
+  {
+    "Id": "DA4A2F56-D057-47B2-9501-61847C8C1130",
+    "CompanyId": "DACC7470-2926-4D08-8279-234BBD3D1EF8",
+    "RangeName": "Infection Control:",
+    "Description": "Broad-spectrum Antibiotics and Antimicrobial agents",
+    "SortOrder": 1,
+    "IsDeleted": false,
+    "CreatedAt": "2026-06-13T10:11:54.5745668",
+    "UpdatedAt": "2026-08-09T09:12:11.5184086"
+  },
+  {
+    "Id": "F5841A36-01E1-421E-B004-618872B46BDA",
+    "CompanyId": "1742482C-124A-43A5-9281-0B8A20E470C9",
+    "RangeName": "Granite Flooring",
+    "Description": "Strong and elegant flooring materials",
+    "SortOrder": 2,
+    "IsDeleted": false,
+    "CreatedAt": "2026-06-22T08:33:34.8228185",
+    "UpdatedAt": "2026-08-09T11:28:49.1825487"
+  },
+  {
+    "Id": "321E80D2-5484-4F78-B43E-619B1BC41969",
+    "CompanyId": "DACC7470-2926-4D08-8279-234BBD3D1EF8",
+    "RangeName": "Gastrointestinal Health:",
+    "Description": "Specialized solutions for digestive wellness.",
+    "SortOrder": 3,
+    "IsDeleted": false,
+    "CreatedAt": "2026-06-13T10:11:54.5784799",
+    "UpdatedAt": "2026-08-09T09:12:11.5291511"
+  },
+  {
+    "Id": "D8182A2F-C340-47A9-8B90-61BA5CBDF973",
+    "CompanyId": "5265053A-9447-4072-8DA1-BF9A7C966041",
+    "RangeName": "Electrical Terminals",
+    "Description": "Reliable wire termination solutions",
+    "SortOrder": 1,
+    "IsDeleted": false,
+    "CreatedAt": "2026-06-17T08:38:39.5342629",
+    "UpdatedAt": "2026-08-09T10:50:30.5346267"
+  },
+  {
+    "Id": "D77C4019-FF22-4235-8F88-620D570C7F39",
+    "CompanyId": "CFB3C2B5-0166-4366-AC66-3F50300394AD",
+    "RangeName": "Dressing Tables:",
+    "Description": "Elegant and functional vanity units tailored to various interior styles.",
+    "SortOrder": 2,
+    "IsDeleted": false,
+    "CreatedAt": "2026-06-16T08:27:04.2719120"
+  },
+  {
+    "Id": "6E510C51-2788-46AC-ACA2-62C18926DBFA",
+    "CompanyId": "0A70184D-DCB8-4A80-B850-2714FA296F5F",
+    "RangeName": "Air Coolers",
+    "Description": "Economical and effective cooling solutions",
+    "SortOrder": 2,
+    "IsDeleted": false,
+    "CreatedAt": "2026-06-22T10:28:03.3188493",
+    "UpdatedAt": "2026-08-09T11:36:27.6643823"
+  },
+  {
+    "Id": "B29E73B3-5FD6-4D44-B4EC-6334347E292F",
+    "CompanyId": "B7DC10D6-6F79-4367-8536-625D0938C566",
+    "RangeName": "Customized Brackets",
+    "Description": "Manufactured as per drawings and specifications",
+    "SortOrder": 1,
+    "IsDeleted": false,
+    "CreatedAt": "2026-06-22T08:51:49.4148208",
+    "UpdatedAt": "2026-08-09T11:32:08.9391424"
+  },
+  {
+    "Id": "633898CC-E602-4BEF-9663-647B2E67CE77",
+    "CompanyId": "C4A8295E-88C9-4181-AE99-B0360678701D",
+    "RangeName": "Mirrorless Cameras",
+    "Description": "Advanced compact imaging solutions",
+    "SortOrder": 1,
+    "IsDeleted": false,
+    "CreatedAt": "2026-06-22T08:11:03.5911249",
+    "UpdatedAt": "2026-08-09T11:31:21.5649103"
+  },
+  {
+    "Id": "B2F4EAC2-E40B-43D2-8B4D-647B6E239336",
+    "CompanyId": "D7EA9EB1-2FD2-4971-AFA3-CC16B2484BA3",
+    "RangeName": "Built-in Bath Tubs",
+    "Description": "Integrated tubs for modern bathrooms",
+    "SortOrder": 1,
+    "IsDeleted": false,
+    "CreatedAt": "2026-06-17T05:47:14.0299252",
+    "UpdatedAt": "2026-08-09T10:42:16.3861679"
+  },
+  {
+    "Id": "FB111615-FA0B-4743-A28B-64A94DECFCD2",
+    "CompanyId": "9BB8BD36-FF85-4E2C-B7F9-C7926FEEEAA7",
+    "RangeName": "Protein Supplements",
+    "Description": "Nutritional support for strength and fitness",
+    "SortOrder": 2,
+    "IsDeleted": false,
+    "CreatedAt": "2026-06-22T10:16:11.4207259",
+    "UpdatedAt": "2026-08-09T11:35:55.8338414"
+  },
+  {
+    "Id": "D1BCC139-D899-4FD4-9DB4-64EDC2DFF850",
+    "CompanyId": "CB8E0D27-155B-4DEB-9616-DB68B3C04511",
+    "RangeName": "Programmable Logic Controllers (PLC)",
+    "Description": "Automated process control systems",
+    "SortOrder": 1,
+    "IsDeleted": false,
+    "CreatedAt": "2026-06-22T09:10:26.2311357",
+    "UpdatedAt": "2026-08-09T11:33:15.0188415"
+  },
+  {
+    "Id": "48833576-7280-4A1D-8837-6525703F9F7F",
+    "CompanyId": "3C025E6A-C528-482F-91C9-2757F5CD504C",
+    "RangeName": "Elbows",
+    "Description": "Direction-changing pipe fittings",
+    "SortOrder": 0,
+    "IsDeleted": false,
+    "CreatedAt": "2026-06-17T06:05:10.3576330",
+    "UpdatedAt": "2026-08-09T10:44:28.6250410"
+  },
+  {
+    "Id": "DF40CB76-A02C-4B24-BDAB-65620F91FAEB",
+    "CompanyId": "8C639C7C-2955-444F-88EE-82DB4F4CF9B4",
+    "RangeName": "Polished Marble",
+    "Description": "Smooth, glossy marble finishes",
+    "SortOrder": 3,
+    "IsDeleted": false,
+    "CreatedAt": "2026-06-17T08:13:47.5122580"
+  },
+  {
+    "Id": "7064B312-A7CD-423D-BB75-65ABA7A07318",
+    "CompanyId": "8288E8E7-6B93-4A59-9C73-17BA62870912",
+    "RangeName": "Enterprise Routers",
+    "Description": "Advanced routing for business networks",
+    "SortOrder": 1,
+    "IsDeleted": false,
+    "CreatedAt": "2026-06-22T08:56:13.7765851"
+  },
+  {
+    "Id": "DD87966A-D6CA-4959-BD0B-66DBCAC87EF8",
+    "CompanyId": "D96A6FF3-33B2-4AC7-97BB-7AF5CFE97D1A",
+    "RangeName": "HR Management Systems (HRMS)",
+    "Description": "Employee lifecycle management software",
+    "SortOrder": 3,
+    "IsDeleted": false,
+    "CreatedAt": "2026-06-19T10:18:39.8761461",
+    "UpdatedAt": "2026-07-13T18:49:53.6012898"
+  },
+  {
+    "Id": "F5375CCF-AC2E-4A5C-A5D4-6700C69532FB",
+    "CompanyId": "B496B428-B4EF-4864-B2E7-C3E92227CD86",
+    "RangeName": "Ceramic & Polyester Capacitors",
+    "Description": "",
+    "SortOrder": 3,
+    "IsDeleted": false,
+    "CreatedAt": "2026-08-09T08:53:55.1641877"
+  },
+  {
+    "Id": "8EDC7464-B8D3-4C56-BB9D-6757250799FE",
+    "CompanyId": "8345B68E-9174-4C01-AB33-C1CD6CDDAD9B",
+    "RangeName": "Steel Plates",
+    "Description": "Heavy-duty plates for fabrication work",
+    "SortOrder": 3,
+    "IsDeleted": false,
+    "CreatedAt": "2026-06-22T07:47:50.5368794"
+  },
+  {
+    "Id": "F9A6BA62-43B9-4A00-A064-690917C83733",
+    "CompanyId": "DDC2F246-A2F4-4591-BEB5-2D36E763A932",
+    "RangeName": "Immunity Boosters",
+    "Description": "Nutritional products supporting immune health",
+    "SortOrder": 2,
+    "IsDeleted": false,
+    "CreatedAt": "2026-06-22T10:22:36.7987385"
+  },
+  {
+    "Id": "C18B6488-0FC5-46BB-A8AE-69A0348934AC",
+    "CompanyId": "B0710D0A-ED9B-455E-9603-2D94AD27D73C",
+    "RangeName": "Industrial Machines",
+    "Description": "Equipment for industrial operations",
+    "SortOrder": 0,
+    "IsDeleted": false,
+    "CreatedAt": "2026-06-18T05:21:24.8841577",
+    "UpdatedAt": "2026-08-09T10:55:49.8084607"
+  },
+  {
+    "Id": "4DF75F77-CA5A-4361-8A17-6A3883637A7E",
+    "CompanyId": "71960A64-6ABD-498F-8E7E-332A36A2471A",
+    "RangeName": "Wash Basins",
+    "Description": "Stylish and functional basin solutions",
+    "SortOrder": 0,
+    "IsDeleted": false,
+    "CreatedAt": "2026-06-19T08:47:14.0926412",
+    "UpdatedAt": "2026-06-19T08:47:47.6095894"
+  },
+  {
+    "Id": "DF6AEFCF-C8F3-4B94-9259-6A51984F177C",
+    "CompanyId": "9218FC60-5AA2-40A4-AA74-4B483069EE92",
+    "RangeName": "Engineered Wood",
+    "Description": "Modern wood solutions for diverse applications",
+    "SortOrder": 1,
+    "IsDeleted": false,
+    "CreatedAt": "2026-06-22T08:43:14.0833376",
+    "UpdatedAt": "2026-08-09T11:27:40.7474146"
+  },
+  {
+    "Id": "E87C0283-358D-4E1C-844A-6AFB5D6DE423",
+    "CompanyId": "052C3193-DF0C-426A-8879-1F1EB0909326",
+    "RangeName": "Decorative Veneers",
+    "Description": "Natural wood finish veneers",
+    "SortOrder": 2,
+    "IsDeleted": false,
+    "CreatedAt": "2026-06-17T05:14:17.7587418"
+  },
+  {
+    "Id": "2DB32B90-FBFA-4564-82EA-6B0AF11533A4",
+    "CompanyId": "052C3193-DF0C-426A-8879-1F1EB0909326",
+    "RangeName": "Laminates",
+    "Description": "Decorative laminates in various designs",
+    "SortOrder": 3,
+    "IsDeleted": false,
+    "CreatedAt": "2026-06-17T05:14:17.7645357"
+  },
+  {
+    "Id": "D74E4600-E905-4584-9324-6B1F709FB690",
+    "CompanyId": "0A70184D-DCB8-4A80-B850-2714FA296F5F",
+    "RangeName": "Refrigeration Parts",
+    "Description": "Quality components for refrigeration systems",
+    "SortOrder": 3,
+    "IsDeleted": false,
+    "CreatedAt": "2026-06-22T10:28:03.3210554",
+    "UpdatedAt": "2026-08-09T11:36:27.6684964"
+  },
+  {
+    "Id": "589193B2-2506-4524-B556-6B6580D59D57",
+    "CompanyId": "9BB8BD36-FF85-4E2C-B7F9-C7926FEEEAA7",
+    "RangeName": "Multimineral Supplements",
+    "Description": "Essential mineral supplementation solutions",
+    "SortOrder": 1,
+    "IsDeleted": false,
+    "CreatedAt": "2026-06-22T10:16:11.4189899",
+    "UpdatedAt": "2026-08-09T11:35:55.8295706"
+  },
+  {
+    "Id": "8B3A132B-634D-46F6-B652-6BB3CC5E217E",
+    "CompanyId": "E2D5B6D0-ECBD-493B-94D1-1938A7C343C2",
+    "RangeName": "Crispy Snacks:",
+    "Description": "Modern snack variants, extruded items, and crunch-focused products.",
+    "SortOrder": 1,
+    "IsDeleted": false,
+    "CreatedAt": "2026-06-13T09:02:29.2338069",
+    "UpdatedAt": "2026-08-09T09:09:57.3867236"
+  },
+  {
+    "Id": "8DE66D21-4756-41BC-A0C8-6CC72019BE29",
+    "CompanyId": "0299E19D-D41F-4502-9B21-934517D9A7C2",
+    "RangeName": "Decorative Veneers:",
+    "Description": "Premium wood finishes for high-end cabinetry and panels.",
+    "SortOrder": 2,
+    "IsDeleted": false,
+    "CreatedAt": "2026-06-16T06:58:36.6654827",
+    "UpdatedAt": "2026-08-09T09:08:29.3188142"
+  },
+  {
+    "Id": "51155D37-B332-404D-85A3-6D41AC722456",
+    "CompanyId": "CA788667-C129-4295-A265-EF2F6FAEE9C2",
+    "RangeName": "Copper Flats",
+    "Description": "High-quality copper flats for electrical systems",
+    "SortOrder": 3,
+    "IsDeleted": false,
+    "CreatedAt": "2026-06-19T10:35:13.0361546",
+    "UpdatedAt": "2026-08-09T11:18:18.5136554"
+  },
+  {
+    "Id": "CF19F14A-AE2A-4A74-A248-6DAFB2DA5A60",
+    "CompanyId": "CDA24D2F-59B5-44C5-B465-64A8EE7FAC59",
+    "RangeName": "Sintex Loft Water Tank",
+    "Description": "",
+    "SortOrder": 2,
+    "IsDeleted": false,
+    "CreatedAt": "2026-05-27T13:00:20.2610996",
+    "UpdatedAt": "2026-08-09T08:14:11.6419708"
+  },
+  {
+    "Id": "C5A655D0-9B63-4CD1-B2A6-6DFEDFBB9A9E",
+    "CompanyId": "0B419F36-5AF1-4DAF-AF26-02F4878510DA",
+    "RangeName": "Welding Electrodes",
+    "Description": "Reliable electrodes for industrial welding",
+    "SortOrder": 1,
+    "IsDeleted": false,
+    "CreatedAt": "2026-06-19T09:52:16.0665843",
+    "UpdatedAt": "2026-08-09T11:14:05.6844129"
+  },
+  {
+    "Id": "6CAAA1AD-5408-47E1-93EC-6E13EF2DD473",
+    "CompanyId": "D19C831D-EA5A-4879-9A06-8B5A5CFF5116",
+    "RangeName": "Industrial Transformers",
+    "Description": "Solutions for industrial electrical systems",
+    "SortOrder": 3,
+    "IsDeleted": false,
+    "CreatedAt": "2026-06-19T06:11:16.2824577",
+    "UpdatedAt": "2026-06-19T07:05:36.7769157"
+  },
+  {
+    "Id": "8AA1FB45-6889-41F0-B0C2-6EA7B9DCF255",
+    "CompanyId": "DEC0B44E-FCF9-441D-8AA3-E379724001D0",
+    "RangeName": "Virtual Assistance:",
+    "Description": "Dedicated remote support for complex business tasks",
+    "SortOrder": 2,
+    "IsDeleted": false,
+    "CreatedAt": "2026-06-13T09:52:25.6742405"
+  },
+  {
+    "Id": "574C5CEE-96BB-409A-96E2-6EC2E6D061FB",
+    "CompanyId": "DDC2F246-A2F4-4591-BEB5-2D36E763A932",
+    "RangeName": "Multimineral Supplements",
+    "Description": "Essential mineral formulations for wellness",
+    "SortOrder": 1,
+    "IsDeleted": false,
+    "CreatedAt": "2026-06-22T10:22:36.7960592"
+  },
+  {
+    "Id": "884C2D35-3BDD-4D2A-A928-6ED4A7DD431F",
+    "CompanyId": "1158CD5A-894E-45AA-96AC-9CA329806ABC",
+    "RangeName": "Industrial Gearboxes",
+    "Description": "Heavy-duty gear transmission solutions",
+    "SortOrder": 0,
+    "IsDeleted": false,
+    "CreatedAt": "2026-06-22T07:02:58.1431308",
+    "UpdatedAt": "2026-08-09T11:31:43.1513052"
+  },
+  {
+    "Id": "F0A14E63-34B2-42B2-83DF-6F433D24A959",
+    "CompanyId": "A2CA0685-DD51-48A3-BE15-F7941CC09C11",
+    "RangeName": "Growing Kids Body Massage",
+    "Description": "Mihaana Balyam for Growing and sporty kids above 5 years",
+    "SortOrder": 1,
+    "IsDeleted": false,
+    "CreatedAt": "2026-06-29T11:40:24.5066854",
+    "UpdatedAt": "2026-09-19T11:35:47.9919133"
+  },
+  {
+    "Id": "AD3B1E30-1AC3-454B-AA49-6FEF67F545ED",
+    "CompanyId": "080A5374-12D7-469F-AF26-A954B04E52B2",
+    "RangeName": "Woodworking Solutions",
+    "Description": "Materials for custom wood projects",
+    "SortOrder": 3,
+    "IsDeleted": false,
+    "CreatedAt": "2026-06-17T08:04:13.9611072"
+  },
+  {
+    "Id": "039048E6-5A1E-4935-B8F6-7071B5E7D3D4",
+    "CompanyId": "DDFDD5D4-07AA-46C2-B631-0FF07C388E08",
+    "RangeName": "Production Equipment",
+    "Description": "Equipment designed for efficient production",
+    "SortOrder": 3,
+    "IsDeleted": false,
+    "CreatedAt": "2026-06-22T05:46:31.4015922",
+    "UpdatedAt": "2026-08-09T11:23:16.9938079"
+  },
+  {
+    "Id": "37FE9078-9DD4-40B9-988E-70BDAAE41D0F",
+    "CompanyId": "9218FC60-5AA2-40A4-AA74-4B483069EE92",
+    "RangeName": "Natural Wood",
+    "Description": "Premium timber for furniture and interiors",
+    "SortOrder": 0,
+    "IsDeleted": false,
+    "CreatedAt": "2026-06-22T08:43:14.0785937",
+    "UpdatedAt": "2026-08-09T11:27:40.7430372"
+  },
+  {
+    "Id": "C87D6EA1-627A-40DE-A7C7-713AE3A3F4A4",
+    "CompanyId": "204A50C5-EAC1-4B4D-9FC9-C4106AC25D0A",
+    "RangeName": "Speaker Systems",
+    "Description": "Portable and personal audio solutions",
+    "SortOrder": 3,
+    "IsDeleted": false,
+    "CreatedAt": "2026-06-17T07:47:08.5956631",
+    "UpdatedAt": "2026-08-09T10:49:12.6004400"
+  },
+  {
+    "Id": "E5E80669-BB1C-4C07-BDF6-728E6D226A5C",
+    "CompanyId": "32B2B767-976E-4623-BCA2-C1627A5D8946",
+    "RangeName": "Mustard Oil",
+    "Description": "Pure mustard oil for cooking and food applications",
+    "SortOrder": 2,
+    "IsDeleted": false,
+    "CreatedAt": "2026-06-22T04:57:55.8287052",
+    "UpdatedAt": "2026-08-09T11:18:53.1092452"
+  },
+  {
+    "Id": "A94A989D-5E08-44AE-AEFB-7407C155241A",
+    "CompanyId": "CA788667-C129-4295-A265-EF2F6FAEE9C2",
+    "RangeName": "Copper Strips",
+    "Description": "Precision copper strips for industrial applications",
+    "SortOrder": 2,
+    "IsDeleted": false,
+    "CreatedAt": "2026-06-19T10:35:13.0330610",
+    "UpdatedAt": "2026-08-09T11:18:18.5088393"
+  },
+  {
+    "Id": "BB1774BC-8EB7-4D17-B9EF-748490BBBDAA",
+    "CompanyId": "D7EA9EB1-2FD2-4971-AFA3-CC16B2484BA3",
+    "RangeName": "Freestanding Bath Tubs",
+    "Description": "Elegant standalone bathtub designs",
+    "SortOrder": 0,
+    "IsDeleted": false,
+    "CreatedAt": "2026-06-17T05:47:14.0041220",
+    "UpdatedAt": "2026-08-09T10:42:16.3817117"
+  },
+  {
+    "Id": "D014A473-ABDC-4978-BC18-757F3972018C",
+    "CompanyId": "A98F7A71-FBAA-4289-904C-31C6626C2F24",
+    "RangeName": "Herbal & Ayurvedic Supplements",
+    "Description": "",
+    "SortOrder": 0,
+    "IsDeleted": false,
+    "CreatedAt": "2026-08-09T11:05:28.9085167"
+  },
+  {
+    "Id": "440DBB65-0B87-4E38-9B30-7627F551088A",
+    "CompanyId": "2EE37A68-5A1B-487F-8EB9-FA7C5B93BEBB",
+    "RangeName": "Hardware Essentials:",
+    "Description": "Connectors, adapters, and specialized digital infrastructure components.",
+    "SortOrder": 3,
+    "IsDeleted": false,
+    "CreatedAt": "2026-06-16T08:06:26.7878909",
+    "UpdatedAt": "2026-08-09T10:31:13.3451211"
+  },
+  {
+    "Id": "37E99424-DA6B-45EE-8430-762C2BBD2297",
+    "CompanyId": "3C025E6A-C528-482F-91C9-2757F5CD504C",
+    "RangeName": "Couplings",
+    "Description": "Pipe joining solutions",
+    "SortOrder": 3,
+    "IsDeleted": false,
+    "CreatedAt": "2026-06-17T06:05:10.3711675",
+    "UpdatedAt": "2026-08-09T10:44:28.6380267"
+  },
+  {
+    "Id": "C04A79A7-CF59-4B2C-8288-76CB51A8FF7E",
+    "CompanyId": "80493001-8542-440C-B606-ECEEFF1A8548",
+    "RangeName": "Medical Disposables",
+    "Description": "Single-use healthcare consumables",
+    "SortOrder": 3,
+    "IsDeleted": false,
+    "CreatedAt": "2026-06-18T05:51:06.0252663",
+    "UpdatedAt": "2026-08-09T10:56:37.6993296"
+  },
+  {
+    "Id": "46BCBD5D-A4BB-43F6-8D2E-77DD8E131E75",
+    "CompanyId": "8C639C7C-2955-444F-88EE-82DB4F4CF9B4",
+    "RangeName": "Marble Tiles",
+    "Description": "Premium marble tiles for interiors",
+    "SortOrder": 1,
+    "IsDeleted": false,
+    "CreatedAt": "2026-06-17T08:13:47.5029338"
+  },
+  {
+    "Id": "FEB270FA-C71C-4B19-BC8D-7801A4919112",
+    "CompanyId": "6D3065CB-83C3-446D-B4C6-641E6E5F24E1",
+    "RangeName": "Smoothie Machines",
+    "Description": "High-performance smoothie blending systems",
+    "SortOrder": 3,
+    "IsDeleted": false,
+    "CreatedAt": "2026-06-22T05:17:42.6818766",
+    "UpdatedAt": "2026-08-09T11:20:18.5012512"
+  },
+  {
+    "Id": "4504F563-2959-4313-B8B6-7CD7217A7755",
+    "CompanyId": "2A46A0A3-E514-4C7A-B16D-CCE73472A426",
+    "RangeName": "Industrial Machines",
+    "Description": "Machinery for industrial operations and production",
+    "SortOrder": 0,
+    "IsDeleted": false,
+    "CreatedAt": "2026-06-22T05:40:17.1928358",
+    "UpdatedAt": "2026-08-09T11:22:16.1465473"
+  },
+  {
+    "Id": "96322408-76FD-44F8-91AF-7D3905D42961",
+    "CompanyId": "DDFDD5D4-07AA-46C2-B631-0FF07C388E08",
+    "RangeName": "Mill Equipment",
+    "Description": "High-performance equipment for mill operations",
+    "SortOrder": 1,
+    "IsDeleted": false,
+    "CreatedAt": "2026-06-22T05:46:31.3978271",
+    "UpdatedAt": "2026-08-09T11:23:16.9852354"
+  },
+  {
+    "Id": "71ABA35B-67C4-4F61-AFC9-7D91C0397113",
+    "CompanyId": "2BB91236-AA0D-4771-A1CE-4B6D04800F9A",
+    "RangeName": "Project Ready:",
+    "Description": "Tailored supply chains for large-scale construction.",
+    "SortOrder": 2,
+    "IsDeleted": false,
+    "CreatedAt": "2026-06-13T08:07:54.5895726",
+    "UpdatedAt": "2026-08-09T09:10:36.3326012"
+  },
+  {
+    "Id": "7272D09D-B8D2-448C-95BF-7D92F64726A1",
+    "CompanyId": "B3CD53E6-3502-4C4A-BED3-680511FE8CE7",
+    "RangeName": "Mobile Accessories",
+    "Description": "Essential accessories for smartphones",
+    "SortOrder": 1,
+    "IsDeleted": false,
+    "CreatedAt": "2026-06-19T09:06:50.4542518"
+  },
+  {
+    "Id": "D2692A6C-B6F4-4A70-A394-7DBF8951C237",
+    "CompanyId": "077E9EF7-BCF3-4CC8-9441-A20259E2741B",
+    "RangeName": "Marine Plywood",
+    "Description": "Water-resistant plywood for demanding environments",
+    "SortOrder": 3,
+    "IsDeleted": false,
+    "CreatedAt": "2026-06-18T06:44:11.4129636",
+    "UpdatedAt": "2026-08-09T11:01:03.6271156"
+  },
+  {
+    "Id": "335F3268-B095-488E-8BAB-7FBFCDCC743F",
+    "CompanyId": "6E871E7F-3867-4D16-871F-250A2DBBBAC1",
+    "RangeName": "Earthing Materials",
+    "Description": "Complete grounding and earthing solutions",
+    "SortOrder": 1,
+    "IsDeleted": false,
+    "CreatedAt": "2026-06-17T05:26:12.8664640",
+    "UpdatedAt": "2026-08-09T10:41:25.4437393"
+  },
+  {
+    "Id": "E42AB237-D409-413D-B0BA-8098F13198A9",
+    "CompanyId": "D5A9FACF-6CE4-4096-A306-89E67C6F4E54",
+    "RangeName": "Industrial Bolts",
+    "Description": "High-strength fastening solutions",
+    "SortOrder": 0,
+    "IsDeleted": false,
+    "CreatedAt": "2026-06-19T07:53:18.9245439"
+  },
+  {
+    "Id": "E0FC1199-32E0-4C24-9588-815A155F2525",
+    "CompanyId": "79A6FCC6-01D7-4184-B7BE-B057298B16C3",
+    "RangeName": "Safety Shoes",
+    "Description": "Industrial-grade protective footwear",
+    "SortOrder": 2,
+    "IsDeleted": false,
+    "CreatedAt": "2026-06-17T06:55:42.6179787",
+    "UpdatedAt": "2026-08-09T10:46:08.3487791"
+  },
+  {
+    "Id": "B256797D-5BBD-470B-8A64-829BE1CD30B7",
+    "CompanyId": "0B419F36-5AF1-4DAF-AF26-02F4878510DA",
+    "RangeName": "Welding Wires",
+    "Description": "Precision welding wire solutions",
+    "SortOrder": 2,
+    "IsDeleted": false,
+    "CreatedAt": "2026-06-19T09:52:16.0908126",
+    "UpdatedAt": "2026-08-09T11:14:05.6915173"
+  },
+  {
+    "Id": "AB2DA847-7AF2-4D88-9403-82BA3F8CA154",
+    "CompanyId": "C58CC091-6A05-4563-8EF4-7DE8A08B1D31",
+    "RangeName": "Sanitary Fittings",
+    "Description": "High quality and durable fittings from all major brands",
+    "SortOrder": 2,
+    "IsDeleted": false,
+    "CreatedAt": "2026-08-09T08:26:15.1858577"
+  },
+  {
+    "Id": "1116336F-8355-4B01-872B-82D5C05AE629",
+    "CompanyId": "8288E8E7-6B93-4A59-9C73-17BA62870912",
+    "RangeName": "LAN Cables",
+    "Description": "Structured networking cable solutions",
+    "SortOrder": 2,
+    "IsDeleted": false,
+    "CreatedAt": "2026-06-22T08:56:13.7792442"
+  },
+  {
+    "Id": "796B823B-8E9E-4F50-9455-82D8902DDE29",
+    "CompanyId": "41F155A0-52E9-482F-9F76-66191E7A69AC",
+    "RangeName": "Wooden Furniture",
+    "Description": "Durable and stylish wooden furnishings",
+    "SortOrder": 1,
+    "IsDeleted": true,
+    "CreatedAt": "2026-06-17T09:59:11.6065719",
+    "UpdatedAt": "2026-06-17T10:15:09.7272840"
+  },
+  {
+    "Id": "30C15F01-F5D9-4E11-9A16-8303E466347F",
+    "CompanyId": "2BB91236-AA0D-4771-A1CE-4B6D04800F9A",
+    "RangeName": "Verified Quality:",
+    "Description": "Authorized stockists for leading market brands",
+    "SortOrder": 1,
+    "IsDeleted": false,
+    "CreatedAt": "2026-06-13T08:07:54.5876806",
+    "UpdatedAt": "2026-08-09T09:10:36.3270718"
+  },
+  {
+    "Id": "F8E6AB9D-EC9B-4131-B084-830647438BD8",
+    "CompanyId": "79A6FCC6-01D7-4184-B7BE-B057298B16C3",
+    "RangeName": "Safety Helmets",
+    "Description": "Head protection equipment",
+    "SortOrder": 0,
+    "IsDeleted": false,
+    "CreatedAt": "2026-06-17T06:55:42.5432570",
+    "UpdatedAt": "2026-08-09T10:46:08.3414045"
+  },
+  {
+    "Id": "EB416087-D129-47D1-8818-839E0762B00F",
+    "CompanyId": "AF9FB7EC-578E-43CA-9C27-4DF06C3335DC",
+    "RangeName": "Herbal Wellness Products",
+    "Description": "Products for everyday well-being",
+    "SortOrder": 3,
+    "IsDeleted": false,
+    "CreatedAt": "2026-06-19T08:03:02.5297138"
+  },
+  {
+    "Id": "42882EAE-13A8-43C8-B7F0-83A0F6D91DF7",
+    "CompanyId": "8345B68E-9174-4C01-AB33-C1CD6CDDAD9B",
+    "RangeName": "Stainless Steel Round Bars",
+    "Description": "Corrosion-resistant industrial bars",
+    "SortOrder": 0,
+    "IsDeleted": false,
+    "CreatedAt": "2026-06-22T07:47:50.5263970"
+  },
+  {
+    "Id": "2D6B6852-82AC-4146-B5F3-83CB2F4AE802",
+    "CompanyId": "78D0F5A9-B193-4E46-95F4-B2792056A086",
+    "RangeName": "Industrial Bolts",
+    "Description": "Fasteners for manufacturing and engineering",
+    "SortOrder": 3,
+    "IsDeleted": false,
+    "CreatedAt": "2026-06-19T09:32:10.7433365",
+    "UpdatedAt": "2026-08-09T10:25:40.7429679"
+  },
+  {
+    "Id": "72109F82-743D-48CE-B374-8474ACB11279",
+    "CompanyId": "A25BB45A-D34D-4290-80DD-70CA4346DEE9",
+    "RangeName": "Wood Products",
+    "Description": "Quality timber and wood materials",
+    "SortOrder": 0,
+    "IsDeleted": false,
+    "CreatedAt": "2026-06-18T10:13:02.3534370"
+  },
+  {
+    "Id": "3540DEC9-57A1-43D7-B1A9-84E92B7A6AC4",
+    "CompanyId": "DACC7470-2926-4D08-8279-234BBD3D1EF8",
+    "RangeName": "Pain & Fever Management:",
+    "Description": "Advanced Analgesics and Antipyretics.",
+    "SortOrder": 0,
+    "IsDeleted": false,
+    "CreatedAt": "2026-06-13T10:11:54.5712679",
+    "UpdatedAt": "2026-08-09T09:12:11.5140539"
+  },
+  {
+    "Id": "288F569A-3735-489A-B90A-851BDA1C3811",
+    "CompanyId": "C58CC091-6A05-4563-8EF4-7DE8A08B1D31",
+    "RangeName": "Bathroom Fittings & Accessories",
+    "Description": "Best and Top quality from all major brands",
+    "SortOrder": 3,
+    "IsDeleted": false,
+    "CreatedAt": "2026-08-09T08:26:15.1890424"
+  },
+  {
+    "Id": "4F2A7E62-E315-40EA-AA0A-855A26864903",
+    "CompanyId": "568DC3A7-336A-413A-943D-873E6B32D17C",
+    "RangeName": "Mobile Chargers",
+    "Description": "Standard and fast charging solutions",
+    "SortOrder": 2,
+    "IsDeleted": false,
+    "CreatedAt": "2026-06-22T06:17:24.2334947",
+    "UpdatedAt": "2026-08-09T11:26:16.7958766"
+  },
+  {
+    "Id": "1146830A-70B8-477C-AA69-85BEE60A08DD",
+    "CompanyId": "24DA052A-6A92-4759-BC37-B831D40C682F",
+    "RangeName": "Door Frames & Panels:",
+    "Description": "High-durability frames and panels tailored to architectural requirements.",
+    "SortOrder": 0,
+    "IsDeleted": false,
+    "CreatedAt": "2026-06-16T06:39:48.6733234",
+    "UpdatedAt": "2026-08-09T10:26:05.3534140"
+  },
+  {
+    "Id": "4C136D4A-4072-4661-8C7B-86ED32A74B0A",
+    "CompanyId": "643141CD-B267-4CBF-B1D9-4599306F9E2E",
+    "RangeName": "LED Tube Lights",
+    "Description": "Bright and long-lasting lighting solutions",
+    "SortOrder": 3,
+    "IsDeleted": false,
+    "CreatedAt": "2026-06-22T09:44:30.0693033",
+    "UpdatedAt": "2026-08-09T11:33:52.5144665"
+  },
+  {
+    "Id": "6B1259DC-77C7-4DF5-8E3B-87A531711C74",
+    "CompanyId": "26322C8E-704B-4AE1-B260-55B513FBC7AA",
+    "RangeName": "Computer Accessories",
+    "Description": "Keyboards, Mouse, Storage Devices ",
+    "SortOrder": 1,
+    "IsDeleted": false,
+    "CreatedAt": "2026-06-17T05:07:55.4546111",
+    "UpdatedAt": "2026-08-09T10:40:05.6479693"
+  },
+  {
+    "Id": "2BC6E6BA-061A-4AD7-ABC3-8914CB5631DC",
+    "CompanyId": "B3CD53E6-3502-4C4A-BED3-680511FE8CE7",
+    "RangeName": "Smartphones",
+    "Description": "Latest mobile phones from major brands",
+    "SortOrder": 0,
+    "IsDeleted": false,
+    "CreatedAt": "2026-06-19T09:06:50.4100348"
+  },
+  {
+    "Id": "EAB249BC-D394-43C6-B7B6-8B100897578A",
+    "CompanyId": "8C19180C-FEFC-45AA-8A8A-E8E5851C4A9B",
+    "RangeName": "Dart Surfaceline:",
+    "Description": "Economical ground distribution for larger or less time-sensitive shipments",
+    "SortOrder": 2,
+    "IsDeleted": false,
+    "CreatedAt": "2026-06-16T08:37:42.4731289",
+    "UpdatedAt": "2026-08-09T10:37:38.9769669"
+  },
+  {
+    "Id": "017BDEB8-DADC-45C6-ACC3-8B74B487AFF3",
+    "CompanyId": "E2BFBD7E-F970-47A2-9B98-DBB1D480900B",
+    "RangeName": "Clevis Hooks",
+    "Description": "Heavy-duty hooks for lifting systems",
+    "SortOrder": 1,
+    "IsDeleted": false,
+    "CreatedAt": "2026-06-22T06:43:44.9147616",
+    "UpdatedAt": "2026-08-09T11:27:05.5446306"
+  },
+  {
+    "Id": "BDA10108-914D-4EDF-90B2-8B8582DF9EC7",
+    "CompanyId": "80493001-8542-440C-B606-ECEEFF1A8548",
+    "RangeName": "Orthopedic Supports",
+    "Description": "Support products for joints and muscles",
+    "SortOrder": 1,
+    "IsDeleted": false,
+    "CreatedAt": "2026-06-18T05:51:06.0189642",
+    "UpdatedAt": "2026-08-09T10:56:37.6839717"
+  },
+  {
+    "Id": "5C5DEF5F-41CC-428D-9415-8BF1B8A8EDBA",
+    "CompanyId": "5265053A-9447-4072-8DA1-BF9A7C966041",
+    "RangeName": "Protection Devices",
+    "Description": "Equipment for circuit protection",
+    "SortOrder": 3,
+    "IsDeleted": false,
+    "CreatedAt": "2026-06-17T08:38:39.5454370",
+    "UpdatedAt": "2026-08-09T10:50:30.5435736"
+  },
+  {
+    "Id": "C1B10A1E-F40B-4C2F-83F0-8C54DBADFCEA",
+    "CompanyId": "8698D43C-762E-48A2-B8A5-8A8D7AF061F4",
+    "RangeName": "Custom Software Development",
+    "Description": "Tailor-made business software solutions",
+    "SortOrder": 0,
+    "IsDeleted": false,
+    "CreatedAt": "2026-06-19T08:23:57.0212665"
+  },
+  {
+    "Id": "53BA0363-8B11-4BF0-9518-8D5707A967D8",
+    "CompanyId": "C64678BE-696B-4675-8248-3C1D4456BE51",
+    "RangeName": "Natural Stone Tiles",
+    "Description": "Durable and elegant flooring solutions",
+    "SortOrder": 0,
+    "IsDeleted": false,
+    "CreatedAt": "2026-06-22T10:09:32.7407484",
+    "UpdatedAt": "2026-08-09T11:35:23.9625181"
+  },
+  {
+    "Id": "A30C276E-3B35-4549-89B8-8D6BCDEDB05C",
+    "CompanyId": "052C3193-DF0C-426A-8879-1F1EB0909326",
+    "RangeName": "Commercial Plywood",
+    "Description": "Durable plywood for general applications",
+    "SortOrder": 1,
+    "IsDeleted": false,
+    "CreatedAt": "2026-06-17T05:14:17.7486582"
+  },
+  {
+    "Id": "E16A395C-6339-49CA-9F77-8D9E74CDBF43",
+    "CompanyId": "A5C3FAEB-8DD8-4D06-9846-70F171B9F8E4",
+    "RangeName": "Granite Slabs",
+    "Description": "High-strength granite for multiple applications",
+    "SortOrder": 3,
+    "IsDeleted": false,
+    "CreatedAt": "2026-06-19T08:29:31.3467778"
+  },
+  {
+    "Id": "DB50A4C1-F79A-43A2-A872-8E2E48376ADD",
+    "CompanyId": "A6C13E49-E5A5-41AD-BDC5-1596948E9D7F",
+    "RangeName": "Industrial Connectors",
+    "Description": "Heavy-duty industrial connection solutions",
+    "SortOrder": 2,
+    "IsDeleted": false,
+    "CreatedAt": "2026-06-22T08:27:14.0110151",
+    "UpdatedAt": "2026-08-09T11:29:18.7117007"
+  },
+  {
+    "Id": "F268F4E4-731C-46FF-9886-8E5B1A1CE6E2",
+    "CompanyId": "6E871E7F-3867-4D16-871F-250A2DBBBAC1",
+    "RangeName": "Earthing Electrodes",
+    "Description": "Reliable electrical grounding systems",
+    "SortOrder": 2,
+    "IsDeleted": false,
+    "CreatedAt": "2026-06-17T05:26:12.8697358",
+    "UpdatedAt": "2026-08-09T10:41:25.4474292"
+  },
+  {
+    "Id": "7662B84F-E1CF-4F23-817C-8E8608C4323A",
+    "CompanyId": "204A50C5-EAC1-4B4D-9FC9-C4106AC25D0A",
+    "RangeName": "Mobile Accessories",
+    "Description": "Essential smartphone accessories",
+    "SortOrder": 2,
+    "IsDeleted": false,
+    "CreatedAt": "2026-06-17T07:47:08.5906889",
+    "UpdatedAt": "2026-08-09T10:49:12.5949084"
+  },
+  {
+    "Id": "55E2C66D-530B-4A2F-8279-8E914127719F",
+    "CompanyId": "CDA24D2F-59B5-44C5-B465-64A8EE7FAC59",
+    "RangeName": "Jindal GI Pipe",
+    "Description": "",
+    "SortOrder": 6,
+    "IsDeleted": false,
+    "CreatedAt": "2026-05-27T13:00:20.2774814",
+    "UpdatedAt": "2026-08-09T08:14:11.6624158"
+  },
+  {
+    "Id": "1DE9A86F-846B-4F32-8323-8EFE6DD3AD5A",
+    "CompanyId": "71960A64-6ABD-498F-8E7E-332A36A2471A",
+    "RangeName": "Bathroom Sanitaryware",
+    "Description": "Comprehensive sanitary products",
+    "SortOrder": 1,
+    "IsDeleted": false,
+    "CreatedAt": "2026-06-19T08:47:14.0992403",
+    "UpdatedAt": "2026-06-19T08:47:47.6372468"
+  },
+  {
+    "Id": "E9BAA18D-E5DB-4DF8-B002-8F1B1AE51B36",
+    "CompanyId": "0A70184D-DCB8-4A80-B850-2714FA296F5F",
+    "RangeName": "Air Conditioners (AC)",
+    "Description": "Reliable cooling systems for homes and offices",
+    "SortOrder": 1,
+    "IsDeleted": false,
+    "CreatedAt": "2026-06-22T10:28:03.3165199",
+    "UpdatedAt": "2026-08-09T11:36:27.6604897"
+  },
+  {
+    "Id": "C143C9A4-A386-44F2-8429-8F69DC7F97C1",
+    "CompanyId": "D19C831D-EA5A-4879-9A06-8B5A5CFF5116",
+    "RangeName": "Power Transformers",
+    "Description": "High-capacity transformers for power systems",
+    "SortOrder": 0,
+    "IsDeleted": false,
+    "CreatedAt": "2026-06-19T06:11:16.2570404",
+    "UpdatedAt": "2026-06-19T07:05:36.7168589"
+  },
+  {
+    "Id": "67DC16F8-BA7A-479E-8F0E-8FDE328DA3E8",
+    "CompanyId": "DDC2F246-A2F4-4591-BEB5-2D36E763A932",
+    "RangeName": "Multivitamin Supplements",
+    "Description": "Daily nutritional support for overall health",
+    "SortOrder": 0,
+    "IsDeleted": false,
+    "CreatedAt": "2026-06-22T10:22:36.7903292"
+  },
+  {
+    "Id": "5B1DA6D1-112D-41D4-8224-90502D0D6B98",
+    "CompanyId": "8288E8E7-6B93-4A59-9C73-17BA62870912",
+    "RangeName": "Wi-Fi Routers",
+    "Description": "High-speed wireless networking solutions",
+    "SortOrder": 0,
+    "IsDeleted": false,
+    "CreatedAt": "2026-06-22T08:56:13.7707688"
+  },
+  {
+    "Id": "80D1778F-CEF5-4201-AC54-906AC689B42C",
+    "CompanyId": "EB814B0E-C031-45EA-9278-F3F7665A12FE",
+    "RangeName": "Carton Boxes",
+    "Description": "Durable cartons for commercial applications",
+    "SortOrder": 1,
+    "IsDeleted": false,
+    "CreatedAt": "2026-06-22T06:10:30.7088780"
+  },
+  {
+    "Id": "4B198180-D402-4550-8F9D-9134887DDC9D",
+    "CompanyId": "B496B428-B4EF-4864-B2E7-C3E92227CD86",
+    "RangeName": "Wire wound Resistors",
+    "Description": "",
+    "SortOrder": 2,
+    "IsDeleted": false,
+    "CreatedAt": "2026-08-09T08:53:55.1596574"
+  },
+  {
+    "Id": "C3ECF07E-E751-4611-B5C0-91F20CA1003F",
+    "CompanyId": "197097C3-8E6E-4EFD-B1B3-80B6B98F7498",
+    "RangeName": "Sunflower Oil",
+    "Description": "Light and versatile edible oil",
+    "SortOrder": 3,
+    "IsDeleted": false,
+    "CreatedAt": "2026-06-18T06:15:50.5587886",
+    "UpdatedAt": "2026-08-09T10:58:19.4233523"
+  },
+  {
+    "Id": "B60B8B2B-A47E-4DA6-8123-924871F06C5A",
+    "CompanyId": "AF9FB7EC-578E-43CA-9C27-4DF06C3335DC",
+    "RangeName": "Ayurvedic Tonics",
+    "Description": "Wellness and vitality support products",
+    "SortOrder": 1,
+    "IsDeleted": false,
+    "CreatedAt": "2026-06-19T08:03:02.5207127"
+  },
+  {
+    "Id": "317BB7D2-3E74-4DCC-B961-9331AD5D0C3A",
+    "CompanyId": "A6C13E49-E5A5-41AD-BDC5-1596948E9D7F",
+    "RangeName": "Electrical Connectors",
+    "Description": "Reliable connectors for power applications",
+    "SortOrder": 0,
+    "IsDeleted": false,
+    "CreatedAt": "2026-06-22T08:27:14.0011118",
+    "UpdatedAt": "2026-08-09T11:29:18.7025852"
+  },
+  {
+    "Id": "2B34E86C-DBD6-4485-9DD2-936AA0992512",
+    "CompanyId": "1EF3E696-86EF-413B-AE71-A071288E807E",
+    "RangeName": "Water Pumps",
+    "Description": "Domestic, agricultural, and industrial pumps",
+    "SortOrder": 0,
+    "IsDeleted": false,
+    "CreatedAt": "2026-06-22T08:39:46.6291269",
+    "UpdatedAt": "2026-08-09T11:28:17.4972078"
+  },
+  {
+    "Id": "9A3E4AA9-A44E-421F-8432-9402D49D4284",
+    "CompanyId": "5A7C06F9-FCE3-4649-961C-40EC457DAC03",
+    "RangeName": "Steel Tubes",
+    "Description": "Precision-engineered tube solutions",
+    "SortOrder": 1,
+    "IsDeleted": false,
+    "CreatedAt": "2026-06-19T08:58:50.9601907",
+    "UpdatedAt": "2026-08-09T11:11:56.4393445"
+  },
+  {
+    "Id": "0F4896B1-CF2E-4D0A-AAF2-94638F0AD0B2",
+    "CompanyId": "EEDB378F-43E8-4118-8D33-D51CB2ADD143",
+    "RangeName": "Fast Chargers",
+    "Description": "High-speed charging accessories",
+    "SortOrder": 3,
+    "IsDeleted": false,
+    "CreatedAt": "2026-06-22T08:59:19.4550088",
+    "UpdatedAt": "2026-08-09T11:32:39.8182403"
+  },
+  {
+    "Id": "1041387C-92AE-4CB2-AB11-94F5412515DA",
+    "CompanyId": "D85BEEF9-B88B-4B14-B435-C40D3F4E83F9",
+    "RangeName": "Computer Hardware Supply",
+    "Description": "Desktops, peripherals, and IT hardware solutions",
+    "SortOrder": 0,
+    "IsDeleted": false,
+    "CreatedAt": "2026-06-22T05:28:57.6717831",
+    "UpdatedAt": "2026-08-09T11:21:15.2405543"
+  },
+  {
+    "Id": "831E9227-8118-418A-97F6-95221DE8FBDD",
+    "CompanyId": "6E871E7F-3867-4D16-871F-250A2DBBBAC1",
+    "RangeName": "Industrial Pipe Clamps",
+    "Description": "Heavy-duty pipe support solutions",
+    "SortOrder": 3,
+    "IsDeleted": false,
+    "CreatedAt": "2026-06-17T05:26:12.8757715",
+    "UpdatedAt": "2026-08-09T10:41:25.4519112"
+  },
+  {
+    "Id": "461D7013-A370-4079-AD3A-95AB31B31387",
+    "CompanyId": "E9E89F3F-8B2B-4FBE-B118-D0015D702BE0",
+    "RangeName": "Padlocks & Safety Locks:",
+    "Description": "Reliable, robust locking devices for versatile security needs",
+    "SortOrder": 2,
+    "IsDeleted": false,
+    "CreatedAt": "2026-06-16T07:22:43.8610817"
+  },
+  {
+    "Id": "AE2C02A3-7ED0-4F90-A225-95B25912BAFB",
+    "CompanyId": "1F44FA53-9F65-4C5D-A592-4CDC531AFABB",
+    "RangeName": "Bedroom Furniture",
+    "Description": "Premium bedroom sets and furnishings",
+    "SortOrder": 1,
+    "IsDeleted": false,
+    "CreatedAt": "2026-06-19T08:20:21.3097806",
+    "UpdatedAt": "2026-08-08T05:09:47.5726218"
+  },
+  {
+    "Id": "EA2E3A27-6BBE-4963-BFC4-9628875B0E78",
+    "CompanyId": "2BB91236-AA0D-4771-A1CE-4B6D04800F9A",
+    "RangeName": "Ready Stock:",
+    "Description": "Large, organized inventory for urgent project needs.",
+    "SortOrder": 0,
+    "IsDeleted": false,
+    "CreatedAt": "2026-06-13T08:07:54.5842667",
+    "UpdatedAt": "2026-08-09T09:10:36.3167992"
+  },
+  {
+    "Id": "98ED1418-BA10-4FE1-B1F8-96356ADD8CA7",
+    "CompanyId": "DCB4E01A-3429-41AC-BB38-F657861BBCCF",
+    "RangeName": "Fever Relief Medicines",
+    "Description": "Medicines for fever management",
+    "SortOrder": 0,
+    "IsDeleted": false,
+    "CreatedAt": "2026-06-17T08:26:25.8594866"
+  },
+  {
+    "Id": "CCC59221-4D67-4BAC-8D54-96A1FDB0F95F",
+    "CompanyId": "6BDF61CC-52AD-4C16-BA2A-F943DC22F465",
+    "RangeName": "Dining Chairs",
+    "Description": "Comfortable and durable seating options",
+    "SortOrder": 3,
+    "IsDeleted": false,
+    "CreatedAt": "2026-06-22T10:05:54.4677042",
+    "UpdatedAt": "2026-08-09T11:34:25.4608255"
+  },
+  {
+    "Id": "0960996B-9DB4-440C-B195-96FDA49B7577",
+    "CompanyId": "D85BEEF9-B88B-4B14-B435-C40D3F4E83F9",
+    "RangeName": "Network Configuration",
+    "Description": "Secure network design and optimization",
+    "SortOrder": 2,
+    "IsDeleted": false,
+    "CreatedAt": "2026-06-22T05:28:57.6783255",
+    "UpdatedAt": "2026-08-09T11:21:15.2522709"
+  },
+  {
+    "Id": "8524E959-2A63-412E-A5AE-97223D80D729",
+    "CompanyId": "CDE9D210-D0C1-4295-BBE7-43E9BE58FF8F",
+    "RangeName": "Architectural Lighting:",
+    "Description": "Sleek Panel Lights, recessed Downlights, and Spotlights.",
+    "SortOrder": 1,
+    "IsDeleted": false,
+    "CreatedAt": "2026-06-13T10:25:03.3645512",
+    "UpdatedAt": "2026-08-09T09:12:42.7921407"
+  },
+  {
+    "Id": "D5712C4C-F5FE-44AD-A0A8-981D66013D62",
+    "CompanyId": "78D0F5A9-B193-4E46-95F4-B2792056A086",
+    "RangeName": "High-Strength Bolts",
+    "Description": "Heavy-duty bolts for critical applications",
+    "SortOrder": 1,
+    "IsDeleted": false,
+    "CreatedAt": "2026-06-19T09:32:10.7349436",
+    "UpdatedAt": "2026-08-09T10:25:40.7216295"
+  },
+  {
+    "Id": "D371A886-2FC6-4FA7-B841-983CDF9F446F",
+    "CompanyId": "D19C831D-EA5A-4879-9A06-8B5A5CFF5116",
+    "RangeName": "Electronic Transformers",
+    "Description": "Transformers for electronic applications",
+    "SortOrder": 2,
+    "IsDeleted": false,
+    "CreatedAt": "2026-06-19T06:11:16.2788427",
+    "UpdatedAt": "2026-06-19T07:05:36.7596143"
+  },
+  {
+    "Id": "9920C182-98A6-4DC9-9B9E-996BF11BB220",
+    "CompanyId": "8C639C7C-2955-444F-88EE-82DB4F4CF9B4",
+    "RangeName": "Stone Tiles",
+    "Description": "Durable and stylish flooring solutions",
+    "SortOrder": 0,
+    "IsDeleted": false,
+    "CreatedAt": "2026-06-17T08:13:47.4929174"
+  },
+  {
+    "Id": "F6FB6B2B-0C1B-49D1-AB1B-99E19768D342",
+    "CompanyId": "B7DC10D6-6F79-4367-8536-625D0938C566",
+    "RangeName": "Hitches",
+    "Description": "Durable connecting and towing components",
+    "SortOrder": 2,
+    "IsDeleted": false,
+    "CreatedAt": "2026-06-22T08:51:49.4172642",
+    "UpdatedAt": "2026-08-09T11:32:08.9431728"
+  },
+  {
+    "Id": "1F2407D1-393D-4BE8-96CB-9A9268A27F52",
+    "CompanyId": "314D48B7-6184-412D-B2F9-450463E0305C",
+    "RangeName": "Wall Putty for Smooth & Durable Finishes",
+    "Description": "",
+    "SortOrder": 2,
+    "IsDeleted": false,
+    "CreatedAt": "2026-06-11T19:03:09.5249542",
+    "UpdatedAt": "2026-06-11T19:41:35.3813363"
+  },
+  {
+    "Id": "A6DE0CA7-1E85-44CF-908A-9B0903093111",
+    "CompanyId": "24DA052A-6A92-4759-BC37-B831D40C682F",
+    "RangeName": "Window Frames & Shutters:",
+    "Description": "Precision-fit window systems for structural stability and aesthetics.",
+    "SortOrder": 1,
+    "IsDeleted": false,
+    "CreatedAt": "2026-06-16T06:39:48.6779770",
+    "UpdatedAt": "2026-08-09T10:26:05.3578425"
+  },
+  {
+    "Id": "33682405-624D-42A8-9FD4-9B26FF05FF9F",
+    "CompanyId": "A7B48AA5-C7DA-44B3-8E11-FE16A3A3246D",
+    "RangeName": "Capacitors",
+    "Description": "Aluminum Electrolytic Capacitors, Radial & Axial Capacitors",
+    "SortOrder": 1,
+    "IsDeleted": false,
+    "CreatedAt": "2026-06-13T06:29:02.9479453",
+    "UpdatedAt": "2026-08-09T08:31:17.5604789"
+  },
+  {
+    "Id": "119AF924-D15B-411D-88FA-9B92ABA7EA27",
+    "CompanyId": "FC93358A-3AB7-4409-B7DD-E02DA5CC4B2A",
+    "RangeName": "Wall Hung Basins",
+    "Description": "Space-saving bathroom basin solutions",
+    "SortOrder": 2,
+    "IsDeleted": false,
+    "CreatedAt": "2026-06-19T09:38:54.9280476"
+  },
+  {
+    "Id": "8CFF4BAC-165F-4D0C-ACD4-9BD454DAC441",
+    "CompanyId": "9218FC60-5AA2-40A4-AA74-4B483069EE92",
+    "RangeName": "MR Grade Plywood",
+    "Description": "Moisture-resistant plywood solutions",
+    "SortOrder": 3,
+    "IsDeleted": false,
+    "CreatedAt": "2026-06-22T08:43:14.0891654",
+    "UpdatedAt": "2026-08-09T11:27:40.7581159"
+  },
+  {
+    "Id": "C1383237-C434-4902-AA27-9BDFA2EC0EC3",
+    "CompanyId": "5A1D53DC-FABD-435B-8044-39E78B8F21E5",
+    "RangeName": "Automotive Engines:",
+    "Description": "Complete engine assemblies for various vehicle types",
+    "SortOrder": 0,
+    "IsDeleted": false,
+    "CreatedAt": "2026-06-16T07:35:52.3873293"
+  },
+  {
+    "Id": "0E01E8F0-0E70-43E9-B7C4-9DE298C346BD",
+    "CompanyId": "B496B428-B4EF-4864-B2E7-C3E92227CD86",
+    "RangeName": "Carbon Film Resistors",
+    "Description": "",
+    "SortOrder": 0,
+    "IsDeleted": false,
+    "CreatedAt": "2026-08-09T08:53:55.1248789"
+  },
+  {
+    "Id": "55140E5C-13C6-4464-8976-9DF0E35AA318",
+    "CompanyId": "6BDF61CC-52AD-4C16-BA2A-F943DC22F465",
+    "RangeName": "Bedroom Furniture",
+    "Description": "Complete bedroom furnishing solutions",
+    "SortOrder": 1,
+    "IsDeleted": false,
+    "CreatedAt": "2026-06-22T10:05:54.4616886",
+    "UpdatedAt": "2026-08-09T11:34:25.4543163"
+  },
+  {
+    "Id": "013B4BE9-43D6-4C90-BC9C-9E0FEA727C8D",
+    "CompanyId": "D5A9FACF-6CE4-4096-A306-89E67C6F4E54",
+    "RangeName": "Anchors & Fixings",
+    "Description": "Reliable anchoring systems",
+    "SortOrder": 3,
+    "IsDeleted": false,
+    "CreatedAt": "2026-06-19T07:53:18.9616231"
+  },
+  {
+    "Id": "3CA51C7A-8E47-4EF4-B37C-9F0F3D96DF67",
+    "CompanyId": "CB8E0D27-155B-4DEB-9616-DB68B3C04511",
+    "RangeName": "Variable Frequency Drives (VFD)",
+    "Description": "Motor speed and energy control solutions",
+    "SortOrder": 0,
+    "IsDeleted": false,
+    "CreatedAt": "2026-06-22T09:10:26.2261456",
+    "UpdatedAt": "2026-08-09T11:33:15.0151452"
+  },
+  {
+    "Id": "6753E0F3-621F-46EF-B22D-9FB4AF84FBEA",
+    "CompanyId": "DCB4E01A-3429-41AC-BB38-F657861BBCCF",
+    "RangeName": "Cough Syrups",
+    "Description": "Relief for cough and throat discomfort",
+    "SortOrder": 2,
+    "IsDeleted": false,
+    "CreatedAt": "2026-06-17T08:26:25.9246865"
+  },
+  {
+    "Id": "91A42095-9DA2-4E88-9360-9FC6CA70227C",
+    "CompanyId": "8698D43C-762E-48A2-B8A5-8A8D7AF061F4",
+    "RangeName": "Enterprise Software",
+    "Description": "Scalable solutions for business operations",
+    "SortOrder": 3,
+    "IsDeleted": false,
+    "CreatedAt": "2026-06-19T08:23:57.0467046"
+  },
+  {
+    "Id": "C1873517-8292-4C10-AF5D-A0238AF5A0C9",
+    "CompanyId": "32B2B767-976E-4623-BCA2-C1627A5D8946",
+    "RangeName": "Refined Edible Oils",
+    "Description": "High-quality refined cooking oils",
+    "SortOrder": 0,
+    "IsDeleted": false,
+    "CreatedAt": "2026-06-22T04:57:55.8223753",
+    "UpdatedAt": "2026-08-09T11:18:53.1014325"
+  },
+  {
+    "Id": "CC314BB0-A9D8-4A10-9A06-A0463EE568FE",
+    "CompanyId": "B0710D0A-ED9B-455E-9603-2D94AD27D73C",
+    "RangeName": "Manufacturing Equipment",
+    "Description": "Production and processing machinery",
+    "SortOrder": 3,
+    "IsDeleted": false,
+    "CreatedAt": "2026-06-18T05:21:24.9017427",
+    "UpdatedAt": "2026-08-09T10:55:49.8307147"
+  },
+  {
+    "Id": "A10105DA-B2A8-4442-8E22-A12D9725D691",
+    "CompanyId": "7FCE89B7-9100-4E90-87CE-8DB322B0A40F",
+    "RangeName": "King Size Beds",
+    "Description": "Spacious beds for enhanced comfort",
+    "SortOrder": 3,
+    "IsDeleted": false,
+    "CreatedAt": "2026-06-18T09:59:36.5679930",
+    "UpdatedAt": "2026-06-18T10:03:40.8406424"
+  },
+  {
+    "Id": "84CE7A9D-EE3B-4C10-89A2-A1E39A869BA4",
+    "CompanyId": "1742482C-124A-43A5-9281-0B8A20E470C9",
+    "RangeName": "Marble Tiles",
+    "Description": "Premium marble flooring and wall solutions",
+    "SortOrder": 1,
+    "IsDeleted": false,
+    "CreatedAt": "2026-06-22T08:33:34.8207307",
+    "UpdatedAt": "2026-08-09T11:28:49.1777789"
+  },
+  {
+    "Id": "5EFB3A35-5BFD-4837-9EB9-A299D1288842",
+    "CompanyId": "C79281B4-208D-4B4B-9ECA-5AA645AF04D6",
+    "RangeName": "Disposable Food Containers",
+    "Description": "Premium, secure, and clean containment solutions for the hospitality sector.",
+    "SortOrder": 2,
+    "IsDeleted": false,
+    "CreatedAt": "2026-06-13T06:56:17.3031727",
+    "UpdatedAt": "2026-06-13T07:04:27.4867935"
+  },
+  {
+    "Id": "E94196BA-DF82-41AF-9887-A2A59D517173",
+    "CompanyId": "8345B68E-9174-4C01-AB33-C1CD6CDDAD9B",
+    "RangeName": "Mild Steel Bars",
+    "Description": "Durable bars for structural applications",
+    "SortOrder": 1,
+    "IsDeleted": false,
+    "CreatedAt": "2026-06-22T07:47:50.5317920"
+  },
+  {
+    "Id": "003D6E5E-9133-42C8-B132-A4F6A847F264",
+    "CompanyId": "EF5D7384-77C6-4F86-9F01-EB3BF59F7FC1",
+    "RangeName": "Tractor Parts",
+    "Description": "Precision-engineered replacement components",
+    "SortOrder": 2,
+    "IsDeleted": false,
+    "CreatedAt": "2026-06-17T07:37:17.2435331",
+    "UpdatedAt": "2026-08-09T10:48:37.2075881"
+  },
+  {
+    "Id": "1E1B7D36-0E3C-40A3-8ADC-A5113A84FB37",
+    "CompanyId": "FC93358A-3AB7-4409-B7DD-E02DA5CC4B2A",
+    "RangeName": "Ceramic Sanitaryware",
+    "Description": "Premium ceramic bathroom products",
+    "SortOrder": 3,
+    "IsDeleted": false,
+    "CreatedAt": "2026-06-19T09:38:54.9432979"
+  },
+  {
+    "Id": "4111F98C-26D3-40E1-8A49-A5B03F995951",
+    "CompanyId": "9BD5707F-3839-4000-9370-19E88782240F",
+    "RangeName": "Roofing Sheets",
+    "Description": "Durable roofing solutions for buildings",
+    "SortOrder": 0,
+    "IsDeleted": false,
+    "CreatedAt": "2026-06-19T08:10:52.2040309"
+  },
+  {
+    "Id": "ACD80FBE-4620-4B75-9240-A69E28C37123",
+    "CompanyId": "CDE9D210-D0C1-4295-BBE7-43E9BE58FF8F",
+    "RangeName": "Emergency Solutions:",
+    "Description": "Long-duration Rechargeable Emergency Lighting.",
+    "SortOrder": 2,
+    "IsDeleted": false,
+    "CreatedAt": "2026-06-13T10:25:03.3668238",
+    "UpdatedAt": "2026-08-09T09:12:42.7966759"
+  },
+  {
+    "Id": "801AE6B3-47E6-4411-9A97-A71EB2A6799B",
+    "CompanyId": "AF9FB7EC-578E-43CA-9C27-4DF06C3335DC",
+    "RangeName": "Herbal Supplements",
+    "Description": "Natural nutritional support solutions",
+    "SortOrder": 2,
+    "IsDeleted": false,
+    "CreatedAt": "2026-06-19T08:03:02.5255218"
+  },
+  {
+    "Id": "A93C58A4-D867-4399-A678-A7B435EEC2A8",
+    "CompanyId": "6D3065CB-83C3-446D-B4C6-641E6E5F24E1",
+    "RangeName": "Juice Machines",
+    "Description": "Efficient juice extraction and dispensing solutions",
+    "SortOrder": 0,
+    "IsDeleted": false,
+    "CreatedAt": "2026-06-22T05:17:42.6702259",
+    "UpdatedAt": "2026-08-09T11:20:18.4903927"
+  },
+  {
+    "Id": "35EFF421-926B-41A8-92B7-A7E3158C8A57",
+    "CompanyId": "6401FB28-8BBF-4351-B503-8A0A66DCBCC3",
+    "RangeName": "Variable Resistors (Potentiometers)",
+    "Description": "",
+    "SortOrder": 4,
+    "IsDeleted": false,
+    "CreatedAt": "2026-08-09T08:48:38.0857484"
+  },
+  {
+    "Id": "1ED6D789-A573-4E62-B2DF-A90FE1C46AA5",
+    "CompanyId": "4DA5DF6A-8EEF-4A2F-A79A-59BDCF515342",
+    "RangeName": "Pharmaceutical Products",
+    "Description": "Quality healthcare formulations*",
+    "SortOrder": 2,
+    "IsDeleted": false,
+    "CreatedAt": "2026-06-19T10:10:46.0121837",
+    "UpdatedAt": "2026-08-09T11:15:51.8658459"
+  },
+  {
+    "Id": "765C09BC-2D6A-4E37-B047-AA43086AA1E3",
+    "CompanyId": "8C19180C-FEFC-45AA-8A8A-E8E5851C4A9B",
+    "RangeName": "International Express:",
+    "Description": "Reliable door-to-door delivery to 220+ countries via the DHL network",
+    "SortOrder": 1,
+    "IsDeleted": false,
+    "CreatedAt": "2026-06-16T08:37:42.4699752",
+    "UpdatedAt": "2026-08-09T10:37:38.9726609"
+  },
+  {
+    "Id": "87CD73FC-22C2-42B1-9D2E-AA74B054DEE7",
+    "CompanyId": "C64678BE-696B-4675-8248-3C1D4456BE51",
+    "RangeName": "Stone Floorings",
+    "Description": "Natural stone flooring systems",
+    "SortOrder": 3,
+    "IsDeleted": false,
+    "CreatedAt": "2026-06-22T10:09:32.7533109",
+    "UpdatedAt": "2026-08-09T11:35:23.9727944"
+  },
+  {
+    "Id": "68B309E5-1C18-4C90-B17F-AB23C97E511C",
+    "CompanyId": "5265053A-9447-4072-8DA1-BF9A7C966041",
+    "RangeName": "Electrical Connectors",
+    "Description": "Secure electrical connection components",
+    "SortOrder": 0,
+    "IsDeleted": false,
+    "CreatedAt": "2026-06-17T08:38:39.5240215",
+    "UpdatedAt": "2026-08-09T10:50:30.5291869"
+  },
+  {
+    "Id": "8D1FE3D8-891B-4A0A-BD8D-AC6463BE36A3",
+    "CompanyId": "C79281B4-208D-4B4B-9ECA-5AA645AF04D6",
+    "RangeName": "Packaging Films, Bags & Pouches",
+    "Description": "High-resistance barrier films and pouches optimized for extended shelf life.",
+    "SortOrder": 3,
+    "IsDeleted": false,
+    "CreatedAt": "2026-06-13T06:56:17.3051148",
+    "UpdatedAt": "2026-06-13T07:04:27.4895428"
+  },
+  {
+    "Id": "9626D9CD-2CF7-4E60-8271-ACDAB4993B7F",
+    "CompanyId": "E9A62FCB-C467-403B-979A-2392D0955DBF",
+    "RangeName": "Security Shutters:",
+    "Description": "Robust shutter systems for enhanced site security.",
+    "SortOrder": 3,
+    "IsDeleted": false,
+    "CreatedAt": "2026-06-16T06:29:36.3491684",
+    "UpdatedAt": "2026-08-09T09:13:19.9487563"
+  },
+  {
+    "Id": "5FF8DB48-0706-4940-B845-AD78ADC174B3",
+    "CompanyId": "8288E8E7-6B93-4A59-9C73-17BA62870912",
+    "RangeName": "Network Switches",
+    "Description": "Reliable data transmission and connectivity",
+    "SortOrder": 3,
+    "IsDeleted": false,
+    "CreatedAt": "2026-06-22T08:56:13.7817298"
+  },
+  {
+    "Id": "9900DB1F-0E4E-4B48-815A-ADAB8CA966CF",
+    "CompanyId": "6E871E7F-3867-4D16-871F-250A2DBBBAC1",
+    "RangeName": "Solar Steel Structures",
+    "Description": "Mounting structures for solar installations",
+    "SortOrder": 0,
+    "IsDeleted": false,
+    "CreatedAt": "2026-06-17T05:26:12.8528716",
+    "UpdatedAt": "2026-08-09T10:41:25.4398513"
+  },
+  {
+    "Id": "9EF50664-522C-48C2-9036-ADF82993D65B",
+    "CompanyId": "E9A62FCB-C467-403B-979A-2392D0955DBF",
+    "RangeName": "Decorative Panels:",
+    "Description": "Versatile interior/exterior aesthetic wall panels",
+    "SortOrder": 2,
+    "IsDeleted": false,
+    "CreatedAt": "2026-06-16T06:29:36.3452156",
+    "UpdatedAt": "2026-08-09T09:13:19.9437211"
+  },
+  {
+    "Id": "82111524-AAF7-434E-9064-ADFDBD293D11",
+    "CompanyId": "B09C1546-818B-4804-9ACB-41157D443319",
+    "RangeName": "Etched Glass",
+    "Description": "Elegant privacy and decorative glass solutions",
+    "SortOrder": 1,
+    "IsDeleted": false,
+    "CreatedAt": "2026-06-18T10:08:35.3990240",
+    "UpdatedAt": "2026-08-09T09:03:01.0400177"
+  },
+  {
+    "Id": "672B2297-19B5-4E61-B114-AE71C24EB6DE",
+    "CompanyId": "B80526D6-03D3-4877-848C-0DC2D7DEF7DB",
+    "RangeName": "Industrial Metal Racks",
+    "Description": "",
+    "SortOrder": 0,
+    "IsDeleted": false,
+    "CreatedAt": "2026-06-17T07:42:12.8433888"
+  },
+  {
+    "Id": "B4ADF62C-28BC-4AD3-952D-AED3B74E0001",
+    "CompanyId": "E2BFBD7E-F970-47A2-9B98-DBB1D480900B",
+    "RangeName": "Industrial Chains",
+    "Description": "Durable chains for material handling operations",
+    "SortOrder": 3,
+    "IsDeleted": false,
+    "CreatedAt": "2026-06-22T06:43:44.9184930",
+    "UpdatedAt": "2026-08-09T11:27:05.5519582"
+  },
+  {
+    "Id": "93DCC942-1406-473A-BB54-AF637877A0B3",
+    "CompanyId": "D43F24BA-1562-43A3-A8CF-4633334DD7D1",
+    "RangeName": "Decorative Surfaces:",
+    "Description": "Premium Veneers, Laminates, and finishing materials.",
+    "SortOrder": 1,
+    "IsDeleted": false,
+    "CreatedAt": "2026-06-13T09:58:34.0194221",
+    "UpdatedAt": "2026-08-09T09:08:56.8508913"
+  },
+  {
+    "Id": "89886C66-97D8-46A7-BB47-AF65E7B4E313",
+    "CompanyId": "A98F7A71-FBAA-4289-904C-31C6626C2F24",
+    "RangeName": "Immunity Boosters",
+    "Description": "",
+    "SortOrder": 1,
+    "IsDeleted": false,
+    "CreatedAt": "2026-08-09T11:05:28.9123518"
+  },
+  {
+    "Id": "405B5B95-BBE3-4C17-A062-AFAC581F12C6",
+    "CompanyId": "5CDCADCD-660E-4E24-950B-FB455DE03A89",
+    "RangeName": "Italian Marble",
+    "Description": "Luxury imported marble collections",
+    "SortOrder": 3,
+    "IsDeleted": false,
+    "CreatedAt": "2026-06-19T08:06:54.1399636",
+    "UpdatedAt": "2026-08-09T11:10:24.9257245"
+  },
+  {
+    "Id": "F21C095B-14DA-4AED-96C5-B03084A38D76",
+    "CompanyId": "CA788667-C129-4295-A265-EF2F6FAEE9C2",
+    "RangeName": "Copper Ropes",
+    "Description": "Flexible copper conductors for electrical use",
+    "SortOrder": 1,
+    "IsDeleted": false,
+    "CreatedAt": "2026-06-19T10:35:13.0283206",
+    "UpdatedAt": "2026-08-09T11:18:18.5045050"
+  },
+  {
+    "Id": "0DE5ED97-3ECF-401C-96C0-B14002E73DA6",
+    "CompanyId": "3C9AD5AB-0AE8-4DB4-A0A4-B1882B1FFEFC",
+    "RangeName": "Commercial Property Rentals",
+    "Description": "Rental spaces for commercial use",
+    "SortOrder": 3,
+    "IsDeleted": false,
+    "CreatedAt": "2026-06-17T08:53:01.6840775"
+  },
+  {
+    "Id": "18C1917D-DBE1-49CB-B36F-B24DBC2D25F5",
+    "CompanyId": "A6B85305-F84B-47B1-BC4D-5C23F698C044",
+    "RangeName": "Brass Hinges",
+    "Description": "Elegant and durable brass fittings",
+    "SortOrder": 3,
+    "IsDeleted": false,
+    "CreatedAt": "2026-06-19T08:53:45.4655262"
+  },
+  {
+    "Id": "958DF2A7-2F64-43CC-8DDD-B299F5413D98",
+    "CompanyId": "8698D43C-762E-48A2-B8A5-8A8D7AF061F4",
+    "RangeName": "Mobile App Development",
+    "Description": "Android and iOS application development",
+    "SortOrder": 1,
+    "IsDeleted": false,
+    "CreatedAt": "2026-06-19T08:23:57.0313664"
+  },
+  {
+    "Id": "07F5D760-D432-497E-A168-B2C8564F9ECD",
+    "CompanyId": "24DA052A-6A92-4759-BC37-B831D40C682F",
+    "RangeName": "Industrial Components:",
+    "Description": "Robust hardware and shutters designed for high-traffic environments.",
+    "SortOrder": 3,
+    "IsDeleted": false,
+    "CreatedAt": "2026-06-16T06:39:48.6843804",
+    "UpdatedAt": "2026-08-09T10:26:05.3670267"
+  },
+  {
+    "Id": "C55F5275-52EE-46FF-B523-B5231B836B8D",
+    "CompanyId": "DEC0B44E-FCF9-441D-8AA3-E379724001D0",
+    "RangeName": "Customer Engagement:",
+    "Description": "Multi-channel support (Voice, Email, Chat).",
+    "SortOrder": 0,
+    "IsDeleted": false,
+    "CreatedAt": "2026-06-13T09:52:25.6683727"
+  },
+  {
+    "Id": "59AD3760-F0AA-4236-89AB-B52DDC232E56",
+    "CompanyId": "7AB39020-D832-4450-A3FE-4508298640E6",
+    "RangeName": "Commercial Laptops",
+    "Description": "Professional laptops for business operations",
+    "SortOrder": 3,
+    "IsDeleted": false,
+    "CreatedAt": "2026-06-22T09:19:45.9584686"
+  },
+  {
+    "Id": "CE5DFBCD-6A95-4214-B362-B5423E93B4C1",
+    "CompanyId": "B09C1546-818B-4804-9ACB-41157D443319",
+    "RangeName": "Laminated Glass",
+    "Description": "Enhanced safety and security glass",
+    "SortOrder": 3,
+    "IsDeleted": false,
+    "CreatedAt": "2026-06-18T10:08:35.4050573",
+    "UpdatedAt": "2026-08-09T09:03:01.0677551"
+  },
+  {
+    "Id": "D7C1A627-8036-4D51-A98B-B57C80ADB91A",
+    "CompanyId": "E117967B-5744-4171-BE66-55D0D78B16E3",
+    "RangeName": "Natural Wood",
+    "Description": "Premium timber for furniture and interiors",
+    "SortOrder": 0,
+    "IsDeleted": false,
+    "CreatedAt": "2026-06-19T10:03:46.1197286",
+    "UpdatedAt": "2026-08-09T11:15:08.9999881"
+  },
+  {
+    "Id": "A9A8D896-72A7-472C-9887-B7771FE6E8BB",
+    "CompanyId": "E9E89F3F-8B2B-4FBE-B118-D0015D702BE0",
+    "RangeName": "Security Hardware:",
+    "Description": "Specialized components ensuring structural integrity and access control.",
+    "SortOrder": 3,
+    "IsDeleted": false,
+    "CreatedAt": "2026-06-16T07:22:43.8647705"
+  },
+  {
+    "Id": "BFF91447-431E-46C0-8906-B815929BB87C",
+    "CompanyId": "7AAAB743-FEFE-45E4-89AF-F3DB1550F718",
+    "RangeName": "Granite Slabs",
+    "Description": "Durable slabs for flooring and countertops",
+    "SortOrder": 2,
+    "IsDeleted": false,
+    "CreatedAt": "2026-06-22T08:23:57.0995967",
+    "UpdatedAt": "2026-08-09T11:30:29.7135431"
+  },
+  {
+    "Id": "F884CF3A-F458-4881-A2B1-B8F1D97A3076",
+    "CompanyId": "DB1478B8-BC04-4701-A5FE-376DDD4EA271",
+    "RangeName": "Two-Wheeler Components",
+    "Description": "Essential motorcycle components",
+    "SortOrder": 3,
+    "IsDeleted": false,
+    "CreatedAt": "2026-06-18T09:42:47.8069416",
+    "UpdatedAt": "2026-08-09T11:07:57.9673269"
+  },
+  {
+    "Id": "8A10FD79-07C8-4F0C-B976-B91CD432DA28",
+    "CompanyId": "5A1D53DC-FABD-435B-8044-39E78B8F21E5",
+    "RangeName": "Engine Components:",
+    "Description": "Critical internal engine parts, including pistons, valves, and crankshafts.",
+    "SortOrder": 1,
+    "IsDeleted": false,
+    "CreatedAt": "2026-06-16T07:35:52.3929667"
+  },
+  {
+    "Id": "36121D31-3038-45B8-B443-B9EB1B950C6D",
+    "CompanyId": "D7EA9EB1-2FD2-4971-AFA3-CC16B2484BA3",
+    "RangeName": "Whirlpool Tubs",
+    "Description": "Relaxing whirlpool bathing systems",
+    "SortOrder": 2,
+    "IsDeleted": false,
+    "CreatedAt": "2026-06-17T05:47:14.0385671",
+    "UpdatedAt": "2026-08-09T10:42:16.3901436"
+  },
+  {
+    "Id": "5E6B529D-8CEC-4DC2-BA23-BA87172D43BF",
+    "CompanyId": "E48245BC-098D-475F-A4B6-1AE929588594",
+    "RangeName": "LED Solar Street Lights",
+    "Description": "Solar-powered street lighting systems",
+    "SortOrder": 2,
+    "IsDeleted": false,
+    "CreatedAt": "2026-06-18T06:21:54.5894498",
+    "UpdatedAt": "2026-08-09T10:58:54.7771927"
+  },
+  {
+    "Id": "1330B6C8-46D5-4A27-AC9E-BB44AC64E808",
+    "CompanyId": "8345B68E-9174-4C01-AB33-C1CD6CDDAD9B",
+    "RangeName": "Stainless Steel Rods",
+    "Description": "Precision rods for engineering uses",
+    "SortOrder": 2,
+    "IsDeleted": false,
+    "CreatedAt": "2026-06-22T07:47:50.5344912"
+  },
+  {
+    "Id": "73CFF618-80B3-48BD-AA1E-BBEF6704F10F",
+    "CompanyId": "BC9A89AA-ADE7-4B0E-9CE0-44B4F017FED2",
+    "RangeName": "Interior Materials",
+    "Description": "Complete solutions for interior projects",
+    "SortOrder": 2,
+    "IsDeleted": false,
+    "CreatedAt": "2026-06-17T05:21:41.2940371"
+  },
+  {
+    "Id": "22162163-4998-4224-B594-BD2721DEF077",
+    "CompanyId": "6BDF61CC-52AD-4C16-BA2A-F943DC22F465",
+    "RangeName": "Wooden Beds",
+    "Description": "Durable and stylish bedroom furniture",
+    "SortOrder": 0,
+    "IsDeleted": false,
+    "CreatedAt": "2026-06-22T10:05:54.4574401",
+    "UpdatedAt": "2026-08-09T11:34:25.4520500"
+  },
+  {
+    "Id": "9D757797-F0A5-473C-8AA9-BD4470E29BB5",
+    "CompanyId": "B80526D6-03D3-4877-848C-0DC2D7DEF7DB",
+    "RangeName": "Display Racks",
+    "Description": "",
+    "SortOrder": 2,
+    "IsDeleted": false,
+    "CreatedAt": "2026-06-17T07:42:12.8531074"
+  },
+  {
+    "Id": "07AD8596-23B4-4363-BC08-BD7C90051CEA",
+    "CompanyId": "D96A6FF3-33B2-4AC7-97BB-7AF5CFE97D1A",
+    "RangeName": "Billing & Invoicing Software",
+    "Description": "Automated billing and accounting solutions",
+    "SortOrder": 2,
+    "IsDeleted": false,
+    "CreatedAt": "2026-06-19T10:18:39.8737840",
+    "UpdatedAt": "2026-07-13T18:49:53.5968876"
+  },
+  {
+    "Id": "962D58F7-F083-4E35-AEB8-BDA8524A594B",
+    "CompanyId": "8F506CBF-1637-4A3F-8C5A-0A7BC65238E8",
+    "RangeName": "Pulses",
+    "Description": "Nutritious pulse varieties for daily consumption",
+    "SortOrder": 3,
+    "IsDeleted": false,
+    "CreatedAt": "2026-06-17T09:07:30.1301698"
+  },
+  {
+    "Id": "0EB9B704-8DD7-4C5A-ABE4-BE2A290B6983",
+    "CompanyId": "568DC3A7-336A-413A-943D-873E6B32D17C",
+    "RangeName": "Feature Phones",
+    "Description": "Reliable phones for everyday communication",
+    "SortOrder": 1,
+    "IsDeleted": false,
+    "CreatedAt": "2026-06-22T06:17:24.2308159",
+    "UpdatedAt": "2026-08-09T11:26:16.7939808"
+  },
+  {
+    "Id": "70B770CB-5112-4D1D-ADA7-BFF8252BE14E",
+    "CompanyId": "DEC0B44E-FCF9-441D-8AA3-E379724001D0",
+    "RangeName": "Operational Outsourcing:",
+    "Description": "End-to-end process management for scalability.",
+    "SortOrder": 3,
+    "IsDeleted": false,
+    "CreatedAt": "2026-06-13T09:52:25.6758792"
+  },
+  {
+    "Id": "DDCE5FC5-0885-448F-8FBD-C006755D2CCF",
+    "CompanyId": "80493001-8542-440C-B606-ECEEFF1A8548",
+    "RangeName": "Mobility Aids",
+    "Description": "Products that assist movement and independence",
+    "SortOrder": 2,
+    "IsDeleted": false,
+    "CreatedAt": "2026-06-18T05:51:06.0217983",
+    "UpdatedAt": "2026-08-09T10:56:37.6933413"
+  },
+  {
+    "Id": "8CD21E12-4D8F-4738-98DC-C027D5A9A05D",
+    "CompanyId": "78D0F5A9-B193-4E46-95F4-B2792056A086",
+    "RangeName": "Alloy Bolts",
+    "Description": "High-performance alloy fastening solutions",
+    "SortOrder": 0,
+    "IsDeleted": false,
+    "CreatedAt": "2026-06-19T09:32:10.7084962",
+    "UpdatedAt": "2026-08-09T10:25:40.7163339"
+  },
+  {
+    "Id": "8F22E8F0-5D01-4309-B63F-C0798A5597C1",
+    "CompanyId": "5265053A-9447-4072-8DA1-BF9A7C966041",
+    "RangeName": "Circuit Breakers",
+    "Description": "Electrical protection and safety devices",
+    "SortOrder": 2,
+    "IsDeleted": false,
+    "CreatedAt": "2026-06-17T08:38:39.5405766",
+    "UpdatedAt": "2026-08-09T10:50:30.5391129"
+  },
+  {
+    "Id": "1703C474-5144-4B54-B980-C190E7642CBB",
+    "CompanyId": "2EE37A68-5A1B-487F-8EB9-FA7C5B93BEBB",
+    "RangeName": "Security & Software:",
+    "Description": "CCTV kits, biometric access control, firewalls, and enterprise software licenses.",
+    "SortOrder": 2,
+    "IsDeleted": false,
+    "CreatedAt": "2026-06-16T08:06:26.7848260",
+    "UpdatedAt": "2026-08-09T10:31:13.3418426"
+  },
+  {
+    "Id": "7D63E760-D0E2-43C9-A6B9-C1FBC97E34A6",
+    "CompanyId": "A2CA0685-DD51-48A3-BE15-F7941CC09C11",
+    "RangeName": "Baby Body Massage",
+    "Description": "Mihaana Shishul range is for the complete body nourishment from New Born to 3 years of Age",
+    "SortOrder": 0,
+    "IsDeleted": false,
+    "CreatedAt": "2026-06-29T11:40:24.4884483",
+    "UpdatedAt": "2026-09-19T11:35:47.9882625"
+  },
+  {
+    "Id": "8E6F2BDA-A212-48AD-8778-C3901DA12780",
+    "CompanyId": "8F506CBF-1637-4A3F-8C5A-0A7BC65238E8",
+    "RangeName": "Rice",
+    "Description": "Multiple varieties for household and commercial use",
+    "SortOrder": 0,
+    "IsDeleted": false,
+    "CreatedAt": "2026-06-17T09:07:30.1146582"
+  },
+  {
+    "Id": "A7FD72D5-1086-4406-928A-C3BE592F02A4",
+    "CompanyId": "2EE37A68-5A1B-487F-8EB9-FA7C5B93BEBB",
+    "RangeName": "Mobile Accessories:",
+    "Description": "Chargers, cables, power banks, covers, screen protectors, and audio gear.",
+    "SortOrder": 0,
+    "IsDeleted": false,
+    "CreatedAt": "2026-06-16T08:06:26.7679568",
+    "UpdatedAt": "2026-08-09T10:31:13.3347580"
+  },
+  {
+    "Id": "92DA84C4-37C6-403F-8332-C4AA5ED045C3",
+    "CompanyId": "45DF8DE4-F356-442C-B9FD-4D1DAA9727EC",
+    "RangeName": "Adhesive Tapes",
+    "Description": "High-performance bonding solutions",
+    "SortOrder": 1,
+    "IsDeleted": false,
+    "CreatedAt": "2026-06-18T05:06:20.1227832",
+    "UpdatedAt": "2026-08-09T10:52:09.2410678"
+  },
+  {
+    "Id": "6955294C-B3B7-4C32-B2D3-C4CD3FB73BBE",
+    "CompanyId": "69399018-BD21-4577-B348-CBE046C3F6B1",
+    "RangeName": "Searchlights",
+    "Description": "Powerful lighting solutions for specialized applications",
+    "SortOrder": 2,
+    "IsDeleted": false,
+    "CreatedAt": "2026-06-18T08:27:34.5196693",
+    "UpdatedAt": "2026-08-09T11:06:59.4266441"
+  },
+  {
+    "Id": "2847A42A-6DB7-422D-9F28-C593A035D650",
+    "CompanyId": "C64678BE-696B-4675-8248-3C1D4456BE51",
+    "RangeName": "Granite Tiles",
+    "Description": "High-strength tiles for residential and commercial use",
+    "SortOrder": 2,
+    "IsDeleted": false,
+    "CreatedAt": "2026-06-22T10:09:32.7502630",
+    "UpdatedAt": "2026-08-09T11:35:23.9692234"
+  },
+  {
+    "Id": "CAB48423-E47B-4B33-9338-C5A2F8AB3173",
+    "CompanyId": "6401FB28-8BBF-4351-B503-8A0A66DCBCC3",
+    "RangeName": "Wire Wound Resistors",
+    "Description": "",
+    "SortOrder": 2,
+    "IsDeleted": false,
+    "CreatedAt": "2026-08-09T08:48:38.0753477"
+  },
+  {
+    "Id": "660BD287-9AE8-4D28-928B-C637BE689782",
+    "CompanyId": "326D44CA-0758-45EA-A6B4-F4357B458041",
+    "RangeName": "Solar Water Heaters",
+    "Description": "Eco-friendly hot water systems",
+    "SortOrder": 1,
+    "IsDeleted": false,
+    "CreatedAt": "2026-06-18T08:23:30.7429300",
+    "UpdatedAt": "2026-08-09T11:06:35.7208188"
+  },
+  {
+    "Id": "1F45D907-3955-4F66-AFE0-C657CD6161DA",
+    "CompanyId": "32B2B767-976E-4623-BCA2-C1627A5D8946",
+    "RangeName": "Filtered Edible Oils",
+    "Description": "Naturally processed edible oils",
+    "SortOrder": 1,
+    "IsDeleted": false,
+    "CreatedAt": "2026-06-22T04:57:55.8264325",
+    "UpdatedAt": "2026-08-09T11:18:53.1048647"
+  },
+  {
+    "Id": "5105F18E-36D1-4087-A7D6-C74C96AE3786",
+    "CompanyId": "7477DE84-EDD1-4C52-A086-DF0117674517",
+    "RangeName": "Window Hinges",
+    "Description": "Smooth-functioning window hinge solutions",
+    "SortOrder": 1,
+    "IsDeleted": false,
+    "CreatedAt": "2026-06-19T05:24:21.9735649",
+    "UpdatedAt": "2026-08-09T11:08:47.0050555"
+  },
+  {
+    "Id": "38B50129-1B71-4555-9242-C804D494808F",
+    "CompanyId": "59453AA7-1215-40B8-B783-CCBE33EE16D8",
+    "RangeName": "Switchgear & Distribution:",
+    "Description": "MCBs, MCCBs, and distribution boards.",
+    "SortOrder": 0,
+    "IsDeleted": false,
+    "CreatedAt": "2026-06-16T08:54:40.5619877",
+    "UpdatedAt": "2026-08-09T10:39:20.8869941"
+  },
+  {
+    "Id": "FC6E4EFD-423A-4476-AD1F-C89E8E1321AB",
+    "CompanyId": "26322C8E-704B-4AE1-B260-55B513FBC7AA",
+    "RangeName": "Air Conditioners",
+    "Description": "Samsung, Daikin, Carrier, Voltas",
+    "SortOrder": 3,
+    "IsDeleted": false,
+    "CreatedAt": "2026-06-17T05:07:55.4614827",
+    "UpdatedAt": "2026-08-09T10:40:05.6833214"
+  },
+  {
+    "Id": "8AD302A4-123E-4F0C-8CCD-C905819EB5C1",
+    "CompanyId": "B0710D0A-ED9B-455E-9603-2D94AD27D73C",
+    "RangeName": "Workshop Machinery",
+    "Description": "Tools and machines for workshops",
+    "SortOrder": 2,
+    "IsDeleted": false,
+    "CreatedAt": "2026-06-18T05:21:24.8960337",
+    "UpdatedAt": "2026-08-09T10:55:49.8242675"
+  },
+  {
+    "Id": "06432B7C-EFED-4738-9561-C9153B72514C",
+    "CompanyId": "1EF3E696-86EF-413B-AE71-A071288E807E",
+    "RangeName": "Submersible Pumps",
+    "Description": "Efficient underground water pumping systems",
+    "SortOrder": 2,
+    "IsDeleted": false,
+    "CreatedAt": "2026-06-22T08:39:46.6360669",
+    "UpdatedAt": "2026-08-09T11:28:17.5108677"
+  },
+  {
+    "Id": "428D00D3-4661-4E86-842B-C9E66EFB1543",
+    "CompanyId": "080A5374-12D7-469F-AF26-A954B04E52B2",
+    "RangeName": "Commercial Plywood",
+    "Description": "Reliable plywood for multiple applications",
+    "SortOrder": 1,
+    "IsDeleted": false,
+    "CreatedAt": "2026-06-17T08:04:13.8921851"
+  },
+  {
+    "Id": "93AB55E9-E3BD-4875-B8B6-CA0363739F41",
+    "CompanyId": "1158CD5A-894E-45AA-96AC-9CA329806ABC",
+    "RangeName": "Gear Shafts",
+    "Description": "Precision-engineered transmission shafts",
+    "SortOrder": 2,
+    "IsDeleted": false,
+    "CreatedAt": "2026-06-22T07:02:58.1496092",
+    "UpdatedAt": "2026-08-09T11:31:43.1583227"
+  },
+  {
+    "Id": "D9C949CA-14E7-4679-AD3D-CA3DBD880331",
+    "CompanyId": "69C0D675-BE82-4623-B1D8-0AA78803F7DA",
+    "RangeName": "Commercial Windows:",
+    "Description": "High-performance, energy-efficient window systems.",
+    "SortOrder": 1,
+    "IsDeleted": false,
+    "CreatedAt": "2026-06-16T07:10:43.7173483",
+    "UpdatedAt": "2026-08-09T10:29:51.4489285"
+  },
+  {
+    "Id": "BC25FC91-0F6D-4A35-860E-CAF5D4C5D3D6",
+    "CompanyId": "71960A64-6ABD-498F-8E7E-332A36A2471A",
+    "RangeName": "Bathroom Accessories",
+    "Description": "Accessories for enhanced functionality",
+    "SortOrder": 3,
+    "IsDeleted": false,
+    "CreatedAt": "2026-06-19T08:47:14.1129569",
+    "UpdatedAt": "2026-06-19T08:47:47.7306213"
+  },
+  {
+    "Id": "1449511E-7BDA-4807-8960-CB409F7A0456",
+    "CompanyId": "6401FB28-8BBF-4351-B503-8A0A66DCBCC3",
+    "RangeName": "Metal Film Resistors",
+    "Description": "",
+    "SortOrder": 1,
+    "IsDeleted": false,
+    "CreatedAt": "2026-08-09T08:48:38.0718916"
+  },
+  {
+    "Id": "80805871-1A39-4437-B1EC-CC3095CBD37C",
+    "CompanyId": "A5C3FAEB-8DD8-4D06-9846-70F171B9F8E4",
+    "RangeName": "Marble Slabs",
+    "Description": "Premium marble for interiors and architecture",
+    "SortOrder": 1,
+    "IsDeleted": false,
+    "CreatedAt": "2026-06-19T08:29:31.3365201"
+  },
+  {
+    "Id": "88FC71AE-D337-4586-91C0-CC4689B032EE",
+    "CompanyId": "1F44FA53-9F65-4C5D-A592-4CDC531AFABB",
+    "RangeName": "Sofas & Seating",
+    "Description": "Leather and fabric seating collections",
+    "SortOrder": 3,
+    "IsDeleted": false,
+    "CreatedAt": "2026-06-19T08:20:21.3703601",
+    "UpdatedAt": "2026-08-08T05:09:47.5809720"
+  },
+  {
+    "Id": "B699477F-78C8-481B-AF19-CD2B01545E36",
+    "CompanyId": "6D3065CB-83C3-446D-B4C6-641E6E5F24E1",
+    "RangeName": "Milkshake Machines",
+    "Description": "Equipment for milkshake preparation",
+    "SortOrder": 2,
+    "IsDeleted": false,
+    "CreatedAt": "2026-06-22T05:17:42.6775382",
+    "UpdatedAt": "2026-08-09T11:20:18.4979311"
+  },
+  {
+    "Id": "09CB09E0-FBC3-43D4-AE57-CD536982D36D",
+    "CompanyId": "CDA24D2F-59B5-44C5-B465-64A8EE7FAC59",
+    "RangeName": "Patton Loft Water Tank",
+    "Description": "",
+    "SortOrder": 0,
+    "IsDeleted": false,
+    "CreatedAt": "2026-05-27T13:00:20.1785171",
+    "UpdatedAt": "2026-08-09T08:14:11.6307745"
+  },
+  {
+    "Id": "BACFD765-321C-44BE-AD92-CDCDCA9FEC8D",
+    "CompanyId": "5CDCADCD-660E-4E24-950B-FB455DE03A89",
+    "RangeName": "Marble",
+    "Description": "Indian and imported marble varieties",
+    "SortOrder": 2,
+    "IsDeleted": false,
+    "CreatedAt": "2026-06-19T08:06:54.1305884",
+    "UpdatedAt": "2026-08-09T11:10:24.9210456"
+  },
+  {
+    "Id": "03E78C74-7C73-4622-97B6-CDF2D65CA2CE",
+    "CompanyId": "4CC07307-2FD5-452A-AD22-EE323E07B8C5",
+    "RangeName": "Sofa Sets:",
+    "Description": "Premium configurations tailored for luxury and comfort.",
+    "SortOrder": 0,
+    "IsDeleted": false,
+    "CreatedAt": "2026-06-16T08:12:30.9885056"
+  },
+  {
+    "Id": "32D30025-60BF-46A5-B5A3-CEB89F8BE2B3",
+    "CompanyId": "D779E323-83C0-4CCF-843F-FD17E3967DAC",
+    "RangeName": "Workstations",
+    "Description": "Efficient workspace solutions",
+    "SortOrder": 1,
+    "IsDeleted": false,
+    "CreatedAt": "2026-06-19T09:10:54.6031095",
+    "UpdatedAt": "2026-08-09T09:02:19.1812321"
+  },
+  {
+    "Id": "927494BD-3838-45A5-9103-CEDE591F425E",
+    "CompanyId": "32B2B767-976E-4623-BCA2-C1627A5D8946",
+    "RangeName": "Soybean Oil",
+    "Description": "Nutritious edible oil for daily use",
+    "SortOrder": 3,
+    "IsDeleted": false,
+    "CreatedAt": "2026-06-22T04:57:55.8309388",
+    "UpdatedAt": "2026-08-09T11:18:53.1140784"
+  },
+  {
+    "Id": "B07EB967-0B85-49F1-8A3E-CF09AFC7A2C7",
+    "CompanyId": "D85BEEF9-B88B-4B14-B435-C40D3F4E83F9",
+    "RangeName": "Network Maintenance",
+    "Description": "Preventive and corrective network support",
+    "SortOrder": 3,
+    "IsDeleted": false,
+    "CreatedAt": "2026-06-22T05:28:57.6817518",
+    "UpdatedAt": "2026-08-09T11:21:15.2576569"
+  },
+  {
+    "Id": "99D615C9-48F4-428F-998A-D15E30C9874F",
+    "CompanyId": "CFB3C2B5-0166-4366-AC66-3F50300394AD",
+    "RangeName": "Bedside Tables:",
+    "Description": "Complementary accent furniture designed for convenience and style.",
+    "SortOrder": 3,
+    "IsDeleted": false,
+    "CreatedAt": "2026-06-16T08:27:04.2740807"
+  },
+  {
+    "Id": "8F57C580-B791-4CBC-BD2E-D2147183C705",
+    "CompanyId": "314D48B7-6184-412D-B2F9-450463E0305C",
+    "RangeName": "Surface Coating & Finishing Solutions",
+    "Description": "",
+    "SortOrder": 0,
+    "IsDeleted": false,
+    "CreatedAt": "2026-06-11T19:03:09.4927388",
+    "UpdatedAt": "2026-06-11T19:41:35.3722648"
+  },
+  {
+    "Id": "8EA820CE-B354-4DBB-96E4-D29B8E58FF4B",
+    "CompanyId": "59453AA7-1215-40B8-B783-CCBE33EE16D8",
+    "RangeName": "Fittings:",
+    "Description": "Premium modular switches and socket systems.",
+    "SortOrder": 3,
+    "IsDeleted": false,
+    "CreatedAt": "2026-06-16T08:54:40.5775486",
+    "UpdatedAt": "2026-08-09T10:39:20.9123941"
+  },
+  {
+    "Id": "3D7E77F4-0AE5-4667-91D2-D3208FDD8F35",
+    "CompanyId": "2EE37A68-5A1B-487F-8EB9-FA7C5B93BEBB",
+    "RangeName": "IT Peripherals:",
+    "Description": "High-speed storage, networking devices, keyboards, mice, and display solutions.",
+    "SortOrder": 1,
+    "IsDeleted": false,
+    "CreatedAt": "2026-06-16T08:06:26.7800501",
+    "UpdatedAt": "2026-08-09T10:31:13.3386417"
+  },
+  {
+    "Id": "7C5EB80C-6FBF-4041-8845-D372454C9292",
+    "CompanyId": "41F155A0-52E9-482F-9F76-66191E7A69AC",
+    "RangeName": "False Ceiling Materials",
+    "Description": "Complete ceiling installation products",
+    "SortOrder": 2,
+    "IsDeleted": false,
+    "CreatedAt": "2026-06-17T10:15:09.7529132"
+  },
+  {
+    "Id": "D829032A-44CB-4FFA-8394-D510389C77F7",
+    "CompanyId": "28047682-FFF6-4EAB-A3C0-9E8CB1941A22",
+    "RangeName": "Instant Curry Mixes",
+    "Description": "Quick curry preparation products",
+    "SortOrder": 2,
+    "IsDeleted": false,
+    "CreatedAt": "2026-06-18T08:39:01.3444629",
+    "UpdatedAt": "2026-08-09T09:07:42.2644936"
+  },
+  {
+    "Id": "2BF9688C-794A-4137-B7ED-D59160EB785B",
+    "CompanyId": "C4A8295E-88C9-4181-AE99-B0360678701D",
+    "RangeName": "Camera Lenses",
+    "Description": "Precision lenses for various applications",
+    "SortOrder": 3,
+    "IsDeleted": false,
+    "CreatedAt": "2026-06-22T08:11:03.5946979",
+    "UpdatedAt": "2026-08-09T11:31:21.5766100"
+  },
+  {
+    "Id": "6C1208D3-A4A2-47DD-A8AD-D6FE7C9CD66D",
+    "CompanyId": "45DF8DE4-F356-442C-B9FD-4D1DAA9727EC",
+    "RangeName": "Pressure Sensitive Tapes",
+    "Description": "Easy-application adhesive tapes",
+    "SortOrder": 2,
+    "IsDeleted": false,
+    "CreatedAt": "2026-06-18T05:06:20.1303017",
+    "UpdatedAt": "2026-08-09T10:52:09.2443742"
+  },
+  {
+    "Id": "60FD209D-51FB-4E21-8698-D773A7D24445",
+    "CompanyId": "EEDB378F-43E8-4118-8D33-D51CB2ADD143",
+    "RangeName": "Mobile Chargers",
+    "Description": "Standard and fast-charging solutions",
+    "SortOrder": 2,
+    "IsDeleted": false,
+    "CreatedAt": "2026-06-22T08:59:19.4521337",
+    "UpdatedAt": "2026-08-09T11:32:39.8144264"
+  },
+  {
+    "Id": "4E67FB57-49B6-4B48-A7D2-D81A559EB7F7",
+    "CompanyId": "E117967B-5744-4171-BE66-55D0D78B16E3",
+    "RangeName": "Commercial Plywood",
+    "Description": "Reliable plywood for furniture and interiors",
+    "SortOrder": 2,
+    "IsDeleted": false,
+    "CreatedAt": "2026-06-19T10:03:46.1334543",
+    "UpdatedAt": "2026-08-09T11:15:09.0094234"
+  },
+  {
+    "Id": "70B06E45-B779-495E-8ACB-D933B95318B8",
+    "CompanyId": "4AD38B61-A66B-4010-AB88-B6F5D33A014F",
+    "RangeName": "Cooling Tower Services",
+    "Description": "Cleaning, maintenance, and performance enhancement",
+    "SortOrder": 0,
+    "IsDeleted": false,
+    "CreatedAt": "2026-06-22T06:05:51.7119626",
+    "UpdatedAt": "2026-08-09T11:23:43.0989361"
+  },
+  {
+    "Id": "6E1A3689-FF40-43BC-B477-DA09C49B7A82",
+    "CompanyId": "E117967B-5744-4171-BE66-55D0D78B16E3",
+    "RangeName": "MR Grade Plywood",
+    "Description": "Moisture-resistant plywood solutions",
+    "SortOrder": 3,
+    "IsDeleted": false,
+    "CreatedAt": "2026-06-19T10:03:46.1365777",
+    "UpdatedAt": "2026-08-09T11:15:09.0133804"
+  },
+  {
+    "Id": "5FA5E8CE-6B07-4730-8BBD-DA4EAB112D27",
+    "CompanyId": "E48245BC-098D-475F-A4B6-1AE929588594",
+    "RangeName": "LED Flood Lights",
+    "Description": "High-intensity outdoor lighting solutions",
+    "SortOrder": 0,
+    "IsDeleted": false,
+    "CreatedAt": "2026-06-18T06:21:54.5796854",
+    "UpdatedAt": "2026-08-09T10:58:54.7670618"
+  },
+  {
+    "Id": "DF0DB2F3-1752-4C40-B7A2-DA6C6D653A07",
+    "CompanyId": "4AD38B61-A66B-4010-AB88-B6F5D33A014F",
+    "RangeName": "Boiler Descaling",
+    "Description": "Removal of scale deposits for efficiency improvement",
+    "SortOrder": 1,
+    "IsDeleted": false,
+    "CreatedAt": "2026-06-22T06:05:51.7157443",
+    "UpdatedAt": "2026-08-09T11:23:43.1024746"
+  },
+  {
+    "Id": "295F3DC2-9B26-431A-8D65-DAF5D7757C99",
+    "CompanyId": "71515302-7F82-453F-A6D6-EFFE54D12CFC",
+    "RangeName": "Vitrified Tiles",
+    "Description": "Premium tiles with high durability and finish",
+    "SortOrder": 0,
+    "IsDeleted": false,
+    "CreatedAt": "2026-06-18T05:12:13.8840070",
+    "UpdatedAt": "2026-08-09T10:55:18.5969411"
+  },
+  {
+    "Id": "F870D3DA-5BEC-4AB7-ADFE-DBB206B411EF",
+    "CompanyId": "71515302-7F82-453F-A6D6-EFFE54D12CFC",
+    "RangeName": "Ceramic Wall Tiles",
+    "Description": "Decorative wall cladding tiles",
+    "SortOrder": 2,
+    "IsDeleted": false,
+    "CreatedAt": "2026-06-18T05:12:13.8943395",
+    "UpdatedAt": "2026-08-09T10:55:18.6051279"
+  },
+  {
+    "Id": "9E68E5F9-716C-42AF-992F-DCA0BAE9BF3D",
+    "CompanyId": "3C381EAB-A87F-4C7D-BA89-419ADD72C68C",
+    "RangeName": "Natural Wood",
+    "Description": "Quality timber for furniture and interiors",
+    "SortOrder": 3,
+    "IsDeleted": false,
+    "CreatedAt": "2026-06-17T08:45:38.8605256",
+    "UpdatedAt": "2026-08-09T10:51:09.3899547"
+  },
+  {
+    "Id": "E5369116-DA62-441D-93C3-DCF23CD3E87B",
+    "CompanyId": "7319AC8A-7AFC-46DC-9B16-3DB46AFA1B6A",
+    "RangeName": "Plastic Chair Sets",
+    "Description": "Coordinated seating solutions",
+    "SortOrder": 1,
+    "IsDeleted": false,
+    "CreatedAt": "2026-06-18T09:54:50.2979468",
+    "UpdatedAt": "2026-08-09T09:06:42.1677268"
+  },
+  {
+    "Id": "84919E87-1C04-4B1F-BA82-DE2EFB95954C",
+    "CompanyId": "4DA5DF6A-8EEF-4A2F-A79A-59BDCF515342",
+    "RangeName": "Medical Aids",
+    "Description": "Essential healthcare and support solutions",
+    "SortOrder": 1,
+    "IsDeleted": false,
+    "CreatedAt": "2026-06-19T10:10:46.0040314",
+    "UpdatedAt": "2026-08-09T11:15:51.8611733"
+  },
+  {
+    "Id": "7DC2C970-FCAE-4319-98A1-DF576A31F138",
+    "CompanyId": "D43F24BA-1562-43A3-A8CF-4633334DD7D1",
+    "RangeName": "Construction Grade:",
+    "Description": "Marine-grade plywood and high-density boards.",
+    "SortOrder": 2,
+    "IsDeleted": false,
+    "CreatedAt": "2026-06-13T09:58:34.0214730",
+    "UpdatedAt": "2026-08-09T09:08:56.8566813"
+  },
+  {
+    "Id": "CC14820C-CD9C-476F-8714-DFD7D822DAA9",
+    "CompanyId": "0B419F36-5AF1-4DAF-AF26-02F4878510DA",
+    "RangeName": "Industrial Welding Consumables",
+    "Description": "Products for fabrication and manufacturing",
+    "SortOrder": 3,
+    "IsDeleted": false,
+    "CreatedAt": "2026-06-19T09:52:16.1085477",
+    "UpdatedAt": "2026-08-09T11:14:05.6961886"
+  },
+  {
+    "Id": "6B7FC413-459D-45C6-A350-E05E9123326A",
+    "CompanyId": "DDFDD5D4-07AA-46C2-B631-0FF07C388E08",
+    "RangeName": "Industrial Machines",
+    "Description": "Machinery for manufacturing and production",
+    "SortOrder": 0,
+    "IsDeleted": false,
+    "CreatedAt": "2026-06-22T05:46:31.3935460",
+    "UpdatedAt": "2026-08-09T11:23:16.9809421"
+  },
+  {
+    "Id": "69458FEF-609B-4A25-8219-E06A0981E529",
+    "CompanyId": "1D9B8133-A3A3-48AC-B2FF-920F1AFB16F6",
+    "RangeName": "Wardrobes & Closets",
+    "Description": "Elegant and practical bedroom accessories",
+    "SortOrder": 3,
+    "IsDeleted": false,
+    "CreatedAt": "2026-06-22T10:32:19.6395654",
+    "UpdatedAt": "2026-08-09T11:36:51.1127887"
+  },
+  {
+    "Id": "183AEFA5-5262-4B07-9361-E0AF449374B4",
+    "CompanyId": "2A46A0A3-E514-4C7A-B16D-CCE73472A426",
+    "RangeName": "Manufacturing Machinery",
+    "Description": "Advanced machines for manufacturing processes",
+    "SortOrder": 2,
+    "IsDeleted": false,
+    "CreatedAt": "2026-06-22T05:40:17.2001834",
+    "UpdatedAt": "2026-08-09T11:22:16.1591635"
+  },
+  {
+    "Id": "A40D047C-AABC-44C0-A7E6-E18930B66390",
+    "CompanyId": "A25BB45A-D34D-4290-80DD-70CA4346DEE9",
+    "RangeName": "Decorative Veneers",
+    "Description": "Premium natural wood finishes",
+    "SortOrder": 3,
+    "IsDeleted": false,
+    "CreatedAt": "2026-06-18T10:13:02.3905202"
+  },
+  {
+    "Id": "C1272CD1-2119-4DDB-A7C4-E19A2628E198",
+    "CompanyId": "7319AC8A-7AFC-46DC-9B16-3DB46AFA1B6A",
+    "RangeName": "Office Plastic Chairs",
+    "Description": "Seating solutions for workplaces",
+    "SortOrder": 3,
+    "IsDeleted": false,
+    "CreatedAt": "2026-06-18T09:54:50.3240340",
+    "UpdatedAt": "2026-08-09T09:06:42.1766021"
+  },
+  {
+    "Id": "957E1A0F-D702-4D4D-A678-E1D350AB9124",
+    "CompanyId": "69C0D675-BE82-4623-B1D8-0AA78803F7DA",
+    "RangeName": "Customized Openings:",
+    "Description": "Bespoke door/window designs tailored to architectural specs.",
+    "SortOrder": 2,
+    "IsDeleted": false,
+    "CreatedAt": "2026-06-16T07:10:43.7198422",
+    "UpdatedAt": "2026-08-09T10:29:51.4527415"
+  },
+  {
+    "Id": "8D3368CE-BDBF-467B-B45F-E252E722AD9D",
+    "CompanyId": "14B75CA5-1518-4DB7-B95D-F6195DCCFFD5",
+    "RangeName": "Screw Conveyors",
+    "Description": "Efficient material transfer systems",
+    "SortOrder": 3,
+    "IsDeleted": false,
+    "CreatedAt": "2026-06-17T07:24:15.7243268",
+    "UpdatedAt": "2026-08-09T10:47:04.0804558"
+  },
+  {
+    "Id": "16D0D4CA-E82C-4AB7-8056-E256114A5EF5",
+    "CompanyId": "326D44CA-0758-45EA-A6B4-F4357B458041",
+    "RangeName": "Air Conditioners",
+    "Description": "Cooling solutions for homes and businesses",
+    "SortOrder": 3,
+    "IsDeleted": false,
+    "CreatedAt": "2026-06-18T08:23:30.7705447",
+    "UpdatedAt": "2026-08-09T11:06:35.7274467"
+  },
+  {
+    "Id": "FC35D85D-6DFA-4D71-9DCA-E317707D7CB8",
+    "CompanyId": "CDA24D2F-59B5-44C5-B465-64A8EE7FAC59",
+    "RangeName": "Tata GI Pipe",
+    "Description": "",
+    "SortOrder": 5,
+    "IsDeleted": false,
+    "CreatedAt": "2026-05-27T13:00:20.2748845",
+    "UpdatedAt": "2026-08-09T08:14:11.6565810"
+  },
+  {
+    "Id": "2447600E-24BD-410E-9D8B-E3A063A762AF",
+    "CompanyId": "E9A62FCB-C467-403B-979A-2392D0955DBF",
+    "RangeName": "Structural Doors:",
+    "Description": "Industrial-grade doors built for high-traffic environments.",
+    "SortOrder": 0,
+    "IsDeleted": false,
+    "CreatedAt": "2026-06-16T06:29:36.3198639",
+    "UpdatedAt": "2026-08-09T09:13:19.9352568"
+  },
+  {
+    "Id": "FB105ABD-8AFB-45BA-88D7-E4C7818DF513",
+    "CompanyId": "7319AC8A-7AFC-46DC-9B16-3DB46AFA1B6A",
+    "RangeName": "Designer Plastic Chairs",
+    "Description": "Stylish and modern chair designs",
+    "SortOrder": 2,
+    "IsDeleted": false,
+    "CreatedAt": "2026-06-18T09:54:50.3132838",
+    "UpdatedAt": "2026-08-09T09:06:42.1720700"
+  },
+  {
+    "Id": "9485B103-B2CC-4C1B-B517-E4D7D460C598",
+    "CompanyId": "9BB8BD36-FF85-4E2C-B7F9-C7926FEEEAA7",
+    "RangeName": "Amino Acid Supplements",
+    "Description": "Performance and recovery support products",
+    "SortOrder": 3,
+    "IsDeleted": false,
+    "CreatedAt": "2026-06-22T10:16:11.4226423",
+    "UpdatedAt": "2026-08-09T11:35:55.8376409"
+  },
+  {
+    "Id": "F98FDEDD-02A4-41AF-8AE8-E51F29BB8F43",
+    "CompanyId": "5A7C06F9-FCE3-4649-961C-40EC457DAC03",
+    "RangeName": "Seamless Pipes",
+    "Description": "Strong pipes for critical applications",
+    "SortOrder": 3,
+    "IsDeleted": false,
+    "CreatedAt": "2026-06-19T08:58:50.9659294",
+    "UpdatedAt": "2026-08-09T11:11:56.4477962"
+  },
+  {
+    "Id": "DAA64CC5-0019-4E51-8069-E5455D35DAFE",
+    "CompanyId": "C4A8295E-88C9-4181-AE99-B0360678701D",
+    "RangeName": "DSLR Cameras",
+    "Description": "Professional photography cameras",
+    "SortOrder": 0,
+    "IsDeleted": false,
+    "CreatedAt": "2026-06-22T08:11:03.5868589",
+    "UpdatedAt": "2026-08-09T11:31:21.5604747"
+  },
+  {
+    "Id": "1AB992E7-7CB9-4EE6-8E17-E592C963AA43",
+    "CompanyId": "3C9AD5AB-0AE8-4DB4-A0A4-B1882B1FFEFC",
+    "RangeName": "Commercial Property Leasing",
+    "Description": "Leasing solutions for businesses",
+    "SortOrder": 2,
+    "IsDeleted": false,
+    "CreatedAt": "2026-06-17T08:53:01.6796483"
+  },
+  {
+    "Id": "E14B9EBF-2C70-4155-B1D7-E623E0F5CDBA",
+    "CompanyId": "B7DC10D6-6F79-4367-8536-625D0938C566",
+    "RangeName": "Holders",
+    "Description": "Secure holding and support fittings",
+    "SortOrder": 3,
+    "IsDeleted": false,
+    "CreatedAt": "2026-06-22T08:51:49.4191062",
+    "UpdatedAt": "2026-08-09T11:32:08.9465206"
+  },
+  {
+    "Id": "1B64F285-1326-4D55-A989-E71FD7427FD1",
+    "CompanyId": "1EF3E696-86EF-413B-AE71-A071288E807E",
+    "RangeName": "Industrial Pumps",
+    "Description": "Heavy-duty pumping solutions",
+    "SortOrder": 1,
+    "IsDeleted": false,
+    "CreatedAt": "2026-06-22T08:39:46.6328825",
+    "UpdatedAt": "2026-08-09T11:28:17.5052809"
+  },
+  {
+    "Id": "0486E3E0-B352-48CD-B7E6-E781407E1B1F",
+    "CompanyId": "326D44CA-0758-45EA-A6B4-F4357B458041",
+    "RangeName": "Electric Geysers",
+    "Description": "Efficient water heating solutions",
+    "SortOrder": 0,
+    "IsDeleted": false,
+    "CreatedAt": "2026-06-18T08:23:30.3150558",
+    "UpdatedAt": "2026-08-09T11:06:35.7161603"
+  },
+  {
+    "Id": "F4892731-D39F-41F4-8B1D-E7DB6F9966A9",
+    "CompanyId": "A98F7A71-FBAA-4289-904C-31C6626C2F24",
+    "RangeName": "Multivitamin & Multimineral Supplements",
+    "Description": "",
+    "SortOrder": 2,
+    "IsDeleted": false,
+    "CreatedAt": "2026-08-09T11:05:28.9157137"
+  },
+  {
+    "Id": "75BC3F7E-0720-40AA-828D-E83C065EC0B4",
+    "CompanyId": "D19C831D-EA5A-4879-9A06-8B5A5CFF5116",
+    "RangeName": "Distribution Transformers",
+    "Description": "Reliable transformers for power distribution",
+    "SortOrder": 1,
+    "IsDeleted": false,
+    "CreatedAt": "2026-06-19T06:11:16.2724294",
+    "UpdatedAt": "2026-06-19T07:05:36.7460556"
+  },
+  {
+    "Id": "FBB75826-8780-4837-A785-E8911976F27A",
+    "CompanyId": "5DAE9B12-CAE7-4C71-996C-F95889A55818",
+    "RangeName": "Table Top Basins",
+    "Description": "Contemporary countertop basin designs",
+    "SortOrder": 2,
+    "IsDeleted": false,
+    "CreatedAt": "2026-06-19T09:58:10.6999535",
+    "UpdatedAt": "2026-08-09T11:14:39.9375707"
+  },
+  {
+    "Id": "7AE1A237-5BA6-4A99-904D-E8CEFA4751E6",
+    "CompanyId": "7AAAB743-FEFE-45E4-89AF-F3DB1550F718",
+    "RangeName": "Granite Tiles",
+    "Description": "Strong and stylish stone tiles",
+    "SortOrder": 3,
+    "IsDeleted": false,
+    "CreatedAt": "2026-06-22T08:23:57.1013823",
+    "UpdatedAt": "2026-08-09T11:30:29.7173431"
+  },
+  {
+    "Id": "3782F730-9342-4EE4-9CB5-E9F7B46BCAB6",
+    "CompanyId": "6BDF61CC-52AD-4C16-BA2A-F943DC22F465",
+    "RangeName": "Dining Tables",
+    "Description": "Elegant dining solutions for homes and businesses",
+    "SortOrder": 2,
+    "IsDeleted": false,
+    "CreatedAt": "2026-06-22T10:05:54.4652797",
+    "UpdatedAt": "2026-08-09T11:34:25.4573549"
+  },
+  {
+    "Id": "C25E8328-0504-42D5-B670-EA8A03B96F9F",
+    "CompanyId": "1742482C-124A-43A5-9281-0B8A20E470C9",
+    "RangeName": "Sandstone Tiles",
+    "Description": "Natural textured stone surfaces",
+    "SortOrder": 3,
+    "IsDeleted": false,
+    "CreatedAt": "2026-06-22T08:33:34.8252479",
+    "UpdatedAt": "2026-08-09T11:28:49.1885801"
+  },
+  {
+    "Id": "81F1329F-EAF6-409A-8A12-EAA56697EC96",
+    "CompanyId": "E9E89F3F-8B2B-4FBE-B118-D0015D702BE0",
+    "RangeName": "Door Locks:",
+    "Description": "High-security mechanical locks for residential and commercial entry points.",
+    "SortOrder": 0,
+    "IsDeleted": false,
+    "CreatedAt": "2026-06-16T07:22:43.8361093"
+  },
+  {
+    "Id": "6962A53C-8D35-4F51-BB8F-ECDDECDCCC45",
+    "CompanyId": "41F155A0-52E9-482F-9F76-66191E7A69AC",
+    "RangeName": "ACP Sheets",
+    "Description": "Aluminum Composite Panels for cladding",
+    "SortOrder": 1,
+    "IsDeleted": false,
+    "CreatedAt": "2026-06-17T10:15:09.7467313"
+  },
+  {
+    "Id": "A866F035-77DA-41C3-9858-ED1B0811C330",
+    "CompanyId": "204A50C5-EAC1-4B4D-9FC9-C4106AC25D0A",
+    "RangeName": "Wired Earphones",
+    "Description": "Clear sound and comfortable design",
+    "SortOrder": 0,
+    "IsDeleted": false,
+    "CreatedAt": "2026-06-17T07:47:08.5780952",
+    "UpdatedAt": "2026-08-09T10:49:12.5835328"
+  },
+  {
+    "Id": "40990AFA-1E0B-4C56-90C2-ED22B3A10975",
+    "CompanyId": "7AAAB743-FEFE-45E4-89AF-F3DB1550F718",
+    "RangeName": "Imported Marble",
+    "Description": "Premium international marble varieties",
+    "SortOrder": 1,
+    "IsDeleted": false,
+    "CreatedAt": "2026-06-22T08:23:57.0975508",
+    "UpdatedAt": "2026-08-09T11:30:29.7094078"
+  },
+  {
+    "Id": "93F0E338-3A50-4716-9768-EDE8648CC57B",
+    "CompanyId": "1D9B8133-A3A3-48AC-B2FF-920F1AFB16F6",
+    "RangeName": "Wardrobes & Closets",
+    "Description": "Spacious and functional storage solutions",
+    "SortOrder": 2,
+    "IsDeleted": false,
+    "CreatedAt": "2026-06-22T10:32:19.6369068",
+    "UpdatedAt": "2026-08-09T11:36:51.1080121"
+  },
+  {
+    "Id": "002F0568-1B88-4923-8FFD-EE767D5824D0",
+    "CompanyId": "D779E323-83C0-4CCF-843F-FD17E3967DAC",
+    "RangeName": "Office Tables",
+    "Description": "Functional and stylish office desks",
+    "SortOrder": 0,
+    "IsDeleted": false,
+    "CreatedAt": "2026-06-19T09:10:54.5672686",
+    "UpdatedAt": "2026-08-09T09:02:19.1747462"
+  },
+  {
+    "Id": "C8EAED02-0986-4333-A815-EE777C7451B9",
+    "CompanyId": "0299E19D-D41F-4502-9B21-934517D9A7C2",
+    "RangeName": "Block Boards & Flush Doors:",
+    "Description": "Sturdy structural components for interiors.",
+    "SortOrder": 1,
+    "IsDeleted": false,
+    "CreatedAt": "2026-06-16T06:58:36.6554767",
+    "UpdatedAt": "2026-08-09T09:08:29.3088239"
+  },
+  {
+    "Id": "B877D2A2-CB0C-41FD-BC56-EF03542354C8",
+    "CompanyId": "1F44FA53-9F65-4C5D-A592-4CDC531AFABB",
+    "RangeName": "Office Furniture",
+    "Description": "Functional and stylish workspace solutions",
+    "SortOrder": 2,
+    "IsDeleted": false,
+    "CreatedAt": "2026-06-19T08:20:21.3476245",
+    "UpdatedAt": "2026-08-08T05:09:47.5767435"
+  },
+  {
+    "Id": "61FF6CFB-9FFE-418F-ADA4-EF62E0BCC839",
+    "CompanyId": "7477DE84-EDD1-4C52-A086-DF0117674517",
+    "RangeName": "Brass Hinges",
+    "Description": "Premium brass hinges with elegant finish",
+    "SortOrder": 3,
+    "IsDeleted": false,
+    "CreatedAt": "2026-06-19T05:24:22.0157494",
+    "UpdatedAt": "2026-08-09T11:08:47.0248124"
+  },
+  {
+    "Id": "8B365D2C-834F-4458-B7D3-F2335006DF1B",
+    "CompanyId": "7FCE89B7-9100-4E90-87CE-8DB322B0A40F",
+    "RangeName": "Engineered Wood Beds",
+    "Description": "Modern and cost-effective bed solutions",
+    "SortOrder": 2,
+    "IsDeleted": false,
+    "CreatedAt": "2026-06-18T09:59:36.5641060",
+    "UpdatedAt": "2026-06-18T10:03:40.8371272"
+  },
+  {
+    "Id": "267B6267-B065-4C9E-9281-F247BACB8BF0",
+    "CompanyId": "8C19180C-FEFC-45AA-8A8A-E8E5851C4A9B",
+    "RangeName": "Express Document Delivery:",
+    "Description": "Secure handling for critical legal and professional paperwork",
+    "SortOrder": 3,
+    "IsDeleted": false,
+    "CreatedAt": "2026-06-16T08:37:42.4767325",
+    "UpdatedAt": "2026-08-09T10:37:38.9809410"
+  },
+  {
+    "Id": "99E8B3D5-26A2-45D8-8869-F2C119E6B9E9",
+    "CompanyId": "12687ED6-5059-4A58-B74C-73EE0679EF38",
+    "RangeName": "Acrylic Sheets",
+    "Description": "Transparent and durable plastic sheets",
+    "SortOrder": 0,
+    "IsDeleted": false,
+    "CreatedAt": "2026-06-18T08:14:29.9424765",
+    "UpdatedAt": "2026-08-09T11:05:57.9774535"
+  },
+  {
+    "Id": "3617CD64-85C5-4C72-9489-F30F1F2B4E2A",
+    "CompanyId": "14B75CA5-1518-4DB7-B95D-F6195DCCFFD5",
+    "RangeName": "Bucket Elevators",
+    "Description": "Vertical material lifting equipment",
+    "SortOrder": 1,
+    "IsDeleted": false,
+    "CreatedAt": "2026-06-17T07:24:15.7126768",
+    "UpdatedAt": "2026-08-09T10:47:04.0716033"
+  },
+  {
+    "Id": "41ED4915-D1AD-4B0B-9F74-F310365B5B24",
+    "CompanyId": "C58CC091-6A05-4563-8EF4-7DE8A08B1D31",
+    "RangeName": "Washbasins",
+    "Description": "All type of Designer, Modern, Vintage and latest Washbasins",
+    "SortOrder": 0,
+    "IsDeleted": false,
+    "CreatedAt": "2026-08-09T08:26:15.1717854"
+  },
+  {
+    "Id": "F4487FE4-A6B0-4A32-8C45-F3ACB7A61492",
+    "CompanyId": "E8A85074-144D-4708-87F3-9EC71EE34472",
+    "RangeName": "Electrical & Mechanical Equipment:",
+    "Description": "Core hardware for industrial facility operation.",
+    "SortOrder": 3,
+    "IsDeleted": false,
+    "CreatedAt": "2026-06-16T07:58:40.4718677"
+  },
+  {
+    "Id": "9A3ADAF0-582F-4D16-AD1D-F54F77478EC4",
+    "CompanyId": "4CC07307-2FD5-452A-AD22-EE323E07B8C5",
+    "RangeName": "Side Tables:",
+    "Description": "Compact and elegant accent pieces for added convenience.",
+    "SortOrder": 3,
+    "IsDeleted": false,
+    "CreatedAt": "2026-06-16T08:12:30.9997107"
+  },
+  {
+    "Id": "631A8714-297E-44DE-9C52-F5E6A37D6213",
+    "CompanyId": "9218FC60-5AA2-40A4-AA74-4B483069EE92",
+    "RangeName": "Commercial Plywood",
+    "Description": "Durable plywood for general-purpose use",
+    "SortOrder": 2,
+    "IsDeleted": false,
+    "CreatedAt": "2026-06-22T08:43:14.0863505",
+    "UpdatedAt": "2026-08-09T11:27:40.7530390"
+  },
+  {
+    "Id": "81D440CD-69E7-4149-9104-F7E69D543E5D",
+    "CompanyId": "EF5D7384-77C6-4F86-9F01-EB3BF59F7FC1",
+    "RangeName": "Farm Tractors",
+    "Description": "Reliable machines for diverse farming needs",
+    "SortOrder": 1,
+    "IsDeleted": false,
+    "CreatedAt": "2026-06-17T07:37:17.2320048",
+    "UpdatedAt": "2026-08-09T10:48:37.2031636"
+  },
+  {
+    "Id": "80D9C03E-033B-4D33-9E2C-F80245E01BE6",
+    "CompanyId": "568DC3A7-336A-413A-943D-873E6B32D17C",
+    "RangeName": "Smartphones",
+    "Description": "Advanced mobile devices with latest features",
+    "SortOrder": 0,
+    "IsDeleted": false,
+    "CreatedAt": "2026-06-22T06:17:24.2254313",
+    "UpdatedAt": "2026-08-09T11:26:16.7915603"
+  },
+  {
+    "Id": "F50F8CE1-CF00-45D4-8F50-F87A148DE7EB",
+    "CompanyId": "69399018-BD21-4577-B348-CBE046C3F6B1",
+    "RangeName": "Spotlights",
+    "Description": "Focused illumination for commercial and industrial use",
+    "SortOrder": 3,
+    "IsDeleted": false,
+    "CreatedAt": "2026-06-18T08:27:34.5440285",
+    "UpdatedAt": "2026-08-09T11:06:59.4316725"
+  },
+  {
+    "Id": "964921B1-EE82-4579-A0F3-F984B60DFBEE",
+    "CompanyId": "B09C1546-818B-4804-9ACB-41157D443319",
+    "RangeName": "Stained Glass",
+    "Description": "Artistic decorative glass for premium interiors",
+    "SortOrder": 0,
+    "IsDeleted": false,
+    "CreatedAt": "2026-06-18T10:08:35.3782923",
+    "UpdatedAt": "2026-08-09T09:03:01.0068168"
+  },
+  {
+    "Id": "4F322276-21CA-47A1-B985-FA62F42F67E9",
+    "CompanyId": "59453AA7-1215-40B8-B783-CCBE33EE16D8",
+    "RangeName": "Lighting:",
+    "Description": "Energy-efficient LED and architectural solutions.",
+    "SortOrder": 2,
+    "IsDeleted": false,
+    "CreatedAt": "2026-06-16T08:54:40.5746921",
+    "UpdatedAt": "2026-08-09T10:39:20.9084663"
+  },
+  {
+    "Id": "0E986BC8-90C2-4B45-91CC-FA906D28A931",
+    "CompanyId": "71515302-7F82-453F-A6D6-EFFE54D12CFC",
+    "RangeName": "Ceramic Floor Tiles",
+    "Description": "Stylish and durable flooring solutions",
+    "SortOrder": 1,
+    "IsDeleted": false,
+    "CreatedAt": "2026-06-18T05:12:13.8898048",
+    "UpdatedAt": "2026-08-09T10:55:18.6010361"
+  },
+  {
+    "Id": "4C356781-56B3-4924-A6C6-FAAC5EAF65D0",
+    "CompanyId": "45DF8DE4-F356-442C-B9FD-4D1DAA9727EC",
+    "RangeName": "Non-Adhesive Tapes",
+    "Description": "Specialized tapes for industrial applications",
+    "SortOrder": 0,
+    "IsDeleted": false,
+    "CreatedAt": "2026-06-18T05:06:20.1154942",
+    "UpdatedAt": "2026-08-09T10:52:09.2374323"
+  },
+  {
+    "Id": "1A1FDC1C-45FC-41C3-8A48-FAE3C30643A1",
+    "CompanyId": "DEC0B44E-FCF9-441D-8AA3-E379724001D0",
+    "RangeName": "Back-Office Management:",
+    "Description": "Data entry, processing, and administrative support.",
+    "SortOrder": 1,
+    "IsDeleted": false,
+    "CreatedAt": "2026-06-13T09:52:25.6718697"
+  },
+  {
+    "Id": "FD4A048D-A064-4884-BB02-FC1EA950904E",
+    "CompanyId": "E117967B-5744-4171-BE66-55D0D78B16E3",
+    "RangeName": "Engineered Wood",
+    "Description": "Versatile wood solutions for modern projects",
+    "SortOrder": 1,
+    "IsDeleted": false,
+    "CreatedAt": "2026-06-19T10:03:46.1286270",
+    "UpdatedAt": "2026-08-09T11:15:09.0052838"
+  },
+  {
+    "Id": "6C5D87ED-F784-4784-8DBC-FCB3960D838B",
+    "CompanyId": "14B75CA5-1518-4DB7-B95D-F6195DCCFFD5",
+    "RangeName": "Chain Conveyors",
+    "Description": "Heavy-duty conveying solutions",
+    "SortOrder": 2,
+    "IsDeleted": false,
+    "CreatedAt": "2026-06-17T07:24:15.7182944",
+    "UpdatedAt": "2026-08-09T10:47:04.0760589"
+  },
+  {
+    "Id": "E4984F8C-F398-49CA-B854-FCEC189BD5A1",
+    "CompanyId": "E8A85074-144D-4708-87F3-9EC71EE34472",
+    "RangeName": "Industrial Machinery:",
+    "Description": "Heavy-duty equipment for large-scale manufacturing.",
+    "SortOrder": 0,
+    "IsDeleted": false,
+    "CreatedAt": "2026-06-16T07:58:40.4541240"
+  },
+  {
+    "Id": "6600ACBF-8D6F-4112-8E99-FD1D8645DD28",
+    "CompanyId": "9BD5707F-3839-4000-9370-19E88782240F",
+    "RangeName": "Roofing Fittings & Accessories",
+    "Description": "Components for roofing installations",
+    "SortOrder": 2,
+    "IsDeleted": false,
+    "CreatedAt": "2026-06-19T08:10:52.2285167"
+  },
+  {
+    "Id": "CE035B7E-87C9-42AA-8464-FDC4FB4B8F8C",
+    "CompanyId": "3C381EAB-A87F-4C7D-BA89-419ADD72C68C",
+    "RangeName": "Commercial Plywood",
+    "Description": "Durable plywood for general applications",
+    "SortOrder": 0,
+    "IsDeleted": false,
+    "CreatedAt": "2026-06-17T08:45:38.8507223",
+    "UpdatedAt": "2026-08-09T10:51:09.3744766"
+  },
+  {
+    "Id": "4713889C-1B47-4084-A7AF-FDD544136250",
+    "CompanyId": "A25BB45A-D34D-4290-80DD-70CA4346DEE9",
+    "RangeName": "Plywood",
+    "Description": "Durable sheets for furniture and construction",
+    "SortOrder": 1,
+    "IsDeleted": false,
+    "CreatedAt": "2026-06-18T10:13:02.3788496"
+  },
+  {
+    "Id": "622CCB98-C6BC-4EC6-A60A-FE9D84117DB2",
+    "CompanyId": "E8A85074-144D-4708-87F3-9EC71EE34472",
+    "RangeName": "Processing & Packaging Machines:",
+    "Description": "High-efficiency systems for end-of-line production.",
+    "SortOrder": 2,
+    "IsDeleted": false,
+    "CreatedAt": "2026-06-16T07:58:40.4678910"
+  }
+]

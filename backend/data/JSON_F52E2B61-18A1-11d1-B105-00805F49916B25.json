@@ -1,0 +1,26 @@
+﻿[
+  {
+    "Id": "6FCE71E1-EF7B-45D6-BFA1-0DE077F56A52",
+    "PostId": "D1F47B2E-F39C-4476-AF09-B8B3C571A71A",
+    "AskedByUserId": "B6D830E5-163F-4854-B521-B566BE3B4881",
+    "QueryText": "Can you furnish more insight on this and how customer sentiments and behavior will drive EV market in 2026-27",
+    "Status": "Pending",
+    "AskedAt": "2026-05-21T03:57:08.2166179"
+  },
+  {
+    "Id": "4059EF18-51CF-4C37-9236-684C64560D3E",
+    "PostId": "602F2453-A3DE-4750-AC1C-2913ED5283D5",
+    "AskedByUserId": "55EA91A7-2F98-4F13-AF3D-79DF503E8131",
+    "QueryText": "v1",
+    "Status": "Pending",
+    "AskedAt": "2026-07-26T09:21:27.3197907"
+  },
+  {
+    "Id": "DC4B398D-95BA-471B-BFB7-C7C8E89BFBCF",
+    "PostId": "08E4895E-32A2-4425-A2AA-D837E766EB9C",
+    "AskedByUserId": "01E94826-352A-4F6C-993B-43EC8FBD9453",
+    "QueryText": "string",
+    "Status": "Pending",
+    "AskedAt": "2026-05-20T09:17:21.0672298"
+  }
+]

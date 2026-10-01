@@ -1,0 +1,24 @@
+﻿[
+  {
+    "Id": "72D24BC4-5B6C-41E1-B122-4320942C3940",
+    "B2BProposalId": "8FD5DF9C-256F-4906-B5E0-B267E00FD276",
+    "FileUrl": "/uploads/temp/ef43adaa-0e68-4851-8469-e35dce553626.pptx",
+    "FileName": "BONC Network - Newsletter.pptx",
+    "FileType": "pptx",
+    "FileSize": 363547,
+    "SortOrder": 1,
+    "CreatedAt": "2026-05-23T14:58:00.9331477",
+    "IsDeleted": false
+  },
+  {
+    "Id": "ECEC9422-D2ED-4A5E-9A00-FA964BB2CF8C",
+    "B2BProposalId": "8FD5DF9C-256F-4906-B5E0-B267E00FD276",
+    "FileUrl": "/uploads/temp/a08b2fb4-3fdb-477f-b0cf-32651fe93760.pdf",
+    "FileName": "BONC_Network_Brochure_v6.pdf",
+    "FileType": "pdf",
+    "FileSize": 161305,
+    "SortOrder": 2,
+    "CreatedAt": "2026-05-23T14:58:00.9331482",
+    "IsDeleted": false
+  }
+]

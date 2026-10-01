@@ -1,0 +1,58 @@
+﻿[
+  {
+    "BusinessTypeId": "2D900AFA-D89A-4E6D-B450-147C6E9A74B8",
+    "BusinessTypeName": "Agency"
+  },
+  {
+    "BusinessTypeId": "F7B1C77D-0127-417F-BBA0-3DFD6B7DD6A6",
+    "BusinessTypeName": "Customer Support"
+  },
+  {
+    "BusinessTypeId": "65723BB0-157D-4588-B62F-804FFE0073B0",
+    "BusinessTypeName": "Dealer"
+  },
+  {
+    "BusinessTypeId": "66253E6F-EABC-4FD3-B6EC-5795D9257BD6",
+    "BusinessTypeName": "Distributor"
+  },
+  {
+    "BusinessTypeId": "136EEAFD-AB2F-4B8A-A0FC-CB8F09F75D7D",
+    "BusinessTypeName": "Exporter"
+  },
+  {
+    "BusinessTypeId": "9C422311-42CA-4D8A-8525-5C9C09CD2516",
+    "BusinessTypeName": "Franchise"
+  },
+  {
+    "BusinessTypeId": "16770983-68DF-4F46-B6C5-363ABFC4C2DE",
+    "BusinessTypeName": "Importer"
+  },
+  {
+    "BusinessTypeId": "2513883F-A0AC-48DC-B31B-2CB96830F7B7",
+    "BusinessTypeName": "Infra Developer"
+  },
+  {
+    "BusinessTypeId": "0668267A-099F-41ED-BD6A-9E359945552D",
+    "BusinessTypeName": "Manufacturer"
+  },
+  {
+    "BusinessTypeId": "40E276B4-D74C-44D4-BF4F-7C995BC0992A",
+    "BusinessTypeName": "Processor"
+  },
+  {
+    "BusinessTypeId": "EF9D0BB5-1D67-49BD-83A2-B3887C57BACA",
+    "BusinessTypeName": "Producer"
+  },
+  {
+    "BusinessTypeId": "55994E84-9CFB-4294-A4EA-07CC781E6EEA",
+    "BusinessTypeName": "Reseller"
+  },
+  {
+    "BusinessTypeId": "3701B04A-F9A2-40F0-94E2-3FCB385097EB",
+    "BusinessTypeName": "Services"
+  },
+  {
+    "BusinessTypeId": "82423B08-A856-4AEE-A090-9F674087BAB7",
+    "BusinessTypeName": "Trader"
+  }
+]

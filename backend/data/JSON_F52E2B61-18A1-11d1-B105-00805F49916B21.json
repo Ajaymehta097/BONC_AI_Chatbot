@@ -1,0 +1,212 @@
+﻿[
+  {
+    "PlanFeatureId": "A7ACAB88-3E65-422F-BEF8-02E8D72309E7",
+    "Name": "Add Brochure",
+    "PlanId": "04508D14-94BB-4A09-8D70-9D62CE867F9F"
+  },
+  {
+    "PlanFeatureId": "6CAAD421-3FD4-48C7-8D56-08AF0B2E651D",
+    "Name": "Upload Product Videos",
+    "PlanId": "04508D14-94BB-4A09-8D70-9D62CE867F9F"
+  },
+  {
+    "PlanFeatureId": "2A2A4474-9462-4082-B760-0C1470E2FD12",
+    "Name": "Profile management",
+    "PlanId": "04508D14-94BB-4A09-8D70-9D62CE867F9F"
+  },
+  {
+    "PlanFeatureId": "E60AC113-D76B-4B50-891F-0E5266514B44",
+    "Name": "Choose upto 5 products marketing",
+    "PlanId": "6111CBF6-D514-4074-823D-1BE8B55DB7BF"
+  },
+  {
+    "PlanFeatureId": "45FA6BBD-F3B5-4089-97B5-17CEBF0A93AB",
+    "Name": "Highly Secure Contact Details",
+    "PlanId": "04508D14-94BB-4A09-8D70-9D62CE867F9F"
+  },
+  {
+    "PlanFeatureId": "200DCC68-1E45-4BEA-8C9A-22E30DEFCF1F",
+    "Name": "Everything in Premium",
+    "PlanId": "EE13B0EF-8C79-4552-ABA6-84A42098D4C6"
+  },
+  {
+    "PlanFeatureId": "27F0A270-0BF0-4E24-B58D-26237AD9B6AC",
+    "Name": "Upload Company Logo",
+    "PlanId": "04508D14-94BB-4A09-8D70-9D62CE867F9F"
+  },
+  {
+    "PlanFeatureId": "E0B01DC2-E84C-454B-BD98-39336D6F0FD8",
+    "Name": "One-week BONC front page presence",
+    "PlanId": "6111CBF6-D514-4074-823D-1BE8B55DB7BF"
+  },
+  {
+    "PlanFeatureId": "03B267F2-392A-4F49-A503-39C0F2490F8A",
+    "Name": "Send upto 200 Enquiries per month",
+    "PlanId": "6111CBF6-D514-4074-823D-1BE8B55DB7BF"
+  },
+  {
+    "PlanFeatureId": "90EE8120-1937-4D15-9754-3D1FFB472F61",
+    "Name": "Interactive Business Profile page",
+    "PlanId": "04508D14-94BB-4A09-8D70-9D62CE867F9F"
+  },
+  {
+    "PlanFeatureId": "07564DE0-0C21-4A2F-920D-3D29A93575F8",
+    "Name": "Product Listing",
+    "PlanId": "B9D3E9C9-4306-4DC0-AC62-F7BF937E2850"
+  },
+  {
+    "PlanFeatureId": "091BA3C8-FFB3-4069-A075-3F6112AFE054",
+    "Name": "Dedicated support",
+    "PlanId": "EE13B0EF-8C79-4552-ABA6-84A42098D4C6"
+  },
+  {
+    "PlanFeatureId": "A4777DFD-68F7-490B-BF3A-420D9700F833",
+    "Name": "Business Sub Domain",
+    "PlanId": "04508D14-94BB-4A09-8D70-9D62CE867F9F"
+  },
+  {
+    "PlanFeatureId": "7CA36D11-9A9A-435A-9537-47E404AD2627",
+    "Name": "Verified badge",
+    "PlanId": "EE13B0EF-8C79-4552-ABA6-84A42098D4C6"
+  },
+  {
+    "PlanFeatureId": "AEE62E22-FFB0-4173-8AB3-56EA14B8EE6F",
+    "Name": "Everything in Start Now",
+    "PlanId": "6111CBF6-D514-4074-823D-1BE8B55DB7BF"
+  },
+  {
+    "PlanFeatureId": "D58960D4-3487-4A92-AE31-5703DDFD23D5",
+    "Name": "Upload 3 images per product",
+    "PlanId": "04508D14-94BB-4A09-8D70-9D62CE867F9F"
+  },
+  {
+    "PlanFeatureId": "BDA524EA-C806-4C44-81AC-646A1561E931",
+    "Name": "Certification listing",
+    "PlanId": "04508D14-94BB-4A09-8D70-9D62CE867F9F"
+  },
+  {
+    "PlanFeatureId": "02C7B4B7-212D-46F0-BB37-6B1C99A982A1",
+    "Name": "Profile Management",
+    "PlanId": "B9D3E9C9-4306-4DC0-AC62-F7BF937E2850"
+  },
+  {
+    "PlanFeatureId": "F3C357D3-89A0-4DC2-8D07-71B13A51EF9A",
+    "Name": "Priority search listing",
+    "PlanId": "74C6EC7B-C2E5-4639-9C57-9AC6D9B0F5D3"
+  },
+  {
+    "PlanFeatureId": "51ABD603-13EA-4146-BEC2-75B8F3542A8C",
+    "Name": "Lead notifications",
+    "PlanId": "74C6EC7B-C2E5-4639-9C57-9AC6D9B0F5D3"
+  },
+  {
+    "PlanFeatureId": "EAC2E849-FA1B-40A5-9C7F-8527A8B37CE7",
+    "Name": "Featured profile on homepage",
+    "PlanId": "EE13B0EF-8C79-4552-ABA6-84A42098D4C6"
+  },
+  {
+    "PlanFeatureId": "56B107F1-C972-4D4B-81DB-87487B63F22D",
+    "Name": "Advanced analytics dashboard",
+    "PlanId": "EE13B0EF-8C79-4552-ABA6-84A42098D4C6"
+  },
+  {
+    "PlanFeatureId": "783FCF94-6E97-4A7E-824A-8B26419F0B36",
+    "Name": "Premium Profile management",
+    "PlanId": "6111CBF6-D514-4074-823D-1BE8B55DB7BF"
+  },
+  {
+    "PlanFeatureId": "AFA8DCDD-87B0-4EC8-805C-8B3190C107FE",
+    "Name": "Send upto 100 Business Enquiries",
+    "PlanId": "04508D14-94BB-4A09-8D70-9D62CE867F9F"
+  },
+  {
+    "PlanFeatureId": "60C07846-339B-4261-9DBD-8FC0C5E9CBE6",
+    "Name": "100+ Product Listing",
+    "PlanId": "04508D14-94BB-4A09-8D70-9D62CE867F9F"
+  },
+  {
+    "PlanFeatureId": "8636C4BA-F7D5-49F6-B2E1-9594417F834A",
+    "Name": "Membership Certification",
+    "PlanId": "04508D14-94BB-4A09-8D70-9D62CE867F9F"
+  },
+  {
+    "PlanFeatureId": "41329AC4-D8BF-4BF4-AA5D-96DC9996FC69",
+    "Name": "WhatsApp Notifications",
+    "PlanId": "04508D14-94BB-4A09-8D70-9D62CE867F9F"
+  },
+  {
+    "PlanFeatureId": "68743ACF-968A-4643-9726-9D1F0534336D",
+    "Name": "RFI, RFP, Quotation Management",
+    "PlanId": "04508D14-94BB-4A09-8D70-9D62CE867F9F"
+  },
+  {
+    "PlanFeatureId": "8C122082-C8C1-4313-9261-9DBEA1781EEA",
+    "Name": "Create Business Showcase",
+    "PlanId": "04508D14-94BB-4A09-8D70-9D62CE867F9F"
+  },
+  {
+    "PlanFeatureId": "E24E3093-D6AF-49D4-B892-9DDAEB14A189",
+    "Name": "Receive upto 50 dual verified enquiries",
+    "PlanId": "04508D14-94BB-4A09-8D70-9D62CE867F9F"
+  },
+  {
+    "PlanFeatureId": "69C6B632-CDD1-4019-AB32-9F50B15A0E87",
+    "Name": "Receive upto 100 dual verified Enquiries",
+    "PlanId": "6111CBF6-D514-4074-823D-1BE8B55DB7BF"
+  },
+  {
+    "PlanFeatureId": "563B47A1-F6B3-4FCA-A7DD-A556448F3B01",
+    "Name": "Unlimited portfolio uploads",
+    "PlanId": "74C6EC7B-C2E5-4639-9C57-9AC6D9B0F5D3"
+  },
+  {
+    "PlanFeatureId": "353232C4-1A78-463D-8472-AA2AFA57127D",
+    "Name": "Everything in Standard",
+    "PlanId": "74C6EC7B-C2E5-4639-9C57-9AC6D9B0F5D3"
+  },
+  {
+    "PlanFeatureId": "0B717E60-E8CD-4E2A-B122-B44B3CFC345B",
+    "Name": "CRM & Lead Management",
+    "PlanId": "04508D14-94BB-4A09-8D70-9D62CE867F9F"
+  },
+  {
+    "PlanFeatureId": "481A2404-94D7-4A04-B732-B4A797A07B31",
+    "Name": "Lead Validation (24 Hours)",
+    "PlanId": "04508D14-94BB-4A09-8D70-9D62CE867F9F"
+  },
+  {
+    "PlanFeatureId": "1A03332D-0569-4EB4-BECA-BECB676E5747",
+    "Name": "Profile marketing",
+    "PlanId": "6111CBF6-D514-4074-823D-1BE8B55DB7BF"
+  },
+  {
+    "PlanFeatureId": "71FF3651-EFDA-4F18-A3D7-C9D75CBA271E",
+    "Name": "Home Page Popular Branding",
+    "PlanId": "D3AC22B6-2224-4C0B-BC86-7E9A29AB80C7"
+  },
+  {
+    "PlanFeatureId": "195AF02C-1747-4F4E-B46C-DBBB939D1485",
+    "Name": "Home Page Premium Branding",
+    "PlanId": "2CF109E8-69B1-4343-9D1F-A7CBB0A06ECD"
+  },
+  {
+    "PlanFeatureId": "3A4E030F-6263-459C-8AE2-DBDB7E055E6E",
+    "Name": "Top priority listing",
+    "PlanId": "EE13B0EF-8C79-4552-ABA6-84A42098D4C6"
+  },
+  {
+    "PlanFeatureId": "0FB1D279-939B-453C-8D1D-E56E34353A4F",
+    "Name": "Additional Business Banner",
+    "PlanId": "04508D14-94BB-4A09-8D70-9D62CE867F9F"
+  },
+  {
+    "PlanFeatureId": "9E4462CE-FA4D-4E00-A8AD-EA41775A090A",
+    "Name": "WhatsApp / Call integration",
+    "PlanId": "74C6EC7B-C2E5-4639-9C57-9AC6D9B0F5D3"
+  },
+  {
+    "PlanFeatureId": "00137092-4899-4985-BD05-EBC60C0D8133",
+    "Name": "Basic analytics",
+    "PlanId": "74C6EC7B-C2E5-4639-9C57-9AC6D9B0F5D3"
+  }
+]

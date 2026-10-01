@@ -1,0 +1,60 @@
+﻿[
+  {
+    "BrandTypeId": "4008E429-E5E1-42B8-AEF0-21A0A23D1D2D",
+    "TypeName": "Premium Mkt",
+    "IsDeleted": false,
+    "CreatedBy": "System",
+    "CreatedOn": "2026-06-30T07:20:01.6500000"
+  },
+  {
+    "BrandTypeId": "141FE1B6-A770-46BB-BAF3-225614E85FB9",
+    "TypeName": "Premium",
+    "IsDeleted": false,
+    "CreatedOn": "2026-04-14T05:20:48.3700000",
+    "LastUpdatedBy": "admin@boncnetwork.com",
+    "UpdatedOn": "2026-09-02T05:10:42.9994806"
+  },
+  {
+    "BrandTypeId": "FA7AE26C-F2F1-4B13-86F6-3F564EAA898B",
+    "TypeName": "Search page Mkt",
+    "IsDeleted": false,
+    "CreatedBy": "System",
+    "CreatedOn": "2026-06-30T07:20:01.6500000"
+  },
+  {
+    "BrandTypeId": "1090978A-CC1A-406B-A56D-47FFA2AFB36A",
+    "TypeName": "Popular",
+    "IsDeleted": false,
+    "CreatedOn": "2026-04-14T05:20:48.3700000",
+    "LastUpdatedBy": "admin@boncnetwork.com",
+    "UpdatedOn": "2026-09-02T05:11:00.9588178"
+  },
+  {
+    "BrandTypeId": "5004C655-CB14-475B-BB71-4F2B41B6C837",
+    "TypeName": "Featured",
+    "IsDeleted": false,
+    "CreatedOn": "2026-04-14T05:20:48.3700000"
+  },
+  {
+    "BrandTypeId": "80CC9ECC-90E6-499C-8472-528A7A1FD861",
+    "TypeName": "Category page Mkt",
+    "IsDeleted": false,
+    "CreatedBy": "System",
+    "CreatedOn": "2026-06-30T07:20:01.6500000"
+  },
+  {
+    "BrandTypeId": "43B181D4-8C6B-449F-9E8B-69E0C1BAADED",
+    "TypeName": "Sponsor",
+    "IsDeleted": false,
+    "CreatedOn": "2026-04-14T05:20:48.3700000",
+    "LastUpdatedBy": "admin@boncnetwork.com",
+    "UpdatedOn": "2026-09-02T05:11:46.6641987"
+  },
+  {
+    "BrandTypeId": "4D0C1038-2DDD-4D52-AB59-A9B2465961D9",
+    "TypeName": "Business page Mkt",
+    "IsDeleted": false,
+    "CreatedBy": "System",
+    "CreatedOn": "2026-06-30T07:20:01.6500000"
+  }
+]
